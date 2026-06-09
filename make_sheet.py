@@ -178,6 +178,21 @@ companies = [
     (167,"DevX","devx.work","Coworking / Startup Infra","—","contact","","","","","Medium","GIFT Tower 1 Gandhinagar; startup coworking; apply via website"),
     # ── ROUND 5: Mytron Labs + founder emails ────────────────────────────────
     (168,"MyTron Labs","mytronlabs.com","Physical AI / Robotics Data","founders@mytronlabs.com","contact","Priyank Patel","Co-Founder","priyank@mytronlabs.com","","High","VERIFIED ✅ — also aditya@mytronlabs.com; Physical AI data backbone"),
+    # ── ROUND 6: More Gandhinagar / Infocity / Kudasan companies ─────────────
+    (169,"Heptagon Global Services","heptagonservices.com","Web Dev / SEO / DevOps","sales@heptagonservices.com","contact","","","","","High","Kudasan Gandhinagar; also Canada office"),
+    (170,"Hats Off Solutions","hatsoffsolutions.com","Software / Web / IoT","info@hatsoffsolutions.com","contact","","","","","High","302 Siddhraj Zori, Sargasan Gandhinagar; also USA office"),
+    (171,"Quest Infosense","questinfosense.com","App Dev / Web Dev","biz@questinfosense.com","contact","","","","","High","702 Capital Icon, Sargasan Gandhinagar; also USA/Canada"),
+    (172,"Dreams Technology","dreams-technology.com","Web / Mobile / Laravel","info@dreams-technology.com","contact","","","","","High","B-111 Swagat Rainforest-2, Kudasan Gandhinagar"),
+    (173,"The Intech Group","theintechgroup.com","Enterprise Software / Cloud","contact@ics-global.in","contact","","","resume@ics-global.in","","High","IT Tower 3 Infocity Gandhinagar; RESUME EMAIL ✅ + Dubai office"),
+    (174,"TechAvidus","techavidus.com","App Dev / Web Dev","hr@techavidus.com","careers","","","","","High","DIRECT HR EMAIL ✅ — also hello@; 405 Shikshapatri Biz Hub Kudasan"),
+    (175,"eVision IT Solution","evisionits.com","CMS / Web / Digital","info@evisionits.com","contact","","","","","High","Gandhinagar + Dubai (3705 Citadel Tower Business Bay) ✅"),
+    (176,"CSIT Park","csitpark.com","IT Services / Cloud / Data","hello@csitpark.com","contact","","","","","High","D-513 VTC Kudasan Gandhinagar; 25+ years"),
+    (177,"Xopple Infotech","xopple.com","Web / Mobile / SEO","info@xopple.com","contact","","","","","High","C-435 Pramukh Mastana Complex Kudasan Gandhinagar"),
+    (178,"Accrete Infosolution","accreteinfo.com","PHP / React / Laravel","hr@accreteinfo.com","careers","","","","","High","DIRECT HR EMAIL ✅ — also sales@; IT Tower-1 Infocity Gandhinagar"),
+    (179,"Haraxy Technologies","haraxy.co","Bespoke Software / Games","info@haraxy.co","contact","","","","","High","Sargasan Gandhinagar; also letstalk@haraxy.co"),
+    (180,"iPredict IT Solutions","ipredictitsolutions.com","Odoo / IT Consulting","info@ipredictitsolutions.com","contact","","","","","High","602 Pratik Mall Kudasan Gandhinagar; Odoo specialist"),
+    (181,"Niharika Softweb","niharikasofttech.com","Software Dev","info@niharikasoftweb.com","contact","","","","","Medium","Pramukh Mastana Arcade Kudasan Gandhinagar"),
+    (182,"AlpsLogic IT Solutions","alpslogic.in","UI/Cloud/Mobile","—","contact","","","","","Medium","415-419 Shree Ugati Corporate Park Kudasan Gandhinagar"),
 ]
 
 hr_contacts = [
