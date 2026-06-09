@@ -200,6 +200,10 @@ companies = [
     (186,"Airbow IT Services","airbow.io","Web Dev / Digital Marketing","info@airbow.io","contact","","","","","High","502 Siddhraj Z Square Kudasan Gandhinagar; also UK office"),
     (187,"Cognizant GIFT City","cognizant.com","IT Services / BFSI / AI","—","careers","","","","https://careers.cognizant.com/global-en/gift-city-interview-invitational/","High","NEW center in GIFT City; hiring Software Devs, Full Stack, Data Analysts"),
     (188,"Hexaware GIFT City","hexaware.com","TechFin / IT Services","—","careers","","","","https://hexaware.com/careers/","High","Setting up TechFin centre at GIFT City; 500 jobs announced"),
+    # ── ROUND 8: Final Gandhinagar batch ─────────────────────────────────────
+    (189,"C-Metric Solutions","c-metric.com","Enterprise Software / MS Partner","info@c-metric.com","contact","","","","","High","302 IT Tower-2 Infocity Gandhinagar; also sales@; USA office; Microsoft Silver Partner"),
+    (190,"Bugle Technologies","bugle.in","Digital Consulting / Product Dev","sales@bugle.in","contact","","","","","High","Plot 520 Sector-1 Gandhinagar; founded 2006; also USA office"),
+    (191,"Signzy","signzy.com","AI Fintech / Digital Trust","connect@signzy.com","contact","","","","https://www.signzy.com/careers","High","AI-based fintech; GIFT City presence; cross-border payments"),
 ]
 
 hr_contacts = [
