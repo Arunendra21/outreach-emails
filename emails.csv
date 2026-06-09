@@ -1,0 +1,144 @@
+#,Company,Website,Category,Email,Email Type,HR Name,HR Title,HR Direct Email,LinkedIn,Priority,Notes
+1,Blink22,blink22.com,Web Dev,hello@blink22.com,contact,,,,, Medium,Send cold email
+2,Shakuro,shakuro.com,Web/UX,hi@shakuro.com,contact,,,,,Medium,Send cold email
+3,ExpandX,expandx.ae,Web Dev,info@expandx.ae,contact,,,,,High,Dubai-based
+4,Digital Gravity,digitalgravity.ae,Web Dev,discover@digitalgravity.ae,contact,,,,,High,Dubai-based; email scraped from contact page
+5,Branex,branex.ae,Web Design,info@branex.ae,contact,,,,,High,Dubai-based
+6,BI Communications,bicommunications.ae,Web Dev,info@bicommunications.ae,contact,,,,,High,Dubai-based
+7,Synergy Labs,synergylabs.co,App Dev,hi@synergylabs.co,contact,,,,,Medium,Send cold email
+8,7EDGE,7edge.com,Software Dev,hello@7edge.com,contact,,,,,Medium,Send cold email
+9,GoodCore Software,goodcoresoft.com,Software Dev,hello@goodcoresoft.com,contact,,,,,Medium,Send cold email
+10,Net Solutions,netsolutions.com,Web Dev,hello@netsolutions.com,contact,,,,,Medium,Send cold email
+11,Webdew,webdew.com,Web Dev,info@webdew.com,contact,,,,,Medium,Send cold email
+12,Intelivita,intelivita.com,App Dev,hello@intelivita.com,contact,,,,,Medium,Send cold email
+13,Finoit Technologies,finoit.com,SaaS Dev,hello@finoit.com,contact,,,,,Medium,Send cold email
+14,Simform,simform.com,Engineering,business@simform.com,contact,,,,,Medium,Send cold email
+15,TechAhead,techaheadcorp.com,App Dev,info@techaheadcorp.com,contact,,,,,Medium,Send cold email
+16,Appinventiv,appinventiv.com,App Dev,career@appinventiv.com,careers,,,,,Medium,DIRECT CAREER EMAIL
+17,Mindinventory,mindinventory.com,App Dev,info@mindinventory.com,contact,,,,,Medium,Send cold email
+18,Bacancy Technology,bacancytechnology.com,Web Dev,info@bacancytechnology.com,contact,,,,,Medium,Send cold email
+19,Cubix,cubix.co,App/Game Dev,hello@cubix.co,contact,,,,,Medium,Send cold email
+20,SoluLab,solulab.com,Blockchain/Web,hello@solulab.com,contact,,,,,Medium,Send cold email
+21,Apptunix,apptunix.com,App Dev,info@apptunix.com,contact,,,,,Medium,Send cold email
+22,Matellio,matellio.com,Software Dev,info@matellio.com,contact,,,,,Medium,Send cold email
+23,IndiaNIC,indianic.com,App Dev,hello@indianic.com,contact,,,,,Medium,Send cold email
+24,OpenXcell,openxcell.com,App Dev,contact@openxcell.com,contact,,,,,Medium,Send cold email
+25,Brainvire,brainvire.com,Web/Cloud,info@brainvire.com,contact,,,,,Medium,Send cold email
+26,Zealous System,zealousys.com,App Dev,bd@zealousys.com,contact,,,,,Medium,BD team
+27,Hidden Brains,hiddenbrains.com,App Dev,hr@hiddenbrains.com,careers,,,,,Medium,DIRECT HR EMAIL
+28,ValueCoders,valuecoders.com,Outsource Dev,sales@valuecoders.com,contact,,,,,Medium,Sales team
+29,ToXSL Technologies,toxsl.com,Web Dev,sales@toxsl.com,contact,,,,,Medium,Send cold email
+30,Successive Technologies,successive.tech,Cloud Dev,hello@successive.tech,contact,,,,,Medium,Send cold email
+31,Rishabh Software,rishabhsoft.com,Enterprise Dev,info@rishabhsoft.com,contact,,,,,Medium,Send cold email
+32,Narola Infotech,narolainfotech.com,Web Dev,inquiry@narolainfotech.com,contact,Raj,,raj@narolainfotech.com,,Medium,Named person scraped
+33,Techuz,techuz.com,App Dev,hello@techuz.com,contact,,,,,Medium,Send cold email
+34,Clavax Technologies,clavax.com,App Dev,hr@clavax.com,careers,,,,,Medium,DIRECT HR EMAIL + sales@clavax.com
+35,Vinfotech,vinfotech.com,Sports Dev,info@vinfotech.com,contact,,,,,Medium,Send cold email
+36,Algoworks,algoworks.com,Salesforce/Web,info@algoworks.com,contact,,,,,Medium,Send cold email
+37,Quytech,quytech.com,Blockchain/AI,hr@quytech.com,careers,,,,,Medium,DIRECT HR EMAIL + sales@quytech.com
+38,Astra Tech,astratech.ae,AI/Fintech,info@astratech.ae,contact,,,,,High,Dubai AI company
+39,ai71,ai71.ai,AI Products,contact@ai71.ai,contact,,,,,High,UAE AI company
+40,Plavno,plavno.io,AI/Web Dev,hello@plavno.io,contact,,,,,Medium,Send cold email
+41,Sarwa,sarwa.co,Fintech,hello@sarwa.co,contact,,,,,High,Dubai fintech
+42,Beehive,beehive.ae,Fintech,hello@beehive.ae,contact,,,,,High,Dubai fintech
+43,NOW Money,nowmoney.me,Fintech,hello@nowmoney.me,contact,,,,,High,Dubai fintech
+44,Tabby,tabby.ai,BNPL,hello@tabby.ai,contact,,,,,High,Apply via portal + cold email
+45,Ziina,ziina.com,Payments,partnerships@ziina.com,contact,,,,,High,partnerships@ scraped
+46,Stake,getstake.com,PropTech,hello@getstake.com,contact,,,,,High,Dubai PropTech
+47,PayTabs,paytabs.com,Payments,uaesales@paytabs.com,contact,,,,,High,UAE payments
+48,Telr,telr.com,Payments,sales@telr.com,contact,,,,,High,Multiple emails: sales@ support@ partner@ marketing@
+49,Tarabut Gateway,tarabut.com,Open Banking,hello@tarabut.com,contact,,,,,High,UAE Open Banking
+50,Lean Technologies,leantech.me,Open Banking,hello@leantech.me,contact,,,,,High,UAE Open Banking
+51,Property Finder,propertyfinder.ae,PropTech,careers@propertyfinder.ae,careers,,,,,High,Direct HR inbox
+52,Dubizzle,dubizzle.com,Classifieds,careers@dubizzle.com,careers,,,,,High,Direct HR inbox
+53,Bayut,bayut.com,PropTech,careers@bayut.com,careers,Mirna Al Sayegh,Sr. TA Specialist,,,High,Email careers@ AND DM Mirna
+54,Huspy,huspy.com,PropTech,hello@huspy.com,contact,John Michael Razon,People Team,john.razon@huspy.io,,High,VERIFIED
+55,Ajar Online,ajaronline.com,PropTech,hello@ajaronline.com,contact,,,,,High,Dubai PropTech
+56,Vezeeta,vezeeta.com,HealthTech,hello@vezeeta.com,contact,,,,,High,UAE HealthTech
+57,Okadoc,okadoc.com,HealthTech,hello@okadoc.com,contact,,,,,High,Dubai HealthTech
+58,Altibbi,altibbi.com,HealthTech,info@altibbi.com,contact,,,,,High,UAE HealthTech
+59,Bayzat,bayzat.com,HR Tech,hello@bayzat.com,contact,Sanjo Joshi,Sr. Talent Resourcer,sanjo.joshi@bayzat.com (est),,High,DM LinkedIn
+60,Rise,rise.ae,HR Tech,hello@rise.ae,contact,,,,,High,Dubai HR Tech
+61,Fetchr,fetchr.us,Logistics,hello@fetchr.us,contact,,,,,Medium,Verify active
+62,CAFU,cafu.com,Logistics,hello@cafu.com,contact,Pranita Talukdar,HR Manager,,,High,DM LinkedIn
+63,Trukkin,trukkin.com,Logistics,info@trukkin.com,contact,,,,,High,Dubai logistics
+64,Swvl,swvl.com,Transit Tech,hello@swvl.com,contact,,,,,Medium,Verify if active
+65,Anghami,anghami.com,Music Tech,hello@anghami.com,contact,,,,,High,UAE music tech
+66,Yalla,yalla.live,Social/Gaming,bd@yalla.live,contact,,,,,High,Dubai gaming
+67,Kitopi,kitopi.com,FoodTech,hello@kitopi.com,contact,,,,,High,Dubai cloud kitchens
+68,Entertainer,theentertainerme.com,Loyalty Tech,hello@theentertainerme.com,contact,,,,,High,Dubai loyalty tech
+69,Cofe App,cofeapp.com,Retail Tech,hello@cofeapp.com,contact,,,,,High,Dubai retail tech
+70,Bayt.com,bayt.com,Job Platform,support@bayt.com,contact,,,,,High,UAE job platform
+71,Careem,careem.com,SuperApp,careers@careem.com,careers,,,,,High,Direct HR careers email
+72,Noon,noon.com,eCommerce,careers@noon.com,careers,,,,,High,Confirmed direct careers email
+73,Talabat,talabat.com,Food Delivery,inquiries@talabat.com,careers,,,,,High,Use inquiries@ + portal
+74,Saffron Tech,saffrontech.net,Web Dev,info@saffrontech.net,contact,,,,,Medium,Send cold email
+75,Itransition,itransition.com,Enterprise Dev,info@itransition.com,contact,,,,,Medium,Send cold email
+76,instinctools,instinctools.com,SaaS Dev,hello@instinctools.com,contact,,,,,Medium,Send cold email
+77,SDLC Corp,sdlccorp.com,Software Dev,hello@sdlccorp.com,contact,,,,,Medium,Send cold email
+78,G42,g42.ai,AI/Cloud,contact@g42.ai,contact,,,,,High,UAE AI giant
+79,Presight,presight.ai,AI/Analytics,info@presight.ai,contact,,,,,High,Abu Dhabi AI analytics
+80,Pure Harvest,pure-harvest.com,AgriTech,hello@pure-harvest.com,contact,,,,,High,UAE AgriTech
+81,Coda Payments,codapayments.com,Gaming/Payments,hello@codapayments.com,contact,,,,,Medium,Send cold email
+82,Workruit,workruit.com,HR Tech,hello@workruit.com,contact,,,,,Medium,Send cold email
+83,d1g1t,d1g1t.com,Fintech,info@d1g1t.com,contact,,,,,Medium,Send cold email
+84,Network International,networkinternational.ae,Payments,info@networkinternational.ae,contact,,,,,High,UAE payments giant
+85,Magnati,magnati.com,Payments,info@magnati.com,contact,,,,,High,UAE payments
+86,Elmenus,elmenus.com,FoodTech,hello@elmenus.com,contact,,,,,Medium,Send cold email
+87,GoBOLT,gobolt.com,Logistics,hello@gobolt.com,contact,,,,,Medium,Send cold email
+88,Etisalat Digital (e&),eand.com,Telecom/Tech,info@eand.com,contact,,,,,High,Major UAE telecom tech arm
+89,TekRevol,tekrevol.com,App/Web Dev,info@tekrevol.com,contact,,,,,High,Dubai-based
+90,PLAN A Technology,plana.tech,Software Dev,contact@plana.tech,contact,,,,,High,Dubai Silicon Oasis
+91,Team Rhino,teamrhino.ae,Web Dev,hello@teamrhinoltd.com,contact,,,,,High,Sheikh Zayed Rd Dubai
+92,Adapts Media,adaptsmedia.com,Digital Marketing,info@adaptsmedia.com,contact,Ankita,Manager,ankita@adaptsmedia.com,,High,Named person scraped
+93,Alaan,alaan.com,Fintech/Expense Mgmt,careers@alaanpay.com,careers,,,,,High,VERIFIED careers email
+94,Qashio,qashio.com,Fintech/Spend Mgmt,hello@qashio.com,contact,,,,,High,Dubai fintech
+95,NymCard,nymcard.com,Embedded Finance,careers@nymcard.com,careers,,,,,High,DIRECT CAREER EMAIL
+96,Baraka,baraka.io,Investment Tech,hello@baraka.io,contact,,,,,High,Dubai investment app
+97,BitOasis,bitoasis.net,Crypto/Blockchain,info@bitoasis.net,contact,,,,,High,Dubai crypto exchange
+98,Alef Education,alef.ae,EdTech/AI,info@alef.ae,contact,,,,,High,Dubai AI EdTech
+99,Help AG,helpag.com,Cybersecurity,info@helpag.com,contact,,,,,High,Dubai cyber defense
+100,Digital14,digital14.com,Digital/Cyber,info@digital14.com,contact,,,,,High,Abu Dhabi digital trust
+101,BRAVA 360 Digital,brava360.digital,Digital Agency,info@brava360.digital,contact,,,,,High,Dubai digital agency
+102,Digital Hub Sol,digitalhubsol.ae,Digital Marketing,info@digitalhubsol.ae,contact,,,,,High,Dubai digital agency
+103,Magneto IT Solutions,magnetoitsolutions.com,eCommerce Dev,info@magnetoitsolutions.com,contact,,,,,Medium,Send cold email
+104,BitsWits,bitswits.co,App Dev,info@bitswits.co,contact,,,,,Medium,Send cold email
+105,Soharon Infotech,soharon.com,App Dev,info@soharon.com,contact,,,,,Medium,Send cold email
+106,Hexagon IT Solutions,hexagonitsolutions.com,Software Dev,info@hexagonitsolutions.com,contact,,,,,Medium,Send cold email
+107,Computools,computools.com,Software Dev,info@computools.com,contact,,,,,Medium,Send cold email
+108,CraftedQ,craftedq.com,Design/Dev,info@craftedq.com,contact,,,,,Medium,Send cold email
+109,Dot IT,dotit.org,Web Dev,info@dotit.org,contact,,,,,High,Dubai web dev agency
+110,SEO Tech Experts,seotechexperts.ae,Digital Marketing,info@seotechexperts.ae,contact,,,,,High,Dubai-based
+111,KONSTANT INFOSOLUTIONS,konstantinfo.com,App Dev,info@konstantinfo.com,contact,,,,,Medium,Send cold email
+112,Kuchoriya TechSoft,kuchoriyatechsoft.com,App Dev,info@kuchoriyatechsoft.com,contact,,,,,Medium,Send cold email
+113,Quixta,quixta.com,Web Dev,info@quixta.com,contact,,,,,Medium,Send cold email
+114,GCC Marketing,gcc-marketing.com,Digital Marketing,info@gcc-marketing.com,contact,,,,,High,Dubai digital marketing
+115,Incrementors,incrementors.com,Digital Marketing,info@incrementors.com,contact,,,,,Medium,Send cold email
+116,Classera,classera.com,EdTech,info@classera.com,contact,,,,,High,Saudi/UAE EdTech
+117,Glimpse,theglimpseproject.com,Creative Tech,info@theglimpseproject.com,contact,,,,,High,Dubai creative agency
+118,Suffescom Solutions,suffescom.com,Blockchain/Web,info@suffescom.com,contact,,,,,Medium,Send cold email
+119,Probey Services,probeyservices.com,Web Dev,info@probeyservices.com,contact,,,,,Medium,Send cold email
+120,EffectiveSoft,effectivesoft.com,Enterprise Dev,info@effectivesoft.com,contact,,,,,Medium,Send cold email
+121,Enova by Veolia,enova-me.com,Facility/Energy Tech,recruitment@enova-me.com,careers,,,,,High,VERIFIED recruitment inbox
+122,Melodica UAE,melodica.ae,EdTech/Music,sasha.w@melodica.ae,careers,Sasha W.,Hiring Manager,sasha.w@melodica.ae,,High,VERIFIED named contact
+123,Deriv,deriv.com,Fintech/Trading,recruitment@deriv.com,careers,Hesilin Pouzi,TA Specialist,hesilin.pouzi@deriv.com (est),,High,Dubai office
+124,Emirates Group,careers.emirates.com,Aviation/Tech,careers@emirates.com,careers,,,,,High,Paid internship 4000 AED/month
+125,Mubadala Investment,mubadala.com,Investment/Tech,careers@mubadala.com,careers,,,,,High,Abu Dhabi sovereign fund
+126,BCG X Dubai,bcg.com,Consulting/AI,careers-uae@bcg.com,careers,,,,,High,CONFIRMED AI internships 2026
+127,Thales UAE,thalesgroup.com,Defense/Tech,careers-uae@thalesgroup.com,careers,,,,,High,CONFIRMED AI/ML intern roles 2026
+128,Carmatec,carmatec.com,Software Dev,careers@carmatec.com,careers,,,teamhr@carmatec.com,,Medium,careers@ + teamhr@ confirmed
+129,SISGAIN,sisgain.ae,Software Dev,hr@sisgain.ae,careers,,,,,High,DIRECT HR EMAIL
+130,AIQU Solutions,aiqusearch.com,AI/Recruitment Tech,hello@aiqusearch.com,contact,,,,,High,Abu Dhabi/Dubai/Riyadh
+131,Quickwork,quickwork.co,Integration/SaaS,info@quickwork.co,contact,,,,,Medium,Send cold email
+132,Hyperlink InfoSystem,hyperlinkinfosystem.com,App Dev,info@hyperlinkinfosystem.com,contact,,,,,Medium,Send cold email
+133,Xicom Technologies,xicom.biz,Software Dev,info@xicom.biz,contact,,,,,Medium,Dubai Business Bay
+134,CodeNinja,codeninja.ae,App Dev,info@codeninja.ae,contact,,,,,High,Dubai-based
+135,iCreativez Technology,icreativez.com,Web Dev,info@icreativez.com,contact,,,,,Medium,Dubai + Pakistan + Qatar
+136,Careem for Work,careemforwork.com,CorpTech,careers@careemforwork.com,careers,,,,,High,Careem B2B arm
+137,Talabat Tech,tech.talabat.com,FoodTech/Engineering,tech@talabat.com,contact,,,,,High,Confirmed AI Engineer Intern 2026
+138,Phaedra Solutions,phaedrasolutions.com,Software Dev,hello@phaedrasolutions.com,contact,,,,,High,Dubai + UK + USA
+139,Vision Technologies,visiontechsys.com,IT Services,info@visiontechsys.com,contact,,,,,High,Sharjah UAE 300+ employees
+140,Exceed IT Services,exceedgulf.com,Enterprise IT,info@exceedgulf.com,contact,,,,,High,Abu Dhabi UAE
+141,SQUATWOLF,squatwolf.com,FitTech/eComm,careers@squatwolf.com,careers,,,,,High,Dubai fitness tech
+142,Deriv (2),deriv.com,Fintech/Trading,careers@deriv.com,careers,,,,,High,ACTIVE AI hiring - LLM agent systems
+143,Huspy (CEO),huspy.com,PropTech,CEO@huspy.com,contact,Tariq Tber,CEO / Co-Founder,tariq@huspy.io,,High,Founder-led cold email
