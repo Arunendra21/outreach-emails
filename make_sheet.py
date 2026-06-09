@@ -193,6 +193,13 @@ companies = [
     (180,"iPredict IT Solutions","ipredictitsolutions.com","Odoo / IT Consulting","info@ipredictitsolutions.com","contact","","","","","High","602 Pratik Mall Kudasan Gandhinagar; Odoo specialist"),
     (181,"Niharika Softweb","niharikasofttech.com","Software Dev","info@niharikasoftweb.com","contact","","","","","Medium","Pramukh Mastana Arcade Kudasan Gandhinagar"),
     (182,"AlpsLogic IT Solutions","alpslogic.in","UI/Cloud/Mobile","—","contact","","","","","Medium","415-419 Shree Ugati Corporate Park Kudasan Gandhinagar"),
+    # ── ROUND 7: More Gandhinagar + GIFT City MNCs ───────────────────────────
+    (183,"Computyne","computyne.com","Data/BPO/KPO","info@computyne.com","contact","","","","","High","3/2 Alpha Arcade Infocity Circle Gandhinagar; 24x7 operation"),
+    (184,"Samaj Infotech","samajinfotech.com","Game Dev / Mobile / Web","—","contact","","","","","Medium","236 Radhe Square Kudasan Gandhinagar; 100+ team; founded by Naresh & Upen Patel"),
+    (185,"InfyU Labs","infyulabs.com","AgriTech / IoT / AI","hello@infyulabs.com","contact","","","","https://infyulabs.com/careers","High","VERIFIED ✅ — IIT Gandhinagar Research Park; FICCI award winner"),
+    (186,"Airbow IT Services","airbow.io","Web Dev / Digital Marketing","info@airbow.io","contact","","","","","High","502 Siddhraj Z Square Kudasan Gandhinagar; also UK office"),
+    (187,"Cognizant GIFT City","cognizant.com","IT Services / BFSI / AI","—","careers","","","","https://careers.cognizant.com/global-en/gift-city-interview-invitational/","High","NEW center in GIFT City; hiring Software Devs, Full Stack, Data Analysts"),
+    (188,"Hexaware GIFT City","hexaware.com","TechFin / IT Services","—","careers","","","","https://hexaware.com/careers/","High","Setting up TechFin centre at GIFT City; 500 jobs announced"),
 ]
 
 hr_contacts = [
