@@ -152,14 +152,14 @@ companies = [
     (142,"Deriv","deriv.com","Fintech/Trading","careers@deriv.com","careers","","","","careers.deriv.com","High","ACTIVE AI hiring confirmed — LLM, agent systems, fintech"),
     (143,"Huspy (3rd contact — CEO)","huspy.com","PropTech","CEO@huspy.com","contact","Tariq Tber","CEO / Co-Founder","tariq@huspy.io (pattern)","https://www.linkedin.com/in/tariqtber/","High","Founder-led — cold email to CEO gets replied to at startups"),
     # ── ROUND 4: Gandhinagar / GIFT City companies ───────────────────────────
-    (144,"DRC Systems","drcsystems.com","Software Dev / IT Consulting","info@drcsystems.com","contact","","","","https://careers.drcsystems.com","High","GIFT City, 24th Floor GIFT Two Building; CMMI Level 3; 500+ employees"),
+    (144,"DRC Systems","drcsystems.com","Software Dev / IT Consulting","careers@drcsystems.com","careers","","","","https://careers.drcsystems.com","High","VERIFIED ✅ careers@ + info@ + sales@; GIFT City 24th Floor; Dubai office too"),
     (145,"Argusoft India","argusoft.com","Healthcare IT / Software","jobs@argusoft.com","careers","","","","https://careers.argusoft.com","High","DIRECT JOBS EMAIL ✅ — A66 GIDC Sector-25 Gandhinagar"),
     (146,"Odoo India","odoo.com","ERP / SaaS","—","careers","","","","https://www.odoo.com/jobs","High","IT Tower 3 Infocity Gandhinagar; ₹20K/month intern stipend; apply via portal"),
     (147,"Bosc Tech Labs","bosctechlabs.com","App Dev / AI","hr@bosctechlabs.com","careers","","","","","High","DIRECT HR EMAIL ✅ — Sargasan Gandhinagar; also contact@bosctechlabs.com"),
     (148,"Cybage Software","cybage.com","Enterprise Dev","careers@cybage.com","careers","","","","https://www.cybage.com/careers","High","DIRECT CAREERS EMAIL ✅ — Tower II Infocity Gandhinagar"),
     (149,"Prismetric Technologies","prismetric.com","App Dev / Digital","biz@prismetric.com","contact","","","","https://www.prismetric.com/job-opportunities/","High","604 IT Tower 1, Infocity Gandhinagar 382007"),
     (150,"Decimal Point Analytics","decimalpointanalytics.com","Data Analytics / AI","info@decimalpointanalytics.com","contact","","","","","High","D-601 WTC GIFT City Gandhinagar; financial research & ML/AI"),
-    (151,"Infibeam Avenues (AvenuesAI)","ia.ooo","Digital Payments / Fintech","info@ia.ooo","contact","","","","https://www.ia.ooo/career-opportunities","High","28th Floor GIFT Two Building, GIFT City; India's leading DPS"),
+    (151,"Infibeam Avenues (AvenuesAI)","avenuesai.com","Digital Payments / Fintech","contactus@avenuesai.com","contact","","","","https://www.avenuesai.com/career-opportunities","High","VERIFIED ✅ contactus@ + ir@ + corpcom@; 28th Floor GIFT Two, GIFT City"),
     (152,"Prometheanz","prometheanz.com","Enterprise Software","contact@prometheanz.com","contact","","","","","High","Office 120, Infocity Tower-1 Gandhinagar 382007"),
     (153,"Oddeven Infotech","oddeveninfotech.com","Salesforce / Web Dev","hello@oddeveninfotech.com","contact","","","","","High","Infocity Gandhinagar; Salesforce, AI, digital transformation"),
     (154,"Warlock Technologies","warlocktechnologies.com","Odoo / ERP","info@warlocktechnologies.com","contact","","","","","High","Kudasan Gandhinagar; Official Odoo Partner"),
@@ -176,6 +176,8 @@ companies = [
     (165,"LTIMindtree GIFT City","ltimindtree.com","IT Services / AI","—","careers","","","","https://careers.ltimindtree.com/","High","GIFT City office; AI-powered financial services"),
     (166,"Zensar Technologies","zensar.com","Enterprise / AI","—","careers","","","","https://www.zensar.com/careers","High","Low-code automation for healthcare & BFSI; apply via portal"),
     (167,"DevX","devx.work","Coworking / Startup Infra","—","contact","","","","","Medium","GIFT Tower 1 Gandhinagar; startup coworking; apply via website"),
+    # ── ROUND 5: Mytron Labs + founder emails ────────────────────────────────
+    (168,"MyTron Labs","mytronlabs.com","Physical AI / Robotics Data","founders@mytronlabs.com","contact","Priyank Patel","Co-Founder","priyank@mytronlabs.com","","High","VERIFIED ✅ — also aditya@mytronlabs.com; Physical AI data backbone"),
 ]
 
 hr_contacts = [
@@ -225,6 +227,16 @@ hr_contacts = [
     # ── Bayzat TA ─────────────────────────────────────────────────────────────
     ("Bayzat","Manal Saleh","Talent Acquisition Coordinator","manal.saleh@bayzat.com","https://www.linkedin.com/in/manal-saleh-bayzat/","Dubai based TA Coordinator"),
     ("Bayzat","Sanjo Joshi","Sr. Talent Resourcer","sanjo.joshi@bayzat.com (estimated)","","DM on LinkedIn to confirm email"),
+    # ── Gandhinagar / GIFT City Founders & HR ────────────────────────────────
+    ("MyTron Labs","Priyank Patel","Co-Founder","priyank@mytronlabs.com","","✅ VERIFIED — scraped from contact page; Physical AI startup"),
+    ("MyTron Labs","Aditya Gupta","Co-Founder","aditya@mytronlabs.com","","✅ VERIFIED — scraped from contact page; also founders@mytronlabs.com"),
+    ("DRC Systems","Careers / HR Team","HR Department","careers@drcsystems.com","","✅ VERIFIED — scraped from contact page; also sales@, ir@, press@drcsystems.com"),
+    ("DRC Systems","UAE Office","Dubai Branch","info@drcsystems.ae","","✅ VERIFIED — Dubai office: The Meydan, Nad Al Sheba Rd"),
+    ("Argusoft India","Jobs / HR","Recruitment","jobs@argusoft.com","https://careers.argusoft.com","✅ VERIFIED — dedicated jobs email; A66 GIDC Gandhinagar"),
+    ("Bosc Tech Labs","HR Department","HR","hr@bosctechlabs.com","","✅ VERIFIED — Kudasan Gandhinagar; also contact@bosctechlabs.com"),
+    ("Cybage Software","Careers Team","Careers","careers@cybage.com","https://www.cybage.com/careers","✅ VERIFIED — Tower II Infocity Gandhinagar"),
+    ("Anblicks","Careers Team","Careers","careers@anblicks.com","","✅ VERIFIED — also info@ and marketing@anblicks.com"),
+    ("AvenuesAI (Infibeam)","Contact Team","General","contactus@avenuesai.com","","✅ VERIFIED — also ir@, corpcom@avenuesai.com; GIFT City"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
@@ -325,5 +337,9 @@ for i,(lbl,val) in enumerate(template,2):
     ws4.cell(row=i,column=2).alignment=Alignment(wrap_text=True,vertical="top")
     ws4.row_dimensions[i].height=35 if val and len(val)>80 else 15
 
-wb.save(r"C:\Users\eeshs\Downloads\Dubai_Internship_Outreach.xlsx")
+try:
+    wb.save(r"C:\Users\eeshs\Downloads\Dubai_Internship_Outreach.xlsx")
+except PermissionError:
+    wb.save(r"C:\Users\eeshs\Downloads\Dubai_Internship_Outreach_v2.xlsx")
+    print("Saved as v2 (original was open)")
 print("DONE")
