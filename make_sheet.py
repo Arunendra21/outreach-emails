@@ -339,6 +339,11 @@ hr_contacts = [
     ("Acespritech Solutions","Navrang Oza","Founder & MD","navrang@acespritech.com","","Kudasan Gandhinagar; 13+ yrs Odoo; ZoomInfo: n***@acespritech.com; also sales@acespritech.com"),
     ("Kroop AI","Dr. Jyoti Joshi Dhall","CEO & Founder","kroopai@gmail.com","","FUNDED Gandhinagar AI startup; deepfake detection; featured on inc42 & indiaai.gov.in"),
     ("Kroop AI","Sarthak Gupta","Co-Founder","kroopai@gmail.com","","Co-founded Kroop AI with Jyoti Joshi & Milan Chaudhari"),
+    # ── Round 15b: CEO emails for existing companies ─────────────────────────
+    ("Hats Off Solutions","Mayank Parmar","CEO","mayank@hatsoffsolutions.com","","✅ DIRECT CEO EMAIL — 302 Siddhraj Zori Sargasan Gandhinagar; also info@hatsoffsolutions.com"),
+    ("Prismetric","Ashish Parmar","Co-Founder & CEO","biz@prismetric.com","","SF/215 IT Tower 1 Infocity Gandhinagar; Ph: +91-79-40070367; Co-founded with Ketan Chavda"),
+    ("Prismetric","Ketan Chavda","Co-Founder & MD","biz@prismetric.com","","Infocity Gandhinagar; Managing Director; Co-founded with Ashish Parmar"),
+    ("Bosc Tech Labs","Mahesh Lalwani","Founder & CEO","mahesh@bosc.in","https://in.linkedin.com/in/mahesh-lalwani-43803a25","✅ DIRECT CEO EMAIL — Sargasan Gandhinagar; also contact@bosc.in; est 2019"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
