@@ -237,6 +237,10 @@ companies = [
     # ── ROUND 14: Deep finds + CEO emails ──────────────────────────────────
     (217,"Rumbum Software","rumbum.co","AI / Mobile / Web / Animation","contact@rumbum.co","contact","Romit Mevada","MD & CEO","romit.mewada@gmail.com","https://in.linkedin.com/company/rumbum-software","High","B501 Shree Rang Aroma GIFT City Road Randesan Gandhinagar; since 2018; AI/Swift/Kotlin/Flutter/PHP; CEO: Romit Mevada"),
     (218,"Gurukrupa Infotech","gurukrupainfotech.com","Web / App Dev / Digital Marketing","nikul@gurukrupainfotech.com","contact","Nikul Suthar & Yuvrajsinh Vaghela","Co-Founders & CEOs","nikul@gurukrupainfotech.com","https://in.linkedin.com/in/nikul-suthar-7a24167b","Medium","211 Sharan Business Sector-26 Gandhinagar; 10-50 team; ZoomInfo: ****@gurukrupainfotech.com; Ph: 6351121958"),
+    # ── ROUND 15: Odoo specialists + AI startup + GIDC finds ───────────────
+    (219,"Acespritech Solutions","acespritech.com","Odoo ERP / Mobile / Web","sales@acespritech.com","contact","Navrang Oza","Founder & MD","navrang@acespritech.com","https://in.linkedin.com/company/acespritech","High","C-511 The Landmark Kudasan Gandhinagar; 13+ yrs Odoo expertise; ZoomInfo: n***@acespritech.com; Ph: +91 79902 03338"),
+    (220,"Kroop AI","kroop.ai","Deepfake Detection / AI Video","kroopai@gmail.com","contact","Dr. Jyoti Joshi Dhall","CEO & Founder","kroopai@gmail.com","","High","FUNDED AI STARTUP ✅ — Gandhinagar; deepfake detection + text-to-video; Co-founders: Sarthak Gupta, Milan Chaudhari; inc42 featured"),
+    (221,"Sypram Technology","sypramtechnology.com","Software Products / ACH Systems","info@sypramtechnology.com","contact","","","","","Medium","Sector 23 Gandhinagar; since 2005; also GIDC Electronic Park SEZ; COO: Dr. Manish Dholakia"),
 ]
 
 hr_contacts = [
@@ -331,6 +335,10 @@ hr_contacts = [
     ("iPredict IT Solutions","Bhavik Bagadiya","Co-Founder & CEO","hr@ipredictitsolutions.com","","Co-Founded with Ajay Patel; Odoo ERP specialist"),
     ("Niharika Softweb","Vijaykumar Gadhavi","Director & Founder","vijaygadhavi65@gmail.com","","Pramukh Mastana Arcade Kudasan Gandhinagar; 18 employees; also info@niharikasoftweb.com"),
     ("Quest Infosense","Rushi Gothaliya","CEO","biz@questinfosense.com","","702 Capital Icon Sargasan Gandhinagar; also USA/Canada; $6M yearly revenue"),
+    # ── Round 15: More founder contacts ──────────────────────────────────────
+    ("Acespritech Solutions","Navrang Oza","Founder & MD","navrang@acespritech.com","","Kudasan Gandhinagar; 13+ yrs Odoo; ZoomInfo: n***@acespritech.com; also sales@acespritech.com"),
+    ("Kroop AI","Dr. Jyoti Joshi Dhall","CEO & Founder","kroopai@gmail.com","","FUNDED Gandhinagar AI startup; deepfake detection; featured on inc42 & indiaai.gov.in"),
+    ("Kroop AI","Sarthak Gupta","Co-Founder","kroopai@gmail.com","","Co-founded Kroop AI with Jyoti Joshi & Milan Chaudhari"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
