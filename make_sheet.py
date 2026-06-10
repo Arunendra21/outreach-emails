@@ -330,6 +330,11 @@ companies = [
     # ── ROUND 31: Bangalore Sales AI / WealthTech ─────────────────────────────
     (290,"Salesken","salesken.ai","Sales AI / Conversational Intelligence / SaaS","surga@salesken.ai","contact","Surga Thilakan","Co-Founder & CEO","surga@salesken.ai","https://in.linkedin.com/in/surga-thilakan-0196994","High","✅ DIRECT CEO EMAIL — Bengaluru; Series B; $41M raised over 11 rounds (Microsoft M12 + Sequoia); in-call live sales intelligence; ex-Goldman Sachs; IIM-A MBA; Co-founder: Sreeraman Vaidyanathan; Ph: +91 80416 49503"),
     (291,"Smallcase","smallcase.com","WealthTech / Investment Platform / Fintech","vasanth@smallcase.com","contact","Vasanth Kamath","Founder & CEO","vasanth@smallcase.com","https://in.linkedin.com/in/vasanthskamath","High","Richmond Road Bangalore; 367 employees; changing how India invests; IIT-KGP founders; Co-founders: Anugrah Shrivastava, Rohan Gupta; Blume + Sequoia backed; email pattern estimated"),
+    # ── ROUND 32: Gandhinagar second pass — web tech with HR numbers ──────────
+    (292,"BOSC Tech Labs","bosctechlabs.com","Mobile / Web App Development","hr@bosctechlabs.com","careers","HR Team","HR","hr@bosctechlabs.com","https://in.linkedin.com/company/bosc-tech-labs","High","✅ DIRECT HR EMAIL — Sargasan Gandhinagar; 5 OPEN JOBS on Indeed; Flutter/React specialists; also info@ + contact@bosctechlabs.com; founded 2017"),
+    (293,"Samcom Technologies","samcomtechnologies.com","AI Voice / Chat / Workflow Automation","ketan@samcomtechnologies.com","contact","Ketan Jadhav","Founder & CEO","ketan@samcomtechnologies.com","https://theorg.com/org/samcom-technologies/org-chart/ketan-jadhav","High","Motera Ahmedabad (Gandhinagar border); AI voice/chat/workflow automation; 20+ yrs experience; founded 2013; ZoomInfo confirmed k***@samcomtechnologies.com"),
+    (294,"Evolvision Technologies","evolvision.com","Web / Software Development","business@evolvision.com","contact","Jimit Joshi","Founder & CEO","business@evolvision.com","https://in.linkedin.com/in/jimitjoshi","High","✅ PHONE: +91-9510645454 — Pramukh Arcade-2 Kudasan Gandhinagar; partners: Jimit Joshi + Sandip Patel"),
+    (295,"Unity Infoway","unityinfoway.com","Web / Mobile Development","info@unityinfoway.com","contact","Rahul Gondaliya","Founder","info@unityinfoway.com","https://in.linkedin.com/company/unity-infoway","High","Radhe Infinity, Rakshashakti Circle, Kudasan Gandhinagar; serving since 2011; email estimated"),
 ]
 
 hr_contacts = [
@@ -520,6 +525,11 @@ hr_contacts = [
     # ── Round 31: Sales AI / WealthTech founders ──────────────────────────────
     ("Salesken","Surga Thilakan","Co-Founder & CEO","surga@salesken.ai","https://in.linkedin.com/in/surga-thilakan-0196994","✅ DIRECT CEO EMAIL — Bengaluru; $41M Microsoft+Sequoia; sales AI; ex-Goldman; Ph: +91 80416 49503"),
     ("Smallcase","Vasanth Kamath","Founder & CEO","vasanth@smallcase.com","https://in.linkedin.com/in/vasanthskamath","Richmond Road Bangalore; wealthtech; IIT-KGP; 367 employees; email pattern estimated"),
+    # ── Round 32: Gandhinagar second pass — web tech HR contacts ──────────────
+    ("BOSC Tech Labs","HR Team","HR","hr@bosctechlabs.com","https://in.linkedin.com/company/bosc-tech-labs","✅ DIRECT HR EMAIL — Sargasan Gandhinagar; 5 open jobs; Flutter/React"),
+    ("Samcom Technologies","Ketan Jadhav","Founder & CEO","ketan@samcomtechnologies.com","https://theorg.com/org/samcom-technologies/org-chart/ketan-jadhav","Motera/Gandhinagar border; AI automation; ZoomInfo k***@samcomtechnologies.com"),
+    ("Evolvision Technologies","Jimit Joshi","Founder & CEO","business@evolvision.com","https://in.linkedin.com/in/jimitjoshi","✅ PHONE: +91-9510645454 — Kudasan Gandhinagar"),
+    ("Unity Infoway","Rahul Gondaliya","Founder","info@unityinfoway.com","https://in.linkedin.com/company/unity-infoway","Kudasan Gandhinagar; web/mobile dev since 2011"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
