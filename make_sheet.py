@@ -234,6 +234,9 @@ companies = [
     (214,"Electroweb Solution","electroweb.in","Web Dev / Mobile / SEO","info@electroweb.in","contact","","","","","High","208 Shalin Centrum Sector-11 Gandhinagar; since 2012; leading IT company; Ph: +91 99040 35282"),
     (215,"Sanskar Technolab","sanskartechnolab.com","ERPNext / ERP / IT","career@sanskartechnolab.com","careers","Anand Thakker","Founder & CEO","career@sanskartechnolab.com","","High","DIRECT CAREER EMAIL ✅ — Frappe/ERPNext Partner; 64+ devs; 10+ years; also info@; HR Ph: +91 93136 55703"),
     (216,"Tiny Script Soft Tech","tinyscript.in","Web / Multimedia / IT","tinyscriptsofttech@gmail.com","contact","Akash Patel","Director","tinyscriptsofttech@gmail.com","https://in.linkedin.com/company/tiny-script-soft-tech-pvt-ltd","Medium","GIDC Vatva Ahmedabad; incorporated Sept 2022; hiring in Gandhinagar area"),
+    # ── ROUND 14: Deep finds + CEO emails ──────────────────────────────────
+    (217,"Rumbum Software","rumbum.co","AI / Mobile / Web / Animation","contact@rumbum.co","contact","Romit Mevada","MD & CEO","romit.mewada@gmail.com","https://in.linkedin.com/company/rumbum-software","High","B501 Shree Rang Aroma GIFT City Road Randesan Gandhinagar; since 2018; AI/Swift/Kotlin/Flutter/PHP; CEO: Romit Mevada"),
+    (218,"Gurukrupa Infotech","gurukrupainfotech.com","Web / App Dev / Digital Marketing","nikul@gurukrupainfotech.com","contact","Nikul Suthar & Yuvrajsinh Vaghela","Co-Founders & CEOs","nikul@gurukrupainfotech.com","https://in.linkedin.com/in/nikul-suthar-7a24167b","Medium","211 Sharan Business Sector-26 Gandhinagar; 10-50 team; ZoomInfo: ****@gurukrupainfotech.com; Ph: 6351121958"),
 ]
 
 hr_contacts = [
@@ -318,6 +321,16 @@ hr_contacts = [
     ("Sanskar Technolab","Anand Thakker","Founder & CEO","career@sanskartechnolab.com","","ERPNext specialist; 64+ devs; 10+ yrs exp; also info@sanskartechnolab.com; HR: +91 93136 55703"),
     ("DRC Systems","Hiten Barchha","CEO & Managing Director","hiten@drcsystems.com","","✅ DIRECT CEO EMAIL — GIFT City 24th Floor; 300+ employees; public company (NSE listed)"),
     ("DRC Systems","Kirit Gajera","Co-Founder & COO","","","Co-Founder of DRC Systems; also COO; GIFT City Gandhinagar"),
+    # ── Round 14: Batch founder contacts for existing Gandhinagar companies ──
+    ("Rumbum Software","Romit Mevada","MD & CEO","romit.mewada@gmail.com","","B501 Shree Rang Aroma GIFT City Rd Randesan Gandhinagar; also contact@rumbum.co; Ph: +91 9106364543"),
+    ("Gurukrupa Infotech","Nikul Suthar","Founder & CEO","nikul@gurukrupainfotech.com","https://in.linkedin.com/in/nikul-suthar-7a24167b","Sector 26 Gandhinagar; ZoomInfo: ****@gurukrupainfotech.com"),
+    ("Gurukrupa Infotech","Yuvrajsinh Vaghela","Founder & CEO","yuvrajsinh@gurukrupainfotech.com","https://in.linkedin.com/in/yuvrajsinh-vaghela","ZoomInfo: v***@gurukrupainfotech.com; Ph: 6351121958"),
+    ("Dreams Technology","Chetan Makwana","Founder","chetan@dreams-technology.com","https://in.linkedin.com/in/chetan-makwana-99480339","ZoomInfo: c***@dreams-technology.com; B-111 Swagat Rainforest-2 Kudasan Gandhinagar"),
+    ("Oddeven Infotech","Tejpal Navadiya","Founder & CEO","hello@oddeveninfotech.com","https://in.linkedin.com/in/tejpalnavadiya","Infocity Gandhinagar; Salesforce/AI/digital transformation specialist"),
+    ("iPredict IT Solutions","Ajay Patel","Co-Founder & CEO","hr@ipredictitsolutions.com","","602 Pratik Mall Kudasan Gandhinagar; Odoo/SugarCRM specialist; Ph: +91 8401557997"),
+    ("iPredict IT Solutions","Bhavik Bagadiya","Co-Founder & CEO","hr@ipredictitsolutions.com","","Co-Founded with Ajay Patel; Odoo ERP specialist"),
+    ("Niharika Softweb","Vijaykumar Gadhavi","Director & Founder","vijaygadhavi65@gmail.com","","Pramukh Mastana Arcade Kudasan Gandhinagar; 18 employees; also info@niharikasoftweb.com"),
+    ("Quest Infosense","Rushi Gothaliya","CEO","biz@questinfosense.com","","702 Capital Icon Sargasan Gandhinagar; also USA/Canada; $6M yearly revenue"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
