@@ -241,6 +241,19 @@ companies = [
     (219,"Acespritech Solutions","acespritech.com","Odoo ERP / Mobile / Web","sales@acespritech.com","contact","Navrang Oza","Founder & MD","navrang@acespritech.com","https://in.linkedin.com/company/acespritech","High","C-511 The Landmark Kudasan Gandhinagar; 13+ yrs Odoo expertise; ZoomInfo: n***@acespritech.com; Ph: +91 79902 03338"),
     (220,"Kroop AI","kroop.ai","Deepfake Detection / AI Video","kroopai@gmail.com","contact","Dr. Jyoti Joshi Dhall","CEO & Founder","kroopai@gmail.com","","High","FUNDED AI STARTUP ✅ — Gandhinagar; deepfake detection + text-to-video; Co-founders: Sarthak Gupta, Milan Chaudhari; inc42 featured"),
     (221,"Sypram Technology","sypramtechnology.com","Software Products / ACH Systems","info@sypramtechnology.com","contact","","","","","Medium","Sector 23 Gandhinagar; since 2005; also GIDC Electronic Park SEZ; COO: Dr. Manish Dholakia"),
+    # ══════════════════════════════════════════════════════════════════════════
+    # ██  BANGALORE / BENGALURU  ██
+    # ══════════════════════════════════════════════════════════════════════════
+    # ── ROUND 16: Bangalore funded startups + CEO emails ───────────────────
+    (222,"SuperKalam","superkalam.com","AI EdTech / Test Prep","join@superkalam.com","careers","Vimal Singh Rathore","Founder & CEO","vimal@kalam.in","https://www.linkedin.com/in/vimal-singh-rathore/","High","YC W23 ✅ — $2M seed; AI-powered mentor for test prep; Bengaluru; also Aseem Gupta co-founder; HIRING INTERNS"),
+    (223,"ClearFeed","clearfeed.ai","AI Helpdesk / Slack / Teams","hello@clearfeed.ai","contact","Joydeep Sen Sarma","Co-Founder & CEO","joydeep@clearfeed.ai","","High","$2.7M funded ✅ — Bellandur Bangalore; AI helpdesk for Slack/Teams; Co-founders: Ankit Jain, Lalit Indoria; ZoomInfo: j******@clearfeed.ai"),
+    (224,"OnFinance AI","onfinance.ai","AI / Banking / BFSI Compliance","team@onfinance.in","contact","Anuj Srivastava","Co-Founder & CEO","team@onfinance.in","https://in.linkedin.com/in/anujsrivastava02","High","SEED FUNDED ✅ — Bengaluru; LLM (NeoGPT) for banking/insurance; Co-founder: Priyesh Srivastava; founded 2022"),
+    (225,"Kramah Software","kramah.com","EdTech / University ERP / AI","support@kramah.com","contact","Dr. Rajeev C Raghunath","CEO & MD","rajeev.raghunath@kramah.com","https://in.linkedin.com/in/rajeevraghunath/","High","✅ DIRECT CEO EMAIL — Kumaraswamy Layout Bangalore; 85+ universities; OFFERS AI INTERNSHIPS; Ph: +91 988-005-0979"),
+    (226,"Infilect","infilect.com","Computer Vision / Retail AI","careers@infilect.com","careers","Anand Prabhu Subramanian","Co-Founder & CEO","careers@infilect.com","","High","Mela Ventures funded ✅ — Koramangala Bangalore; image recognition retail analytics; OFFERS 6-MONTH INTERNSHIPS; Co-founder: Vijay Gabale"),
+    (227,"WizCommerce","wizcommerce.com","B2B Commerce / AI / CRM","hello@wizcommerce.com","contact","Divyaanshu Makkar","Co-Founder & CEO","hello@wizcommerce.com","https://www.linkedin.com/in/divyaanshumakkar/","High","SERIES A ✅ — Bengaluru; B2B commerce platform for wholesale; Co-founder: Vikas Garg; founded 2020"),
+    (228,"Klaar","klaarhq.com","HR Tech / Performance / SaaS","hello@klaarhq.com","contact","Sharthok Chakraborty","Co-Founder & CEO","hello@klaarhq.com","https://www.linkedin.com/in/sharthok-chakraborty","High","$6.7M Series A ✅ — WeWork Embassy TechVillage Bangalore; Agentic Performance Mgmt; Co-founder: Atri Roy; Ph: +91 983 674 0283"),
+    (229,"Srishti Software","srishtisoft.com","Healthcare IT / Product","sales@srishtisoft.com","contact","Ajay Shankar Sharma","Co-Founder & CEO","sales@srishtisoft.com","","High","HSR Layout Bangalore; healthcare product PARAS; since 1997; Ph: +91 9945239357"),
+    (230,"Techasoft","techasoft.com","Web / Mobile / Digital Marketing","info@techasoft.com","contact","","","","","High","HSR Layout Bangalore; 105 employees; $10-50Cr revenue; app dev + digital marketing; since 2016; Ph: +91 88847 39988"),
 ]
 
 hr_contacts = [
@@ -344,6 +357,15 @@ hr_contacts = [
     ("Prismetric","Ashish Parmar","Co-Founder & CEO","biz@prismetric.com","","SF/215 IT Tower 1 Infocity Gandhinagar; Ph: +91-79-40070367; Co-founded with Ketan Chavda"),
     ("Prismetric","Ketan Chavda","Co-Founder & MD","biz@prismetric.com","","Infocity Gandhinagar; Managing Director; Co-founded with Ashish Parmar"),
     ("Bosc Tech Labs","Mahesh Lalwani","Founder & CEO","mahesh@bosc.in","https://in.linkedin.com/in/mahesh-lalwani-43803a25","✅ DIRECT CEO EMAIL — Sargasan Gandhinagar; also contact@bosc.in; est 2019"),
+    # ══════ BANGALORE FOUNDER/CEO CONTACTS ══════════════════════════════════
+    ("SuperKalam","Vimal Singh Rathore","Founder & CEO","vimal@kalam.in","","✅ DIRECT CEO EMAIL — YC W23; $2M seed; prev founded Coursavy (acquired by Unacademy); also join@superkalam.com"),
+    ("ClearFeed","Joydeep Sen Sarma","Co-Founder & CEO","joydeep@clearfeed.ai","","$2.7M funded; Bellandur Bangalore; ZoomInfo: j******@clearfeed.ai; AI helpdesk Slack/Teams"),
+    ("OnFinance AI","Anuj Srivastava","Co-Founder & CEO","team@onfinance.in","https://in.linkedin.com/in/anujsrivastava02","Seed funded; NeoGPT for banking; also co-founder Priyesh Srivastava"),
+    ("Kramah Software","Dr. Rajeev C Raghunath","CEO & MD","rajeev.raghunath@kramah.com","https://in.linkedin.com/in/rajeevraghunath/","✅ DIRECT CEO EMAIL — 22+ yrs exp; ex-Oracle/ITC InfoTech; 85+ universities; Ph: +91 988-005-0979"),
+    ("Infilect","Anand Prabhu Subramanian","Co-Founder & CEO","careers@infilect.com","","Koramangala Bangalore; patented CV tech; Mela Ventures backed; OFFERS 6-MONTH INTERNSHIPS"),
+    ("WizCommerce","Divyaanshu Makkar","Co-Founder & CEO","hello@wizcommerce.com","https://www.linkedin.com/in/divyaanshumakkar/","Series A; B2B commerce for wholesale distributors"),
+    ("Klaar","Sharthok Chakraborty","Co-Founder & CEO","hello@klaarhq.com","https://www.linkedin.com/in/sharthok-chakraborty","$6.7M Series A; Agentic Performance Management; WeWork Embassy TechVillage Bangalore"),
+    ("Srishti Software","Ajay Shankar Sharma","Co-Founder & CEO","sales@srishtisoft.com","","HSR Layout Bangalore; healthcare product PARAS since 1997; Ph: +91 9945239357"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
