@@ -296,6 +296,11 @@ companies = [
     (263,"SuperKalam","superkalam.com","AI EdTech / Test Prep / LLM","vimal@kalam.in","contact","Vimal Singh Rathore","CEO","vimal@kalam.in","https://in.linkedin.com/in/vimal-rathore","High","✅ DIRECT CEO EMAIL — Bengaluru; YC W23 ✅; $2M seed (YC + FundersClub + GoodWater); AI super-mentor for test prep; 20 employees; 11 OPEN ROLES; Co-founders: Aseem Gupta, Lakshay Nagpal; hiring: join@superkalam.com"),
     (264,"Richpanel","richpanel.com","AI Customer Support / CX / SaaS","amit@richpanel.com","contact","Amit RG","CEO & Founder","amit@richpanel.com","https://www.linkedin.com/in/amit-rg","High","Bengaluru; YC ✅ + Sequoia-backed; 2000+ brands (Ridge, Jones Road Beauty); AI agents for customer support; HIRING ML Engineer + Content roles in Bangalore"),
     (265,"Even Healthcare","even.in","HealthTech / Managed Care / AI","mayank@even.in","contact","Mayank Banerjee","Co-Founder & CEO","mayank@even.in","https://in.linkedin.com/in/mayank-banerjee-b081507b","High","✅ DIRECT CEO EMAIL — Indiranagar Bangalore; $20.8M funded ($30M Series A Khosla Ventures); subscription healthcare + own clinics/hospitals; 101-150 employees; Co-founders: Matilde Giglio, Alessandro Ialongo; Ph: +91 8047495555; also careers@even.in"),
+    # ── ROUND 24: Bangalore B2B Marketing AI / Voice AI / AgriTech ────────────
+    (266,"Factors.ai","factors.ai","B2B Marketing AI / Account Intelligence / SaaS","srikrishna@factors.ai","contact","Srikrishna Swaminathan","Co-Founder & CEO","srikrishna@factors.ai","https://www.linkedin.com/in/srifactorsai/","High","✅ DIRECT CEO EMAIL — BEML Layout RR Nagar Bangalore; Elevation Capital backed; ex-InMobi VP ($100M biz unit); IIM Calcutta MBA; Co-founders: Praveen Das (CPO, praveen@factors.ai), Aravind Murthy"),
+    (267,"Bolna AI","bolna.ai","Voice AI / Multilingual Agents / NLP","maitreya@bolna.ai","contact","Maitreya Wagh","Co-Founder & CEO","maitreya@bolna.ai","https://www.linkedin.com/in/maitreya-wagh/","High","Bengaluru; YC F25 ✅; $6.3M seed (General Catalyst + Blume Ventures); voice AI for Indian languages; IIT Delhi + ex-Bain; Co-founder: Prateek Sachan (CTO, ex-Zomato/BrowserStack/Atlassian); open source on GitHub"),
+    (268,"Fasal","fasal.co","AgriTech / AI IoT / Precision Farming","connect@wolkus.com","contact","Shailendra Tiwari","Founder & CEO","connect@wolkus.com","https://in.linkedin.com/in/shailendra-tiwari-fasal","High","Bangalore; $19.4M funded across 8 rounds; AI-powered smart irrigation + horticulture platform; 107 employees; 12,000+ farmers across India & SE Asia; Co-founder: Ananda Prakash Verma"),
+    (269,"Skit.ai","skit.ai","Voice AI / Conversational AI / Debt Collection","scale@skit.ai","careers","Sourabh Gupta","Co-Founder & CEO","scale@skit.ai","https://www.linkedin.com/in/sourabhsg/","High","Old Madras Road Bangalore + NYC HQ; Forbes 30U30 Asia ✅; voice AI for contact centers; hiring Founder Office role in Bengaluru; Co-founder: Akshay Deshraj (CTO); IIT Roorkee"),
 ]
 
 hr_contacts = [
@@ -452,6 +457,11 @@ hr_contacts = [
     ("SuperKalam","Vimal Singh Rathore","CEO","vimal@kalam.in","https://in.linkedin.com/in/vimal-rathore","✅ DIRECT CEO EMAIL — YC W23; $2M seed; AI edtech; 11 open roles; hiring: join@superkalam.com"),
     ("Richpanel","Amit RG","CEO & Founder","amit@richpanel.com","https://www.linkedin.com/in/amit-rg","YC + Sequoia; 2000+ brands; AI customer support; HIRING ML Engineer in Bangalore"),
     ("Even Healthcare","Mayank Banerjee","Co-Founder & CEO","mayank@even.in","https://in.linkedin.com/in/mayank-banerjee-b081507b","✅ DIRECT CEO EMAIL — Indiranagar Bangalore; $30M Series A Khosla; healthtech; also careers@even.in"),
+    # ── Round 24: B2B Marketing AI / Voice AI / AgriTech founder contacts ─────
+    ("Factors.ai","Srikrishna Swaminathan","Co-Founder & CEO","srikrishna@factors.ai","https://www.linkedin.com/in/srifactorsai/","✅ DIRECT CEO EMAIL — Elevation Capital; ex-InMobi VP; also CPO Praveen Das praveen@factors.ai"),
+    ("Bolna AI","Maitreya Wagh","Co-Founder & CEO","maitreya@bolna.ai","https://www.linkedin.com/in/maitreya-wagh/","YC F25; $6.3M seed General Catalyst; IIT Delhi + ex-Bain; voice AI for Indian languages"),
+    ("Fasal","Shailendra Tiwari","Founder & CEO","connect@wolkus.com","https://in.linkedin.com/in/shailendra-tiwari-fasal","$19.4M funded; agritech AI/IoT; 12K+ farmers; general contact email"),
+    ("Skit.ai","Sourabh Gupta","Co-Founder & CEO","scale@skit.ai","https://www.linkedin.com/in/sourabhsg/","Forbes 30U30 Asia; voice AI; hiring email scale@skit.ai for Bangalore roles; IIT Roorkee"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
