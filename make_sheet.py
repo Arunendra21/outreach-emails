@@ -218,6 +218,13 @@ companies = [
     (201,"Certopus","certopus.com","SaaS / Certificate Mgmt","support@certopus.com","contact","","","","","High","Gandhinagar-based SaaS; parent: DevSquirrel Technologies; WhatsApp: +919558817787"),
     (202,"Yudiz Solutions","yudiz.com","Game Dev / Blockchain / AR-VR / AI","contact@yudiz.com","contact","Chirag Leuva","CEO & Director","contact@yudiz.com","https://in.linkedin.com/company/yudiz-solutions-ltd","High","400+ team; Ahmedabad HQ (near Gandhinagar); USA+Canada offices; HR: +91 7874400606"),
     (203,"Cyfuture","cyfuture.com","Cloud / IT Infrastructure / BPO","info@cyfuture.com","contact","","","","https://cyfuture.com/careers.html","High","Sarkhej Gujarat office; cloud hosting, data centers, tech support BPO; 9 global locations"),
+    # ── ROUND 11: Gandhinagar deep dive — sectors, founders, new finds ──────
+    (204,"Lucent Innovation","lucentinnovation.com","AI / Data Engineering / Commerce","info@lucentinnovation.com","contact","Nitesh Kasma","CEO & Co-Founder","nitesh@lucentinnovation.com","https://www.linkedin.com/in/niteshkasma/","High","GIFT-SEZ Gandhinagar + USA HQ; 142 employees; Databricks Partner; CEO: Nitesh Kasma"),
+    (205,"Electroware Infotech","electroware.net","FinTech / Tally / ERP","info@electroware.net","contact","","","tarangpatel@electroware.net","","High","Sector 11 Gandhinagar; since 1999; 25+ years; FinTech + Tally solutions"),
+    (206,"RiYank Technologies","riyanktechnologies.com","Web / Mobile / Digital","hello@riyanktechnologies.com","contact","","","","","High","D-107 Swagat Rainforest-3 Sargasan Gandhinagar"),
+    (207,"Drize Technologies","drizetech.com","Web / Cloud / Digital Marketing","info@drizetech.com","contact","","","","","Medium","Adalaj Gandhinagar; AWS/GCloud/Azure; also Thaltej office"),
+    (208,"Sai Branding","saibranding.com","Digital Marketing / Branding / Web","hello@saibranding.com","contact","Nishant Darji","Founder & CEO","hello@saibranding.com","","High","509-510 Synergy Space Sargasan Gandhinagar; since 2012; Founder: Nishant Darji"),
+    (209,"Realcode Infotech","realcodeinfotech.com","Web / Mobile / Bulk SMS","—","contact","Somnath Khandare","Managing Director","—","","Medium","Sector 3 Gandhinagar; since 2016; MD: Somnath Khandare"),
 ]
 
 hr_contacts = [
@@ -289,6 +296,10 @@ hr_contacts = [
     ("Samaj Infotech","Naresh Patel & Upen Patel","Co-Founders","info@samajinfotech.com","","✅ VERIFIED — 100+ team game dev studio; Kudasan Gandhinagar"),
     ("Yudiz Solutions","Chirag Leuva","CEO & Director","contact@yudiz.com","https://in.linkedin.com/company/yudiz-solutions-ltd","400+ team; Game/Blockchain/AR-VR; HR phone: +91 7874400606"),
     ("Certopus","Vraj (Team Lead)","Demos/Sales","support@certopus.com","","Gandhinagar SaaS startup; certificate management platform; WhatsApp: +919558817787"),
+    # ── Round 11: More founders ──────────────────────────────────────────────
+    ("Lucent Innovation","Nitesh Kasma","CEO & Co-Founder","nitesh@lucentinnovation.com","https://www.linkedin.com/in/niteshkasma/","GIFT-SEZ Gandhinagar; 142 employees; Databricks Partner; phone: +91 9426212181"),
+    ("Electroware Infotech","Tarang Patel","Director (likely)","tarangpatel@electroware.net","","Sector 11 Gandhinagar; FinTech/Tally specialist since 1999"),
+    ("Sai Branding","Nishant Darji","Founder & CEO","hello@saibranding.com","","Sargasan Gandhinagar; digital marketing + branding since 2012"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
