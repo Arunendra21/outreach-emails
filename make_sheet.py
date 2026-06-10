@@ -254,6 +254,12 @@ companies = [
     (228,"Klaar","klaarhq.com","HR Tech / Performance / SaaS","hello@klaarhq.com","contact","Sharthok Chakraborty","Co-Founder & CEO","hello@klaarhq.com","https://www.linkedin.com/in/sharthok-chakraborty","High","$6.7M Series A ✅ — WeWork Embassy TechVillage Bangalore; Agentic Performance Mgmt; Co-founder: Atri Roy; Ph: +91 983 674 0283"),
     (229,"Srishti Software","srishtisoft.com","Healthcare IT / Product","sales@srishtisoft.com","contact","Ajay Shankar Sharma","Co-Founder & CEO","sales@srishtisoft.com","","High","HSR Layout Bangalore; healthcare product PARAS; since 1997; Ph: +91 9945239357"),
     (230,"Techasoft","techasoft.com","Web / Mobile / Digital Marketing","info@techasoft.com","contact","","","","","High","HSR Layout Bangalore; 105 employees; $10-50Cr revenue; app dev + digital marketing; since 2016; Ph: +91 88847 39988"),
+    # ── ROUND 17: Bangalore YC-backed + AI startups + CEO emails ─────────────
+    (231,"GoodWorkLabs","goodworklabs.com","AI / ML / Mobile / Product Dev","contact@goodworklabs.com","contact","Vishwas Mudagal","Co-Founder & MD","contact@goodworklabs.com","https://in.linkedin.com/in/vishwasmudagal","High","Whitefield Bangalore; 200+ employees; AI/ML lab + outsourced product dev; CEO Sonia Sharma; angel investors; Ph: +91 80-43364621"),
+    (232,"Tensorfuse","tensorfuse.io","AI Infra / Serverless GPU / MLOps","founders@tensorfuse.io","contact","Agam Jain","Co-Founder & CPO","agam@tensorfuse.io","https://www.linkedin.com/in/agam-jain-5a8b95151/","High","YC W24 ✅ — Bengaluru; serverless GPU on your own cloud; Co-founder: Samagra Sharma (CEO); samagra@tensorfuse.io"),
+    (233,"GoSats","gosats.io","Fintech / Bitcoin Rewards","roshan@gosats.io","contact","Mohammed Roshan","Co-Founder & CEO","roshan@gosats.io","https://in.linkedin.com/in/roshanaslam","High","YC W22 ✅ — Bengaluru; Bitcoin stacking/rewards app; 23 employees; Co-founder: Roshni Aslam"),
+    (234,"Emergent","emergent.sh","AI App Builder / No-Code","team@emergent.sh","contact","Mukund Jha","Co-Founder & CEO","team@emergent.sh","https://www.linkedin.com/in/mukundjha/","High","YC S24 ✅ — $100M Series B (Lightspeed + SoftBank); 700K+ users; $10M ARR in 2 months; ex-Dunzo CTO; twin brothers; CTO Madhav Jha (PhD CS)"),
+    (235,"Flagright","flagright.com","AML Compliance / Fintech / AI","gdpr@flagright.com","contact","Madhu G Nadig","Co-Founder & CTO","gdpr@flagright.com","https://www.linkedin.com/in/madhugnadig/","High","YC W22 ✅ — $4.3M seed; AI-native AML compliance; Bangalore office; CEO Baran Ozkan; offices in NY/SF/Berlin/Singapore/Bangalore"),
 ]
 
 hr_contacts = [
@@ -366,6 +372,14 @@ hr_contacts = [
     ("WizCommerce","Divyaanshu Makkar","Co-Founder & CEO","hello@wizcommerce.com","https://www.linkedin.com/in/divyaanshumakkar/","Series A; B2B commerce for wholesale distributors"),
     ("Klaar","Sharthok Chakraborty","Co-Founder & CEO","hello@klaarhq.com","https://www.linkedin.com/in/sharthok-chakraborty","$6.7M Series A; Agentic Performance Management; WeWork Embassy TechVillage Bangalore"),
     ("Srishti Software","Ajay Shankar Sharma","Co-Founder & CEO","sales@srishtisoft.com","","HSR Layout Bangalore; healthcare product PARAS since 1997; Ph: +91 9945239357"),
+    # ── Round 17: More Bangalore CEO contacts ───────────────────────────────
+    ("GoodWorkLabs","Vishwas Mudagal","Co-Founder & MD","contact@goodworklabs.com","https://in.linkedin.com/in/vishwasmudagal","Whitefield Bangalore; serial entrepreneur + bestselling author; angel investor; also CEO Sonia Sharma"),
+    ("GoodWorkLabs","Sonia Sharma","Co-Founder & CEO","contact@goodworklabs.com","","Co-founded GoodWorkLabs; technopreneurs; AI/ML lab"),
+    ("Tensorfuse","Agam Jain","Co-Founder & CPO","agam@tensorfuse.io","https://www.linkedin.com/in/agam-jain-5a8b95151/","✅ DIRECT FOUNDER EMAIL — YC W24; serverless GPU infra"),
+    ("Tensorfuse","Samagra Sharma","Co-Founder & CEO","samagra@tensorfuse.io","https://in.linkedin.com/in/samagra-sharma-4476bb135","✅ DIRECT CEO EMAIL — YC W24; also founders@tensorfuse.io"),
+    ("GoSats","Mohammed Roshan","Co-Founder & CEO","roshan@gosats.io","https://in.linkedin.com/in/roshanaslam","✅ DIRECT CEO EMAIL — YC W22; Bitcoin rewards; Bengaluru"),
+    ("Emergent","Mukund Jha","Co-Founder & CEO","team@emergent.sh","https://www.linkedin.com/in/mukundjha/","YC S24; $100M raised; ex-Dunzo CTO (Google-backed); twin brother Madhav Jha is CTO"),
+    ("Flagright","Madhu G Nadig","Co-Founder & CTO","gdpr@flagright.com","https://www.linkedin.com/in/madhugnadig/","YC W22; $4.3M seed; AML compliance; Bangalore office; CEO Baran Ozkan based in SF"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]

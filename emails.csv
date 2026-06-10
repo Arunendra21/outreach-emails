@@ -1,4 +1,4 @@
-ID,Company,Website,Category,Email,Email Type,HR Name,HR Title,HR Email,LinkedIn,Priority,Notes
+#,Company,Website,Category,General Contact Email,Email Type,HR Person Name,HR Person Title,HR Person Direct Email,LinkedIn Profile,Priority,Notes
 1,Blink22,blink22.com,Web Dev,hello@blink22.com,contact,,,,,Medium,Send cold email; ask to forward to hiring manager
 2,Shakuro,shakuro.com,Web/UX,hi@shakuro.com,contact,,,,,Medium,Send cold email
 3,ExpandX,expandx.ae,Web Dev,info@expandx.ae,contact,,,,,High,Dubai-based
@@ -230,3 +230,8 @@ ID,Company,Website,Category,Email,Email Type,HR Name,HR Title,HR Email,LinkedIn,
 228,Klaar,klaarhq.com,HR Tech / Performance / SaaS,hello@klaarhq.com,contact,Sharthok Chakraborty,Co-Founder & CEO,hello@klaarhq.com,https://www.linkedin.com/in/sharthok-chakraborty,High,$6.7M Series A ✅ — WeWork Embassy TechVillage Bangalore; Agentic Performance Mgmt; Co-founder: Atri Roy; Ph: +91 983 674 0283
 229,Srishti Software,srishtisoft.com,Healthcare IT / Product,sales@srishtisoft.com,contact,Ajay Shankar Sharma,Co-Founder & CEO,sales@srishtisoft.com,,High,HSR Layout Bangalore; healthcare product PARAS; since 1997; Ph: +91 9945239357
 230,Techasoft,techasoft.com,Web / Mobile / Digital Marketing,info@techasoft.com,contact,,,,,High,HSR Layout Bangalore; 105 employees; $10-50Cr revenue; app dev + digital marketing; since 2016; Ph: +91 88847 39988
+231,GoodWorkLabs,goodworklabs.com,AI / ML / Mobile / Product Dev,contact@goodworklabs.com,contact,Vishwas Mudagal,Co-Founder & MD,contact@goodworklabs.com,https://in.linkedin.com/in/vishwasmudagal,High,Whitefield Bangalore; 200+ employees; AI/ML lab + outsourced product dev; CEO Sonia Sharma; angel investors; Ph: +91 80-43364621
+232,Tensorfuse,tensorfuse.io,AI Infra / Serverless GPU / MLOps,founders@tensorfuse.io,contact,Agam Jain,Co-Founder & CPO,agam@tensorfuse.io,https://www.linkedin.com/in/agam-jain-5a8b95151/,High,YC W24 ✅ — Bengaluru; serverless GPU on your own cloud; Co-founder: Samagra Sharma (CEO); samagra@tensorfuse.io
+233,GoSats,gosats.io,Fintech / Bitcoin Rewards,roshan@gosats.io,contact,Mohammed Roshan,Co-Founder & CEO,roshan@gosats.io,https://in.linkedin.com/in/roshanaslam,High,YC W22 ✅ — Bengaluru; Bitcoin stacking/rewards app; 23 employees; Co-founder: Roshni Aslam
+234,Emergent,emergent.sh,AI App Builder / No-Code,team@emergent.sh,contact,Mukund Jha,Co-Founder & CEO,team@emergent.sh,https://www.linkedin.com/in/mukundjha/,High,YC S24 ✅ — $100M Series B (Lightspeed + SoftBank); 700K+ users; $10M ARR in 2 months; ex-Dunzo CTO; twin brothers; CTO Madhav Jha (PhD CS)
+235,Flagright,flagright.com,AML Compliance / Fintech / AI,gdpr@flagright.com,contact,Madhu G Nadig,Co-Founder & CTO,gdpr@flagright.com,https://www.linkedin.com/in/madhugnadig/,High,YC W22 ✅ — $4.3M seed; AI-native AML compliance; Bangalore office; CEO Baran Ozkan; offices in NY/SF/Berlin/Singapore/Bangalore
