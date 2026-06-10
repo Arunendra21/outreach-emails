@@ -366,6 +366,9 @@ companies = [
     (317,"Inexture Solutions","inexture.com","Python / Java / Mobile Development","info@inexture.com","contact","Vishal Shah","Co-Founder & CEO","vishal@inexture.com","https://in.linkedin.com/in/co-founder-inexture","High","Ahmedabad; Python/Django + Java specialists; operating since 2014; email pattern estimated"),
     (318,"Aglowid IT Solutions","aglowiditsolutions.com","Web / Mobile / AI Development","info@aglowiditsolutions.com","contact","Ronak Patel","CEO","ronak@aglowiditsolutions.com","https://www.linkedin.com/in/ronak-patel-aglowid/","High","Ahmedabad; web/mobile/AI dev; CTO: Saurabh Barot; email pattern estimated"),
     (319,"eSparkBiz","esparkinfo.com","AI Software Development / Web","sales@esparkinfo.com","contact","Harikrishna Kundariya","Co-Founder & Director","harikrishna@esparkinfo.com","https://in.linkedin.com/in/henry-kundariya","High","Science City Ahmedabad (City Centre-2, 10th floor); founded 2010; CURRENTLY HIRING; email format name@esparkinfo.com confirmed"),
+    # ── ROUND 40: Bangalore Gamification / MarTech ────────────────────────────
+    (320,"CustomerGlu","customerglu.com","Gamified Engagement / Retention / SaaS","prateek@customerglu.com","contact","Prateek Gupta","Co-Founder & CEO","prateek@customerglu.com","https://www.linkedin.com/in/prateek1gupta/","High","Bangalore; plug-and-play gamification platform (streaks, challenges, quizzes); founded 2016; Co-founders: Sumant Subrahmanya (Product), Raman Shrivastava (AI); email pattern estimated"),
+    (321,"WebEngage","webengage.com","MarTech / Customer Engagement / SaaS","avlesh@webengage.com","contact","Avlesh Singh","Co-Founder & CEO","avlesh@webengage.com","https://www.linkedin.com/in/avlesh/","High","Koramangala Bengaluru office (IndiQube Lexington) + Mumbai HQ; Series B; ZoomInfo confirmed a***@webengage.com; full-stack retention OS; open roles at webengage.com/current-openings; Co-founder: Ankit Utreja (CTO)"),
 ]
 
 hr_contacts = [
@@ -592,6 +595,9 @@ hr_contacts = [
     ("Inexture Solutions","Vishal Shah","Co-Founder & CEO","vishal@inexture.com","https://in.linkedin.com/in/co-founder-inexture","Ahmedabad; Python/Java dev; email pattern estimated"),
     ("Aglowid IT Solutions","Ronak Patel","CEO","ronak@aglowiditsolutions.com","https://www.linkedin.com/in/ronak-patel-aglowid/","Ahmedabad; CTO Saurabh Barot; email pattern estimated"),
     ("eSparkBiz","Harikrishna Kundariya","Co-Founder & Director","harikrishna@esparkinfo.com","https://in.linkedin.com/in/henry-kundariya","Science City Ahmedabad; HIRING; name@esparkinfo.com format confirmed"),
+    # ── Round 40: Gamification / MarTech founders ─────────────────────────────
+    ("CustomerGlu","Prateek Gupta","Co-Founder & CEO","prateek@customerglu.com","https://www.linkedin.com/in/prateek1gupta/","Bangalore; gamified retention SaaS; email pattern estimated"),
+    ("WebEngage","Avlesh Singh","Co-Founder & CEO","avlesh@webengage.com","https://www.linkedin.com/in/avlesh/","Koramangala Bengaluru office; ZoomInfo a***@webengage.com; open roles listed"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
