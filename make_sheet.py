@@ -273,6 +273,12 @@ companies = [
     (244,"FamApp","famapp.in","Fintech / UPI / Teen Banking","careers@famapp.in","careers","Sambhav Jain","Co-Founder & CEO","sambhav@fampay.in","https://in.linkedin.com/in/sambhavanandjain","High","YC S19 ✅ — HSR Layout Bangalore; fintech for teens; Co-founder: Kush Taneja; IIT Roorkee; Forbes 30U30; HIRING creative + growth teams"),
     (245,"Rocketium","rocketium.com","AI Creative Ops / Marketing SaaS","satej@rocketium.com","contact","Satej Sirur","Co-Founder & CEO","satej@rocketium.com","https://www.linkedin.com/in/satejsirur/","High","Bangalore HQ; 78 employees; AI creative automation for enterprises; Blume Ventures funded; RETHINK Retail Top AI Leader 2024"),
     (246,"Rigi","rigi.club","Creator Economy / Monetization / SaaS","swapnil@rigi.club","contact","Swapnil Saurav","Co-Founder & CEO","swapnil@rigi.club","https://www.linkedin.com/in/linkswapnil/","High","HSR Layout Bangalore; $25M funded (Elevation Capital); 114 employees; creator community monetization; Co-founder: Ananya Singhal; prev HalaPlay (acquired)"),
+    # ── ROUND 20: Bangalore DevTools / SaaS / Open Source + CEO emails ───────
+    (247,"SigNoz","signoz.io","Open Source Observability / DevTools","pranay@signoz.io","contact","Pranay Prateek","Co-Founder & CEO","pranay@signoz.io","https://www.linkedin.com/in/pranay01/","High","YC W21 ✅ — Bengaluru; open source observability (OpenTelemetry); 38 employees; hiring@signoz.io; CTO Ankit Nayan"),
+    (248,"Clarisights","clarisights.com","Marketing Analytics / AI / SaaS","arun@clarisights.com","contact","Arun Srinivasan","Co-Founder & CEO","arun@clarisights.com","https://www.linkedin.com/in/arun-srinivasan-clarisights/","High","✅ DIRECT CEO EMAIL — Indiranagar + Domlur Bangalore; marketing insights for Uber/HelloFresh/Delivery Hero; Co-founder: Ankur Gupta"),
+    (249,"Dukaan","mydukaan.io","E-Commerce Platform / AI / SaaS","support@mydukaan.io","contact","Suumit Shah","Co-Founder & CEO","suumit@mydukaan.io","https://in.linkedin.com/in/suumitshah","High","Bengaluru; DIY e-commerce platform; famous for AI chatbot replacing support staff; Co-founder: Subhash Choudhary (CTO)"),
+    (250,"Scribble Data","scribbledata.io","MLOps / Feature Store / AI","venkata@scribbledata.io","contact","Dr. Venkata Pingali","Co-Founder & CEO","venkata@scribbledata.io","https://in.linkedin.com/in/pingali","High","✅ DIRECT CEO EMAIL — Bangalore + Toronto; MLOps feature store 'Enrich'; Blume Ventures; IIT Bombay; 20 employees; HIRING"),
+    (251,"Sprinto","sprinto.com","Compliance Automation / Security SaaS","sales@sprinto.com","contact","Girish Redekar","Co-Founder & CEO","girish@sprinto.com","https://www.linkedin.com/in/girishredekar/","High","Bannerghatta Road Bangalore; $32.2M Series B; autonomous compliance engine; Co-founder: Raghuveer Kancherla; prev RecruiterBox (acquired)"),
 ]
 
 hr_contacts = [
@@ -406,6 +412,12 @@ hr_contacts = [
     ("FamApp","Sambhav Jain","Co-Founder & CEO","sambhav@fampay.in","https://in.linkedin.com/in/sambhavanandjain","YC S19; Forbes 30U30; IIT Roorkee; fintech for teens; also Kush Taneja co-founder"),
     ("Rocketium","Satej Sirur","Co-Founder & CEO","satej@rocketium.com","https://www.linkedin.com/in/satejsirur/","✅ DIRECT CEO EMAIL — AI creative automation; Blume Ventures; RETHINK Retail Top AI Leader"),
     ("Rigi","Swapnil Saurav","Co-Founder & CEO","swapnil@rigi.club","https://www.linkedin.com/in/linkswapnil/","$25M funded; Elevation Capital; HSR Layout; prev founded HalaPlay (acquired by Nazara)"),
+    # ── Round 20: DevTools / SaaS / Open Source founder contacts ────────────
+    ("SigNoz","Pranay Prateek","Co-Founder & CEO","pranay@signoz.io","https://www.linkedin.com/in/pranay01/","✅ DIRECT CEO EMAIL — YC W21; open source observability; also hiring@signoz.io"),
+    ("Clarisights","Arun Srinivasan","Co-Founder & CEO","arun@clarisights.com","https://www.linkedin.com/in/arun-srinivasan-clarisights/","✅ DIRECT CEO EMAIL — Indiranagar Bangalore; marketing analytics for enterprises"),
+    ("Dukaan","Suumit Shah","Co-Founder & CEO","suumit@mydukaan.io","https://in.linkedin.com/in/suumitshah","Bengaluru; DIY e-commerce; CTO Subhash Choudhary; also support@mydukaan.io"),
+    ("Scribble Data","Dr. Venkata Pingali","Co-Founder & CEO","venkata@scribbledata.io","https://in.linkedin.com/in/pingali","✅ DIRECT CEO EMAIL — IIT Bombay; MLOps; Blume Ventures; Bangalore+Toronto; HIRING"),
+    ("Sprinto","Girish Redekar","Co-Founder & CEO","girish@sprinto.com","https://www.linkedin.com/in/girishredekar/","$32.2M Series B; autonomous compliance; prev RecruiterBox (acquired by Turn/River Capital)"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
