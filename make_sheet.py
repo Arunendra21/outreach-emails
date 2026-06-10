@@ -192,7 +192,7 @@ companies = [
     (179,"Haraxy Technologies","haraxy.co","Bespoke Software / Games","info@haraxy.co","contact","","","","","High","Sargasan Gandhinagar; also letstalk@haraxy.co"),
     (180,"iPredict IT Solutions","ipredictitsolutions.com","Odoo / IT Consulting","info@ipredictitsolutions.com","contact","","","","","High","602 Pratik Mall Kudasan Gandhinagar; Odoo specialist"),
     (181,"Niharika Softweb","niharikasofttech.com","Software Dev","info@niharikasoftweb.com","contact","","","","","Medium","Pramukh Mastana Arcade Kudasan Gandhinagar"),
-    (182,"AlpsLogic IT Solutions","alpslogic.in","UI/Cloud/Mobile","—","contact","","","","","Medium","415-419 Shree Ugati Corporate Park Kudasan Gandhinagar"),
+    (182,"AlpsLogic IT Solutions","alpslogic.in","UI/Cloud/Mobile","info@alpslogic.in","contact","","","","","Medium","415-419 Shree Ugati Corporate Park Kudasan Gandhinagar; 20+ years; .NET/SharePoint"),
     # ── ROUND 7: More Gandhinagar + GIFT City MNCs ───────────────────────────
     (183,"Computyne","computyne.com","Data/BPO/KPO","info@computyne.com","contact","","","","","High","3/2 Alpha Arcade Infocity Circle Gandhinagar; 24x7 operation"),
     (184,"Samaj Infotech","samajinfotech.com","Game Dev / Mobile / Web","—","contact","","","","","Medium","236 Radhe Square Kudasan Gandhinagar; 100+ team; founded by Naresh & Upen Patel"),
@@ -204,6 +204,14 @@ companies = [
     (189,"C-Metric Solutions","c-metric.com","Enterprise Software / MS Partner","info@c-metric.com","contact","","","","","High","302 IT Tower-2 Infocity Gandhinagar; also sales@; USA office; Microsoft Silver Partner"),
     (190,"Bugle Technologies","bugle.in","Digital Consulting / Product Dev","sales@bugle.in","contact","","","","","High","Plot 520 Sector-1 Gandhinagar; founded 2006; also USA office"),
     (191,"Signzy","signzy.com","AI Fintech / Digital Trust","connect@signzy.com","contact","","","","https://www.signzy.com/careers","High","AI-based fintech; GIFT City presence; cross-border payments"),
+    # ── ROUND 9: More Gandhinagar + Infocity + PDPU corridor ────────────────
+    (192,"Shayona Infotech","shayonainfotech.com","Web / Mobile / SEO","info@shayonainfotech.com","contact","","","","","High","C-207 Business Park PDPU Road Raysan Gandhinagar; iOS/Android/CMS"),
+    (193,"Kshatrainfotech","kshatrainfotech.com","ML / Image Processing / Web","hr@kshatrainfotech.com","careers","","","","","High","DIRECT HR EMAIL ✅ — 321/G Super Mall 1 Infocity Gandhinagar; ML & Image Processing focus"),
+    (194,"Electrocom Technology","electrocom.in","Software Products / IoT","info@electrocom.in","contact","","","","","Medium","C-12 Electronics Zone GIDC Sector 25 Gandhinagar; software products since 2000"),
+    (195,"Silver Touch Technologies","silvertouch.com","SAP / ERP / Cloud / AI","info@silvertouch.com","contact","","","","https://www.silvertouch.com/career/","High","1000+ employees; Ahmedabad HQ + Gandhinagar ops; USA/UK/Canada offices; SAP Gold Partner"),
+    (196,"Dev Information Technology","devitpl.com","ERP / Cloud / Security","presales@devitpl.com","contact","","","","https://devitpl.com/careers/","High","NSE/BSE listed; CMMI Level 3; ISO 27001; 28+ years; Ahmedabad/Gandhinagar; AWS+MS partner"),
+    (197,"Krify Software","krify.co","App Dev / AI / Web","hr@krify.com","careers","","","","https://krify.co/careers/","High","DIRECT HR EMAIL ✅ — Gandhinagar presence; internship program for IIIT/IIT/NIT students"),
+    (198,"eInfochips (Arrow)","einfochips.com","IoT / Embedded / AI / ML","marketing@einfochips.com","contact","","","","https://careers.einfochips.com/","High","2000+ employees; Ahmedabad (near Gandhinagar); Arrow company; product engineering leader"),
 ]
 
 hr_contacts = [
@@ -263,6 +271,12 @@ hr_contacts = [
     ("Cybage Software","Careers Team","Careers","careers@cybage.com","https://www.cybage.com/careers","✅ VERIFIED — Tower II Infocity Gandhinagar"),
     ("Anblicks","Careers Team","Careers","careers@anblicks.com","","✅ VERIFIED — also info@ and marketing@anblicks.com"),
     ("AvenuesAI (Infibeam)","Contact Team","General","contactus@avenuesai.com","","✅ VERIFIED — also ir@, corpcom@avenuesai.com; GIFT City"),
+    # ── Round 9: More Gandhinagar HR contacts ────────────────────────────────
+    ("Kshatrainfotech","HR Team","HR","hr@kshatrainfotech.com","","✅ VERIFIED — Infocity Gandhinagar; ML/Image Processing focus; also support@kshatrainfotech.com"),
+    ("Krify Software","HR Team","HR / Internships","hr@krify.com","https://krify.co/careers/","✅ VERIFIED — internship program for IIIT/IIT/NIT students; Python, Mobile, Data Analytics"),
+    ("Silver Touch Technologies","CS Team","Client Services","info@silvertouch.com","https://www.silvertouch.com/career/","SAP Gold Partner; 1000+ employees; Gandhinagar + global offices"),
+    ("AlpsLogic IT Solutions","Contact Team","General","info@alpslogic.in","","VERIFIED — 20+ years; .NET/SharePoint/Mobile; Kudasan Gandhinagar"),
+    ("Shayona Infotech","Contact Team","General","info@shayonainfotech.com","","VERIFIED — PDPU Road Raysan Gandhinagar; Founder: Devdattsinh Raol"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]

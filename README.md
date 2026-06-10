@@ -4,20 +4,26 @@ Private repository containing all scraped company emails and HR contacts for pai
 
 ## Files
 
-- `emails.csv` — 143 companies with general contact emails, categories, priority levels
-- `hr_contacts.csv` — 38 named HR/TA contacts with direct emails and LinkedIn profiles
+- `emails.csv` — 198 companies with general contact emails, categories, priority levels
+- `hr_contacts.csv` — 53 named HR/TA/founder contacts with direct emails and LinkedIn profiles
 - `make_sheet.py` — Python script to generate formatted Excel spreadsheet
 
 ## Stats
 
-- **143** companies (Dubai/UAE/Remote tech)
-- **38** named HR contacts with direct emails
-- **~85** High-priority targets
-- **~15** verified direct HR/careers/recruitment inboxes
+- **198** companies (Dubai/UAE + Gandhinagar/GIFT City/Infocity)
+- **53** named HR contacts with direct emails
+- **~130** High-priority targets
+- **~25** verified direct HR/careers/recruitment inboxes
+
+## Regions
+
+- **Rounds 1-3**: Dubai/UAE tech companies (#1-143)
+- **Rounds 4-8**: GIFT City, Infocity, Kudasan, Sargasan, Gandhinagar (#144-191)
+- **Round 9**: PDPU corridor, Infocity expansion, Arrow/eInfochips (#192-198)
 
 ## Categories
 
-Fintech, PropTech, HealthTech, EdTech, AI/ML, SaaS, Web Dev, App Dev, FoodTech, Logistics, Payments, Cybersecurity, Digital Marketing
+Fintech, PropTech, HealthTech, EdTech, AI/ML, SaaS, Web Dev, App Dev, FoodTech, Logistics, Payments, Cybersecurity, Digital Marketing, IoT, Embedded, ERP, SAP
 
 ## Usage
 
