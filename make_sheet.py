@@ -356,6 +356,11 @@ companies = [
     (309,"Third Rock Techkno","thirdrocktechkno.com","AI Software Development / Web / Mobile","hr@thirdrocktechkno.com","careers","Krunal Shah","Co-Founder & CEO","krunal@thirdrocktechkno.com","https://www.linkedin.com/in/krunalhshah/","High","CG Road Ahmedabad; AI-enabled software dev; HR Sr Executive: Varun Kotaria (ZoomInfo v***@thirdrocktechkno.com); hiring via Instahyre + careers page; Co-founders: Tapan Patel, Nishant"),
     (310,"AllianceTek","alliancetek.com","Software / AI / Digital Transformation","hello@alliancetek.com","contact","Sunil Jagani","Founder, President & CTO","hello@alliancetek.com","https://www.linkedin.com/company/alliancetek","High","✅ DIRECT EMAIL — Sola Ahmedabad office (+US HQ); founded 2004; AI + digital transformation"),
     (311,"WeblineIndia","weblineindia.com","Offshore Software Development","info@weblineindia.com","contact","Atul Mehta","Co-Founder & CEO","info@weblineindia.com","https://in.linkedin.com/company/weblineindia","High","Mithakhali Ahmedabad; offshore software dev; careers page accepts open applications; Co-founder: Vipul M (CTO)"),
+    # ── ROUND 38: Bangalore AI ITSM / DevTools / Climate DeepTech ─────────────
+    (312,"Atomicwork","atomicwork.com","AI ITSM / Enterprise Service Mgmt","vijay@atomicwork.com","contact","Vijay Rayapati","Co-Founder & CEO","vijay@atomicwork.com","https://www.linkedin.com/in/amnigos/","High","Bengaluru + SF + Singapore; Khosla Ventures-backed AI alternative to ServiceNow; Co-founders: Kiran Darisi (ex-Freshworks founding team), Parsuram Vijayasankar; email pattern estimated"),
+    (313,"DevRev","devrev.ai","AI CRM / Support Platform / DevTools","dheeraj.pandey@devrev.ai","contact","Dheeraj Pandey","Co-Founder & CEO","dheeraj.pandey@devrev.ai","https://www.linkedin.com/in/dpandey/","High","✅ DIRECT CEO EMAIL — large Bengaluru office (Adarsh Palm Retreat, Bellandur); founded by ex-Nutanix CEO; Adobe board member; Co-founder: Manoj Agarwal"),
+    (314,"Log9 Materials","log9materials.com","Climate DeepTech / EV Batteries / Nanotech","contact@log9materials.com","contact","Akshay Singhal","Founder & CEO","akshay@log9materials.com","https://in.linkedin.com/in/akshay-singhal-log9","High","Bangalore; Forbes 30U30 Asia; aluminium fuel cells + rapid charging EV batteries; IIT Roorkee PhD; Co-founder: Karthik Hajela (COO); email pattern estimated"),
+    (315,"String Bio","stringbio.com","Industrial Biotech / Methane-to-Protein","info@stringbio.com","contact","Ezhil Subbian","Co-Founder & CEO","ezhil@stringbio.com","https://in.linkedin.com/in/ezhilsubbian","High","Bangalore; methane → value-added products; UN/NITI Aayog Women Transforming India Award; 20 yrs biobased product dev; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -572,6 +577,11 @@ hr_contacts = [
     ("Third Rock Techkno","Varun Kotaria","HR Senior Executive","hr@thirdrocktechkno.com","https://www.linkedin.com/in/thirdrocktechkno-hr-686a17214/","CG Road Ahmedabad; ZoomInfo v***@thirdrocktechkno.com; CEO Krunal Shah"),
     ("AllianceTek","Sunil Jagani","Founder, President & CTO","hello@alliancetek.com","https://www.linkedin.com/company/alliancetek","✅ DIRECT EMAIL — Sola Ahmedabad; founded 2004"),
     ("WeblineIndia","Atul Mehta","Co-Founder & CEO","info@weblineindia.com","https://in.linkedin.com/company/weblineindia","Mithakhali Ahmedabad; open applications accepted on careers page"),
+    # ── Round 38: AI ITSM / DevTools / Climate DeepTech founders ──────────────
+    ("Atomicwork","Vijay Rayapati","Co-Founder & CEO","vijay@atomicwork.com","https://www.linkedin.com/in/amnigos/","Bengaluru; Khosla-backed AI ITSM; email pattern estimated"),
+    ("DevRev","Dheeraj Pandey","Co-Founder & CEO","dheeraj.pandey@devrev.ai","https://www.linkedin.com/in/dpandey/","✅ DIRECT CEO EMAIL — Bellandur Bengaluru office; ex-Nutanix CEO"),
+    ("Log9 Materials","Akshay Singhal","Founder & CEO","akshay@log9materials.com","https://in.linkedin.com/in/akshay-singhal-log9","Bangalore; EV batteries deeptech; Forbes 30U30; email pattern estimated"),
+    ("String Bio","Ezhil Subbian","Co-Founder & CEO","ezhil@stringbio.com","https://in.linkedin.com/in/ezhilsubbian","Bangalore; industrial biotech; UN award winner; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
