@@ -195,7 +195,7 @@ companies = [
     (182,"AlpsLogic IT Solutions","alpslogic.in","UI/Cloud/Mobile","info@alpslogic.in","contact","","","","","Medium","415-419 Shree Ugati Corporate Park Kudasan Gandhinagar; 20+ years; .NET/SharePoint"),
     # ── ROUND 7: More Gandhinagar + GIFT City MNCs ───────────────────────────
     (183,"Computyne","computyne.com","Data/BPO/KPO","info@computyne.com","contact","","","","","High","3/2 Alpha Arcade Infocity Circle Gandhinagar; 24x7 operation"),
-    (184,"Samaj Infotech","samajinfotech.com","Game Dev / Mobile / Web","—","contact","","","","","Medium","236 Radhe Square Kudasan Gandhinagar; 100+ team; founded by Naresh & Upen Patel"),
+    (184,"Samaj Infotech","samajinfotech.com","Game Dev / Mobile / Web","info@samajinfotech.com","contact","","","","","High","VERIFIED ✅ — 435 Pramukh Mastana Complex Kudasan Gandhinagar; 100+ team; founders: Naresh & Upen Patel"),
     (185,"InfyU Labs","infyulabs.com","AgriTech / IoT / AI","hello@infyulabs.com","contact","","","","https://infyulabs.com/careers","High","VERIFIED ✅ — IIT Gandhinagar Research Park; FICCI award winner"),
     (186,"Airbow IT Services","airbow.io","Web Dev / Digital Marketing","info@airbow.io","contact","","","","","High","502 Siddhraj Z Square Kudasan Gandhinagar; also UK office"),
     (187,"Cognizant GIFT City","cognizant.com","IT Services / BFSI / AI","—","careers","","","","https://careers.cognizant.com/global-en/gift-city-interview-invitational/","High","NEW center in GIFT City; hiring Software Devs, Full Stack, Data Analysts"),
@@ -212,6 +212,12 @@ companies = [
     (196,"Dev Information Technology","devitpl.com","ERP / Cloud / Security","presales@devitpl.com","contact","","","","https://devitpl.com/careers/","High","NSE/BSE listed; CMMI Level 3; ISO 27001; 28+ years; Ahmedabad/Gandhinagar; AWS+MS partner"),
     (197,"Krify Software","krify.co","App Dev / AI / Web","hr@krify.com","careers","","","","https://krify.co/careers/","High","DIRECT HR EMAIL ✅ — Gandhinagar presence; internship program for IIIT/IIT/NIT students"),
     (198,"eInfochips (Arrow)","einfochips.com","IoT / Embedded / AI / ML","marketing@einfochips.com","contact","","","","https://careers.einfochips.com/","High","2000+ employees; Ahmedabad (near Gandhinagar); Arrow company; product engineering leader"),
+    # ── ROUND 10: More Gandhinagar startups + founders ──────────────────────
+    (199,"Awedus","awedus.com","HR Software / Employee Mgmt","hello@awedus.com","contact","Bhavesh Tarkhala","CEO","hello@awedus.com","","High","407 Capitol Icon Sargasan Gandhinagar; CEO: Bhavesh Tarkhala; also help@awedus.com"),
+    (200,"TIS India","tisindia.com","Digital Consulting / Salesforce","hr@tisindia.com","careers","","","","https://tisindia.com/careers/","High","DIRECT HR EMAIL ✅ — Infocity Gandhinagar; web dev, digital marketing, Salesforce consulting"),
+    (201,"Certopus","certopus.com","SaaS / Certificate Mgmt","support@certopus.com","contact","","","","","High","Gandhinagar-based SaaS; parent: DevSquirrel Technologies; WhatsApp: +919558817787"),
+    (202,"Yudiz Solutions","yudiz.com","Game Dev / Blockchain / AR-VR / AI","contact@yudiz.com","contact","Chirag Leuva","CEO & Director","contact@yudiz.com","https://in.linkedin.com/company/yudiz-solutions-ltd","High","400+ team; Ahmedabad HQ (near Gandhinagar); USA+Canada offices; HR: +91 7874400606"),
+    (203,"Cyfuture","cyfuture.com","Cloud / IT Infrastructure / BPO","info@cyfuture.com","contact","","","","https://cyfuture.com/careers.html","High","Sarkhej Gujarat office; cloud hosting, data centers, tech support BPO; 9 global locations"),
 ]
 
 hr_contacts = [
@@ -277,6 +283,12 @@ hr_contacts = [
     ("Silver Touch Technologies","CS Team","Client Services","info@silvertouch.com","https://www.silvertouch.com/career/","SAP Gold Partner; 1000+ employees; Gandhinagar + global offices"),
     ("AlpsLogic IT Solutions","Contact Team","General","info@alpslogic.in","","VERIFIED — 20+ years; .NET/SharePoint/Mobile; Kudasan Gandhinagar"),
     ("Shayona Infotech","Contact Team","General","info@shayonainfotech.com","","VERIFIED — PDPU Road Raysan Gandhinagar; Founder: Devdattsinh Raol"),
+    # ── Round 10: Founders & HR contacts ─────────────────────────────────────
+    ("Awedus","Bhavesh Tarkhala","CEO","hello@awedus.com","","CEO of Awedus; HR/Employee mgmt SaaS; 407 Capitol Icon Sargasan Gandhinagar"),
+    ("TIS India","HR Team","HR","hr@tisindia.com","https://tisindia.com/careers/","✅ VERIFIED — Infocity Gandhinagar; Digital consulting + Salesforce"),
+    ("Samaj Infotech","Naresh Patel & Upen Patel","Co-Founders","info@samajinfotech.com","","✅ VERIFIED — 100+ team game dev studio; Kudasan Gandhinagar"),
+    ("Yudiz Solutions","Chirag Leuva","CEO & Director","contact@yudiz.com","https://in.linkedin.com/company/yudiz-solutions-ltd","400+ team; Game/Blockchain/AR-VR; HR phone: +91 7874400606"),
+    ("Certopus","Vraj (Team Lead)","Demos/Sales","support@certopus.com","","Gandhinagar SaaS startup; certificate management platform; WhatsApp: +919558817787"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
