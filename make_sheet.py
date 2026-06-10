@@ -229,6 +229,11 @@ companies = [
     (210,"SerpentCS","serpentcs.com","Odoo ERP / CMMI3 / ISO","contact@serpentcs.com","contact","Husen Daudi & Jay Vora","Co-Founders / MDs","contact@serpentcs.com","https://www.linkedin.com/company/serpent-consulting-services","High","301 Siddhraj Zavod Sargasan Gandhinagar; Odoo top contributor; 50+ Odoo apps; since 2011"),
     (211,"Caret IT Solutions","caretit.com","Odoo ERP / Business Automation","info@caretit.com","contact","","","","https://in.linkedin.com/company/caret-it-solutions","High","706-709 Pratik Complex Kudasan Gandhinagar; Odoo GOLD Partner; India + Canada"),
     (212,"Prabhu Studio","prabhustudio.com","Animation / VFX / Web / Mobile","prabhu@prabhustudio.com","contact","Akash Pandya","Founder","prabhu@prabhustudio.com","","High","Adalaj Infocity Gandhinagar; since 2006; Animation/VFX/Web/Mobile; Founder: Akash Pandya"),
+    # ── ROUND 13: More Gandhinagar + CEO emails ────────────────────────────
+    (213,"Honeycomb Softwares","honeycombsoftwares.com","Web / Mobile / Cloud","contact@honeycombsoftwares.com","contact","Janak Darji","Founder & MD","janak@honeycombsoftwares.com","https://in.linkedin.com/in/janakndarji","High","A-404 Landmark Kudasan Gandhinagar; 30+ team; since 2012; Founder & CEO: Janak Darji; ZoomInfo confirmed j***@honeycombsoftwares.com"),
+    (214,"Electroweb Solution","electroweb.in","Web Dev / Mobile / SEO","info@electroweb.in","contact","","","","","High","208 Shalin Centrum Sector-11 Gandhinagar; since 2012; leading IT company; Ph: +91 99040 35282"),
+    (215,"Sanskar Technolab","sanskartechnolab.com","ERPNext / ERP / IT","career@sanskartechnolab.com","careers","Anand Thakker","Founder & CEO","career@sanskartechnolab.com","","High","DIRECT CAREER EMAIL ✅ — Frappe/ERPNext Partner; 64+ devs; 10+ years; also info@; HR Ph: +91 93136 55703"),
+    (216,"Tiny Script Soft Tech","tinyscript.in","Web / Multimedia / IT","tinyscriptsofttech@gmail.com","contact","Akash Patel","Director","tinyscriptsofttech@gmail.com","https://in.linkedin.com/company/tiny-script-soft-tech-pvt-ltd","Medium","GIDC Vatva Ahmedabad; incorporated Sept 2022; hiring in Gandhinagar area"),
 ]
 
 hr_contacts = [
@@ -308,6 +313,11 @@ hr_contacts = [
     ("SerpentCS","Husen Daudi","Co-Founder & MD","contact@serpentcs.com","https://www.linkedin.com/company/serpent-consulting-services","Sargasan Gandhinagar; Odoo top contributor since 2011; CMMI3+ISO certified"),
     ("SerpentCS","Jay Vora","Co-Founder & MD","contact@serpentcs.com","","Co-founded with Husen Daudi; working on Odoo since 2007 (TinyERP era)"),
     ("Prabhu Studio","Akash Pandya","Founder","prabhu@prabhustudio.com","","Adalaj/Infocity Gandhinagar; Animation/VFX/Web since 2006; phone: +91 9824264610"),
+    # ── Round 13: More Gandhinagar founders + CEO emails ─────────────────
+    ("Honeycomb Softwares","Janak Darji","Founder & MD","janak@honeycombsoftwares.com","https://in.linkedin.com/in/janakndarji","Kudasan Gandhinagar; 30+ team; 15+ yrs IT exp; ZoomInfo: j***@honeycombsoftwares.com; also contact@honeycombsoftwares.com"),
+    ("Sanskar Technolab","Anand Thakker","Founder & CEO","career@sanskartechnolab.com","","ERPNext specialist; 64+ devs; 10+ yrs exp; also info@sanskartechnolab.com; HR: +91 93136 55703"),
+    ("DRC Systems","Hiten Barchha","CEO & Managing Director","hiten@drcsystems.com","","✅ DIRECT CEO EMAIL — GIFT City 24th Floor; 300+ employees; public company (NSE listed)"),
+    ("DRC Systems","Kirit Gajera","Co-Founder & COO","","","Co-Founder of DRC Systems; also COO; GIFT City Gandhinagar"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]

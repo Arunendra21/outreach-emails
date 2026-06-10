@@ -1,4 +1,4 @@
-#,Company,Website,Category,General Contact Email,Email Type,HR Person Name,HR Person Title,HR Person Direct Email,LinkedIn Profile,Priority,Notes
+ID,Company,Website,Category,Email,Email Type,HR Name,HR Title,HR Email,LinkedIn,Priority,Notes
 1,Blink22,blink22.com,Web Dev,hello@blink22.com,contact,,,,,Medium,Send cold email; ask to forward to hiring manager
 2,Shakuro,shakuro.com,Web/UX,hi@shakuro.com,contact,,,,,Medium,Send cold email
 3,ExpandX,expandx.ae,Web Dev,info@expandx.ae,contact,,,,,High,Dubai-based
@@ -212,3 +212,7 @@
 210,SerpentCS,serpentcs.com,Odoo ERP / CMMI3 / ISO,contact@serpentcs.com,contact,Husen Daudi & Jay Vora,Co-Founders / MDs,contact@serpentcs.com,https://www.linkedin.com/company/serpent-consulting-services,High,301 Siddhraj Zavod Sargasan Gandhinagar; Odoo top contributor; 50+ Odoo apps; since 2011
 211,Caret IT Solutions,caretit.com,Odoo ERP / Business Automation,info@caretit.com,contact,,,,https://in.linkedin.com/company/caret-it-solutions,High,706-709 Pratik Complex Kudasan Gandhinagar; Odoo GOLD Partner; India + Canada
 212,Prabhu Studio,prabhustudio.com,Animation / VFX / Web / Mobile,prabhu@prabhustudio.com,contact,Akash Pandya,Founder,prabhu@prabhustudio.com,,High,Adalaj Infocity Gandhinagar; since 2006; Animation/VFX/Web/Mobile; Founder: Akash Pandya
+213,Honeycomb Softwares,honeycombsoftwares.com,Web / Mobile / Cloud,contact@honeycombsoftwares.com,contact,Janak Darji,Founder & MD,janak@honeycombsoftwares.com,https://in.linkedin.com/in/janakndarji,High,A-404 Landmark Kudasan Gandhinagar; 30+ team; since 2012; Founder & CEO: Janak Darji; ZoomInfo confirmed j***@honeycombsoftwares.com
+214,Electroweb Solution,electroweb.in,Web Dev / Mobile / SEO,info@electroweb.in,contact,,,,,High,208 Shalin Centrum Sector-11 Gandhinagar; since 2012; leading IT company; Ph: +91 99040 35282
+215,Sanskar Technolab,sanskartechnolab.com,ERPNext / ERP / IT,career@sanskartechnolab.com,careers,Anand Thakker,Founder & CEO,career@sanskartechnolab.com,,High,DIRECT CAREER EMAIL ✅ — Frappe/ERPNext Partner; 64+ devs; 10+ years; also info@; HR Ph: +91 93136 55703
+216,Tiny Script Soft Tech,tinyscript.in,Web / Multimedia / IT,tinyscriptsofttech@gmail.com,contact,Akash Patel,Director,tinyscriptsofttech@gmail.com,https://in.linkedin.com/company/tiny-script-soft-tech-pvt-ltd,Medium,GIDC Vatva Ahmedabad; incorporated Sept 2022; hiring in Gandhinagar area
