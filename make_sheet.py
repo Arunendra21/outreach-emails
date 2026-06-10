@@ -335,6 +335,10 @@ companies = [
     (293,"Samcom Technologies","samcomtechnologies.com","AI Voice / Chat / Workflow Automation","ketan@samcomtechnologies.com","contact","Ketan Jadhav","Founder & CEO","ketan@samcomtechnologies.com","https://theorg.com/org/samcom-technologies/org-chart/ketan-jadhav","High","Motera Ahmedabad (Gandhinagar border); AI voice/chat/workflow automation; 20+ yrs experience; founded 2013; ZoomInfo confirmed k***@samcomtechnologies.com"),
     (294,"Evolvision Technologies","evolvision.com","Web / Software Development","business@evolvision.com","contact","Jimit Joshi","Founder & CEO","business@evolvision.com","https://in.linkedin.com/in/jimitjoshi","High","✅ PHONE: +91-9510645454 — Pramukh Arcade-2 Kudasan Gandhinagar; partners: Jimit Joshi + Sandip Patel"),
     (295,"Unity Infoway","unityinfoway.com","Web / Mobile Development","info@unityinfoway.com","contact","Rahul Gondaliya","Founder","info@unityinfoway.com","https://in.linkedin.com/company/unity-infoway","High","Radhe Infinity, Rakshashakti Circle, Kudasan Gandhinagar; serving since 2011; email estimated"),
+    # ── ROUND 33: Bangalore Fintech Infra / Credit Cards / Document AI ────────
+    (296,"Setu","setu.co","Fintech API Infrastructure / Open Banking","hello@setu.co","contact","Anand Raisinghani","CEO","hello@setu.co","https://in.linkedin.com/company/setu-co","High","Infantry Road Bangalore; fintech infra APIs (payments, data, lending); acquired by Pine Labs; founded by Sahil Kini + Nikhil Kumar (2018); strong intern program reputation"),
+    (297,"Hyperface","hyperface.co","Credit Cards-as-a-Service / Fintech","ramanathan@hyperface.co","contact","Ramanathan RV","Co-Founder & CEO","ramanathan@hyperface.co","https://in.linkedin.com/in/ramanathanrv","High","Koramangala Bangalore; credit card program platform; CEO is ex-Juspay CTO + built India's first UPI app BHIM; Co-founder: Aishwarya Jaishankar (ex-HSBC); email pattern estimated"),
+    (298,"Docsumo","docsumo.com","Document AI / OCR / Agentic Processing","careers@docsumo.com","careers","Rushabh Sheth","Co-Founder & CEO","rushabh@docsumo.com","https://www.linkedin.com/in/rushabhasheth/","High","Bangalore + Mumbai + NYC offices; agentic document processing; IIT Bombay + IIM Bangalore CEO; Co-founder: Bikram Dahal (CTO); Ph: +91 9892632246; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -530,6 +534,10 @@ hr_contacts = [
     ("Samcom Technologies","Ketan Jadhav","Founder & CEO","ketan@samcomtechnologies.com","https://theorg.com/org/samcom-technologies/org-chart/ketan-jadhav","Motera/Gandhinagar border; AI automation; ZoomInfo k***@samcomtechnologies.com"),
     ("Evolvision Technologies","Jimit Joshi","Founder & CEO","business@evolvision.com","https://in.linkedin.com/in/jimitjoshi","✅ PHONE: +91-9510645454 — Kudasan Gandhinagar"),
     ("Unity Infoway","Rahul Gondaliya","Founder","info@unityinfoway.com","https://in.linkedin.com/company/unity-infoway","Kudasan Gandhinagar; web/mobile dev since 2011"),
+    # ── Round 33: Fintech Infra / Credit Cards / Document AI founders ─────────
+    ("Setu","Anand Raisinghani","CEO","hello@setu.co","https://in.linkedin.com/company/setu-co","Infantry Road Bangalore; Pine Labs-owned fintech infra; known for good intern program"),
+    ("Hyperface","Ramanathan RV","Co-Founder & CEO","ramanathan@hyperface.co","https://in.linkedin.com/in/ramanathanrv","Koramangala Bangalore; ex-Juspay CTO; built BHIM UPI; email pattern estimated"),
+    ("Docsumo","Rushabh Sheth","Co-Founder & CEO","rushabh@docsumo.com","https://www.linkedin.com/in/rushabhasheth/","Bangalore office; document AI; IIT-B + IIM-B; Ph: +91 9892632246"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
