@@ -305,6 +305,10 @@ companies = [
     (270,"Hiver","hiverhq.com","AI Customer Service / Email Helpdesk / SaaS","niraj@hiverhq.com","contact","Niraj Ranjan Rout","Founder & CEO","niraj@hiverhq.com","https://www.linkedin.com/in/nirajranjan/","High","HSR Layout Bangalore; $46.2M funded (K1 Investment + Kalaari Capital); AI helpdesk built for Google Workspace; 10,000+ teams globally; IIT KGP; Co-founder: Nitesh Nandy; prev co-founded Mobicules"),
     (271,"Simplismart","simplismart.ai","AI Inference Infra / MLOps / GPU Cloud","amritanshu@simplismart.ai","contact","Amritanshu Jain","Co-Founder & CEO","amritanshu@simplismart.ai","https://www.linkedin.com/in/jainamritanshu/","High","Richmond Town Bangalore; $14M funded (Accel + Titan Capital); fastest AI inference engine; ex-Oracle ML Engineer; BITS Pilani; Co-founder: Devansh Ghatak (CTO)"),
     (272,"Pixis","pixis.ai","AI Marketing Cloud / Codeless AI Infra","shubham@pixis.ai","contact","Shubham A Mishra","Co-Founder & Global CEO","shubham@pixis.ai","https://www.linkedin.com/in/shubhammishra01/","High","Bengaluru + Burlingame; AI-powered marketing infrastructure; 201-500 employees; BITS Pilani; prev co-founded Absentia VR; Co-founders: Vrushali Prasade (CTO), Harikrishna Valiyath"),
+    # ── ROUND 26: Bangalore Digital Adoption / Open Source DevTools ───────────
+    (273,"Whatfix","whatfix.com","Digital Adoption Platform / AI / SaaS","khadim@whatfix.com","contact","Khadim Batti","Co-Founder & CEO","khadim@whatfix.com","https://in.linkedin.com/in/khadim","High","Bengaluru HQ; 800+ employees; 700+ enterprises incl Fortune 500; digital adoption + no-code analytics; CEO based in Bengaluru; IIIT-B governing body; Co-founder: Vara Kumar; ZoomInfo confirmed k***@whatfix.com"),
+    (274,"ToolJet","tooljet.com","Open Source Low-Code / AI Apps / DevTools","navaneeth@tooljet.com","contact","Navaneeth Padanna Kalathil","Founder & CEO","navaneeth@tooljet.com","https://www.linkedin.com/in/navaneeth-pk/","High","✅ DIRECT CEO EMAIL — Bangalore-rooted open source low-code platform; GitHub 35K+ stars; ACTIVELY HIRING engineers + PMs + designers; Ph: +91 9400812423; also navaneethpk@outlook.com"),
+    (275,"Hasura (PromptQL)","hasura.io","GraphQL API / AI Data Access / DevTools","tanmai@hasura.io","contact","Tanmai Gopal","Co-Founder & CEO","tanmai@hasura.io","https://www.linkedin.com/in/tanmaig/","High","Bangalore + SF offices; GraphQL engine + PromptQL AI; IIT Madras; $136M+ funded (unicorn 2022); Co-founder: Rajoshi Ghosh; HIRING via hasura.io/careers"),
 ]
 
 hr_contacts = [
@@ -470,6 +474,10 @@ hr_contacts = [
     ("Hiver","Niraj Ranjan Rout","Founder & CEO","niraj@hiverhq.com","https://www.linkedin.com/in/nirajranjan/","HSR Layout Bangalore; $46.2M funded; AI helpdesk for Google Workspace; IIT KGP; 10K+ teams"),
     ("Simplismart","Amritanshu Jain","Co-Founder & CEO","amritanshu@simplismart.ai","https://www.linkedin.com/in/jainamritanshu/","Richmond Town Bangalore; $14M funded Accel; AI inference engine; BITS Pilani; ex-Oracle"),
     ("Pixis","Shubham A Mishra","Co-Founder & Global CEO","shubham@pixis.ai","https://www.linkedin.com/in/shubhammishra01/","Bengaluru; codeless AI marketing infra; BITS Pilani; prev Absentia VR"),
+    # ── Round 26: Digital Adoption / Open Source DevTools founder contacts ────
+    ("Whatfix","Khadim Batti","Co-Founder & CEO","khadim@whatfix.com","https://in.linkedin.com/in/khadim","Bengaluru HQ; 800+ employees; digital adoption platform; ZoomInfo k***@whatfix.com confirmed"),
+    ("ToolJet","Navaneeth Padanna Kalathil","Founder & CEO","navaneeth@tooljet.com","https://www.linkedin.com/in/navaneeth-pk/","✅ DIRECT CEO EMAIL — open source low-code; HIRING engineers/PMs/designers; Ph: +91 9400812423"),
+    ("Hasura (PromptQL)","Tanmai Gopal","Co-Founder & CEO","tanmai@hasura.io","https://www.linkedin.com/in/tanmaig/","Bangalore + SF; GraphQL + PromptQL AI; IIT Madras; unicorn; hiring via hasura.io/careers"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
