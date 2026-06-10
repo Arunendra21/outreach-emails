@@ -319,6 +319,10 @@ companies = [
     (281,"Ultraviolette Automotive","ultraviolette.com","EV / Electric Motorcycles / Embedded AI","contact@ultraviolette.com","contact","Narayan Subramaniam","Co-Founder & CEO","narayan@ultraviolette.com","https://in.linkedin.com/in/narayan-s","High","Domlur Bangalore; F77 electric motorcycle maker; TVS-backed; competing with KTM/BMW; embedded software + battery AI roles; Co-founder: Niraj Rajmohan (CTO)"),
     (282,"River Mobility","rideriver.com","EV / Electric Scooters / Mobility","aravind@rideriver.com","contact","Aravind Mani","Co-Founder & CEO","aravind@rideriver.com","https://in.linkedin.com/in/aravindmani","High","Bengaluru; Indie electric scooter; backed by Yamaha + Maniv Mobility + TrucksVC; ZoomInfo confirmed a***@rideriver.com; Co-founder: Vipin George (CTO)"),
     (283,"Simple Energy","simpleenergy.in","EV / Electric Scooters / Battery Tech","info@simpleenergy.in","contact","Suhas Rajkumar","Founder & CEO","suhas@simpleenergy.in","https://in.linkedin.com/in/suhas-rajkumar-277824150","High","Yelahanka Bangalore; Simple One scooter (240km range); raised ₹250Cr to scale production; targeting 10x sales growth; software + BMS + connected vehicle roles"),
+    # ── ROUND 29: Bangalore Emotion AI / Conversational AI / Sovereign LLM ────
+    (284,"Entropik","entropik.io","Emotion AI / Consumer Insights / SaaS","info@entropiktech.com","contact","Ranjan Kumar","Co-Founder & CEO","ranjan@entropiktech.com","https://www.linkedin.com/in/ranjan-kr/","High","Bengaluru; Series B; global leader in Emotion AI; unified human insights platform; ZoomInfo confirmed R***@entropiktech.com; Ph: 080-4375-9863; Co-founders: Lava Kumar, Bharat Singh Shekhawat"),
+    (285,"Senseforth.ai","senseforth.ai","Conversational AI / NLP / Chatbots","contact@senseforth.ai","contact","Shridhar Marri","Co-Founder & CEO","shridhar@senseforth.ai","https://in.linkedin.com/in/shridharmarri","High","Girinagar Bangalore; enterprise conversational AI (banks, insurance); Co-founders: Krishna Kadiri, Ritesh Radhakrishnan (CTO); email pattern estimated"),
+    (286,"CoRover.ai","corover.ai","Conversational AI / BharatGPT / Sovereign LLM","contact@corover.ai","contact","Ankush Sabharwal","Founder & CEO","ankush@corover.ai","https://in.linkedin.com/in/ankushsabharwal","High","Bangalore; built BharatGPT (India's first LLM GenAI); 1B+ users served (IRCTC bot); 50,000+ enterprises; Series A (Canbank VC); Co-founders: Manav Gandotra, Kunal Bhakhri; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -498,6 +502,10 @@ hr_contacts = [
     ("Ultraviolette","Narayan Subramaniam","Co-Founder & CEO","narayan@ultraviolette.com","https://in.linkedin.com/in/narayan-s","Domlur Bangalore; F77 e-motorcycle; TVS-backed; estimated email pattern"),
     ("River Mobility","Aravind Mani","Co-Founder & CEO","aravind@rideriver.com","https://in.linkedin.com/in/aravindmani","Bengaluru; Yamaha-backed e-scooters; ZoomInfo confirmed a***@rideriver.com"),
     ("Simple Energy","Suhas Rajkumar","Founder & CEO","suhas@simpleenergy.in","https://in.linkedin.com/in/suhas-rajkumar-277824150","Yelahanka Bangalore; ₹250Cr raised; Simple One scooter; estimated email pattern"),
+    # ── Round 29: Emotion AI / Conversational AI / Sovereign LLM founders ─────
+    ("Entropik","Ranjan Kumar","Co-Founder & CEO","ranjan@entropiktech.com","https://www.linkedin.com/in/ranjan-kr/","Bengaluru; Series B Emotion AI; ZoomInfo confirmed R***@entropiktech.com; Ph: 080-4375-9863"),
+    ("Senseforth.ai","Shridhar Marri","Co-Founder & CEO","shridhar@senseforth.ai","https://in.linkedin.com/in/shridharmarri","Girinagar Bangalore; enterprise conversational AI; email pattern estimated"),
+    ("CoRover.ai","Ankush Sabharwal","Founder & CEO","ankush@corover.ai","https://in.linkedin.com/in/ankushsabharwal","Bangalore; BharatGPT creator; 1B+ users via IRCTC; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
