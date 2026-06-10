@@ -260,6 +260,13 @@ companies = [
     (233,"GoSats","gosats.io","Fintech / Bitcoin Rewards","roshan@gosats.io","contact","Mohammed Roshan","Co-Founder & CEO","roshan@gosats.io","https://in.linkedin.com/in/roshanaslam","High","YC W22 ✅ — Bengaluru; Bitcoin stacking/rewards app; 23 employees; Co-founder: Roshni Aslam"),
     (234,"Emergent","emergent.sh","AI App Builder / No-Code","team@emergent.sh","contact","Mukund Jha","Co-Founder & CEO","team@emergent.sh","https://www.linkedin.com/in/mukundjha/","High","YC S24 ✅ — $100M Series B (Lightspeed + SoftBank); 700K+ users; $10M ARR in 2 months; ex-Dunzo CTO; twin brothers; CTO Madhav Jha (PhD CS)"),
     (235,"Flagright","flagright.com","AML Compliance / Fintech / AI","gdpr@flagright.com","contact","Madhu G Nadig","Co-Founder & CTO","gdpr@flagright.com","https://www.linkedin.com/in/madhugnadig/","High","YC W22 ✅ — $4.3M seed; AI-native AML compliance; Bangalore office; CEO Baran Ozkan; offices in NY/SF/Berlin/Singapore/Bangalore"),
+    # ── ROUND 18: More Bangalore YC + AI startups ────────────────────────────
+    (236,"Rivia.AI","rivia.ai","Interactive Product Demos / SaaS","samay@rivia.ai","contact","Samay Jain","Co-Founder & CEO","samay@rivia.ai","https://www.linkedin.com/in/samayjain/","High","YC S21 ✅ — Bengaluru; 5 employees; create interactive product demos in 10 min; Co-founder: Prabal Agarwal (CTO); HIRING 1 engineering role"),
+    (237,"Infinity","infinityapp.in","Cross-Border Fintech / Banking","support@infinityapp.in","contact","Sourav Choraria","Co-Founder & CEO","sourav@infinityapp.in","https://www.linkedin.com/in/souravchoraria/","High","YC W24 ✅ — Bengaluru; $1.9M pre-seed; cross-border payments 70% cheaper; 15 employees; Co-founder: Sidharth Choraria; Ph: +91 95354 82864"),
+    (238,"Vahan.ai","vahan.ai","AI Recruiting / WhatsApp / HR Tech","madhav@vahan.ai","contact","Madhav Krishna","Founder & CEO","madhav@vahan.ai","https://in.linkedin.com/in/madhavkrishna","High","YC ✅ — Bengaluru; $23.7M funded (Khosla + Founders Fund); AI recruiter for blue-collar; clients: Zomato/Swiggy/Uber; Columbia CS Masters; WEF Tech Pioneer"),
+    (239,"smallest.ai","smallest.ai","Voice AI / TTS / STT / AI Agents","info@smallest.ai","contact","Sudarshan Kamath","Co-Founder & CEO","info@smallest.ai","https://www.linkedin.com/in/sudarshankamath/","High","Indiranagar Bangalore; voice AI models; Co-founder: Akshat Mandloi; ex-Bosch AI + Vakilsearch PM; viral Bangalore hiring post; Ph: +91 9637842074"),
+    (240,"Strac","strac.io","Data Security / DLP / DSPM / AI","aatish@strac.io","contact","Aatish Mandelecha","Founder & CEO","aatish@strac.io","https://www.linkedin.com/in/aatishmandelecha/","High","YC W22 ✅ — Bengaluru office; DLP for SaaS/Cloud/GenAI; ex-Amazon 11 yrs payments infra; ACTIVELY HIRING in Bengaluru"),
+    (241,"Kula","kula.ai","AI Recruitment / ATS / HR Tech","hello@kula.ai","contact","Achuthanand Ravi","Co-Founder & CEO","hello@kula.ai","https://www.linkedin.com/in/achuthanand-ravi/","High","Bengaluru + Singapore; $15M seed; AI-native ATS; ex-founding recruiter Freshworks + Uber + Stripe; Co-founders: Sathappan M, Suman Kumar Dey"),
 ]
 
 hr_contacts = [
@@ -380,6 +387,13 @@ hr_contacts = [
     ("GoSats","Mohammed Roshan","Co-Founder & CEO","roshan@gosats.io","https://in.linkedin.com/in/roshanaslam","✅ DIRECT CEO EMAIL — YC W22; Bitcoin rewards; Bengaluru"),
     ("Emergent","Mukund Jha","Co-Founder & CEO","team@emergent.sh","https://www.linkedin.com/in/mukundjha/","YC S24; $100M raised; ex-Dunzo CTO (Google-backed); twin brother Madhav Jha is CTO"),
     ("Flagright","Madhu G Nadig","Co-Founder & CTO","gdpr@flagright.com","https://www.linkedin.com/in/madhugnadig/","YC W22; $4.3M seed; AML compliance; Bangalore office; CEO Baran Ozkan based in SF"),
+    # ── Round 18: More Bangalore founder contacts ───────────────────────────
+    ("Rivia.AI","Samay Jain","Co-Founder & CEO","samay@rivia.ai","https://www.linkedin.com/in/samayjain/","✅ DIRECT CEO EMAIL — YC S21; 5 employees; interactive product demos; HIRING"),
+    ("Infinity","Sourav Choraria","Co-Founder & CEO","sourav@infinityapp.in","https://www.linkedin.com/in/souravchoraria/","YC W24; $1.9M pre-seed; cross-border fintech; brother Sidharth is co-founder"),
+    ("Vahan.ai","Madhav Krishna","Founder & CEO","madhav@vahan.ai","https://in.linkedin.com/in/madhavkrishna","✅ DIRECT CEO EMAIL — $23.7M funded; Columbia CS; WEF Tech Pioneer; Khosla + Founders Fund backed"),
+    ("smallest.ai","Sudarshan Kamath","Co-Founder & CEO","info@smallest.ai","https://www.linkedin.com/in/sudarshankamath/","Indiranagar Bangalore; voice AI; ex-Bosch AI; viral hiring post; Co-founder: Akshat Mandloi"),
+    ("Strac","Aatish Mandelecha","Founder & CEO","aatish@strac.io","https://www.linkedin.com/in/aatishmandelecha/","YC W22; ex-Amazon 11 yrs payments; DLP for SaaS/Cloud/GenAI; Bengaluru office"),
+    ("Kula","Achuthanand Ravi","Co-Founder & CEO","hello@kula.ai","https://www.linkedin.com/in/achuthanand-ravi/","$15M seed; ex-founding recruiter Freshworks/Uber/Stripe; AI-native ATS"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
