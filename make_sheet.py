@@ -315,6 +315,10 @@ companies = [
     (278,"Digantara","digantara.co.in","SpaceTech / Space Surveillance / Defence","anirudh@digantara.co.in","contact","Anirudh Sharma","Co-Founder & CEO","anirudh@digantara.co.in","https://in.linkedin.com/in/anirudh-sharma-digantara","High","✅ DIRECT CEO EMAIL — Hebbal Bangalore; $50M raised Dec 2025 (space-based missile defence); world's first commercial space surveillance satellite (SCOT); HIRING engineers + design + marketing; Co-founder: Rahul Rawat"),
     (279,"Bombay Play","bombayplay.com","Gaming / Casual Games / Studio","sruthi@bombayplay.com","careers","Oliver Jones","Co-Founder & CEO","sruthi@bombayplay.com","https://www.linkedin.com/in/oliverjones-games/","High","✅ DIRECT HIRING EMAIL — Indiranagar Bangalore; casual game studio; send resume to sruthi@bombayplay.com; Co-founder: Abhas Saroha"),
     (280,"Mayhem Studios","mayhem-studios.com","Gaming / AAA Mobile / Battle Royale","careers@mayhem-studios.com","careers","Ojas Vipat","Founder & CEO","careers@mayhem-studios.com","https://www.linkedin.com/in/ojasvipat/","High","Bangalore; India's first AAA mobile gaming studio; backed by MPL (Mobile Premier League); built Underworld Gang Wars (UGW)"),
+    # ── ROUND 28: Bangalore EV / Mobility startups ────────────────────────────
+    (281,"Ultraviolette Automotive","ultraviolette.com","EV / Electric Motorcycles / Embedded AI","contact@ultraviolette.com","contact","Narayan Subramaniam","Co-Founder & CEO","narayan@ultraviolette.com","https://in.linkedin.com/in/narayan-s","High","Domlur Bangalore; F77 electric motorcycle maker; TVS-backed; competing with KTM/BMW; embedded software + battery AI roles; Co-founder: Niraj Rajmohan (CTO)"),
+    (282,"River Mobility","rideriver.com","EV / Electric Scooters / Mobility","aravind@rideriver.com","contact","Aravind Mani","Co-Founder & CEO","aravind@rideriver.com","https://in.linkedin.com/in/aravindmani","High","Bengaluru; Indie electric scooter; backed by Yamaha + Maniv Mobility + TrucksVC; ZoomInfo confirmed a***@rideriver.com; Co-founder: Vipin George (CTO)"),
+    (283,"Simple Energy","simpleenergy.in","EV / Electric Scooters / Battery Tech","info@simpleenergy.in","contact","Suhas Rajkumar","Founder & CEO","suhas@simpleenergy.in","https://in.linkedin.com/in/suhas-rajkumar-277824150","High","Yelahanka Bangalore; Simple One scooter (240km range); raised ₹250Cr to scale production; targeting 10x sales growth; software + BMS + connected vehicle roles"),
 ]
 
 hr_contacts = [
@@ -490,6 +494,10 @@ hr_contacts = [
     ("Digantara","Anirudh Sharma","Co-Founder & CEO","anirudh@digantara.co.in","https://in.linkedin.com/in/anirudh-sharma-digantara","✅ DIRECT CEO EMAIL — Hebbal Bangalore; $50M Dec 2025; space surveillance; HIRING"),
     ("Bombay Play","Sruthi (Hiring)","Recruiting","sruthi@bombayplay.com","https://www.linkedin.com/company/bombay-play","✅ DIRECT HIRING EMAIL — Indiranagar Bangalore; casual games; CEO Oliver Jones"),
     ("Mayhem Studios","Ojas Vipat","Founder & CEO","careers@mayhem-studios.com","https://www.linkedin.com/in/ojasvipat/","Bangalore; AAA mobile gaming; MPL-backed; Underworld Gang Wars"),
+    # ── Round 28: EV / Mobility founder contacts ──────────────────────────────
+    ("Ultraviolette","Narayan Subramaniam","Co-Founder & CEO","narayan@ultraviolette.com","https://in.linkedin.com/in/narayan-s","Domlur Bangalore; F77 e-motorcycle; TVS-backed; estimated email pattern"),
+    ("River Mobility","Aravind Mani","Co-Founder & CEO","aravind@rideriver.com","https://in.linkedin.com/in/aravindmani","Bengaluru; Yamaha-backed e-scooters; ZoomInfo confirmed a***@rideriver.com"),
+    ("Simple Energy","Suhas Rajkumar","Founder & CEO","suhas@simpleenergy.in","https://in.linkedin.com/in/suhas-rajkumar-277824150","Yelahanka Bangalore; ₹250Cr raised; Simple One scooter; estimated email pattern"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
