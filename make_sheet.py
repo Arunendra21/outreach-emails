@@ -225,6 +225,10 @@ companies = [
     (207,"Drize Technologies","drizetech.com","Web / Cloud / Digital Marketing","info@drizetech.com","contact","","","","","Medium","Adalaj Gandhinagar; AWS/GCloud/Azure; also Thaltej office"),
     (208,"Sai Branding","saibranding.com","Digital Marketing / Branding / Web","hello@saibranding.com","contact","Nishant Darji","Founder & CEO","hello@saibranding.com","","High","509-510 Synergy Space Sargasan Gandhinagar; since 2012; Founder: Nishant Darji"),
     (209,"Realcode Infotech","realcodeinfotech.com","Web / Mobile / Bulk SMS","—","contact","Somnath Khandare","Managing Director","—","","Medium","Sector 3 Gandhinagar; since 2016; MD: Somnath Khandare"),
+    # ── ROUND 12: Odoo partners + studios + deep finds ──────────────────────
+    (210,"SerpentCS","serpentcs.com","Odoo ERP / CMMI3 / ISO","contact@serpentcs.com","contact","Husen Daudi & Jay Vora","Co-Founders / MDs","contact@serpentcs.com","https://www.linkedin.com/company/serpent-consulting-services","High","301 Siddhraj Zavod Sargasan Gandhinagar; Odoo top contributor; 50+ Odoo apps; since 2011"),
+    (211,"Caret IT Solutions","caretit.com","Odoo ERP / Business Automation","info@caretit.com","contact","","","","https://in.linkedin.com/company/caret-it-solutions","High","706-709 Pratik Complex Kudasan Gandhinagar; Odoo GOLD Partner; India + Canada"),
+    (212,"Prabhu Studio","prabhustudio.com","Animation / VFX / Web / Mobile","prabhu@prabhustudio.com","contact","Akash Pandya","Founder","prabhu@prabhustudio.com","","High","Adalaj Infocity Gandhinagar; since 2006; Animation/VFX/Web/Mobile; Founder: Akash Pandya"),
 ]
 
 hr_contacts = [
@@ -300,6 +304,10 @@ hr_contacts = [
     ("Lucent Innovation","Nitesh Kasma","CEO & Co-Founder","nitesh@lucentinnovation.com","https://www.linkedin.com/in/niteshkasma/","GIFT-SEZ Gandhinagar; 142 employees; Databricks Partner; phone: +91 9426212181"),
     ("Electroware Infotech","Tarang Patel","Director (likely)","tarangpatel@electroware.net","","Sector 11 Gandhinagar; FinTech/Tally specialist since 1999"),
     ("Sai Branding","Nishant Darji","Founder & CEO","hello@saibranding.com","","Sargasan Gandhinagar; digital marketing + branding since 2012"),
+    # ── Round 12: Odoo partners + studio founders ────────────────────────────
+    ("SerpentCS","Husen Daudi","Co-Founder & MD","contact@serpentcs.com","https://www.linkedin.com/company/serpent-consulting-services","Sargasan Gandhinagar; Odoo top contributor since 2011; CMMI3+ISO certified"),
+    ("SerpentCS","Jay Vora","Co-Founder & MD","contact@serpentcs.com","","Co-founded with Husen Daudi; working on Odoo since 2007 (TinyERP era)"),
+    ("Prabhu Studio","Akash Pandya","Founder","prabhu@prabhustudio.com","","Adalaj/Infocity Gandhinagar; Animation/VFX/Web since 2006; phone: +91 9824264610"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
