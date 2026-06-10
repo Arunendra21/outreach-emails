@@ -267,6 +267,12 @@ companies = [
     (239,"smallest.ai","smallest.ai","Voice AI / TTS / STT / AI Agents","info@smallest.ai","contact","Sudarshan Kamath","Co-Founder & CEO","info@smallest.ai","https://www.linkedin.com/in/sudarshankamath/","High","Indiranagar Bangalore; voice AI models; Co-founder: Akshat Mandloi; ex-Bosch AI + Vakilsearch PM; viral Bangalore hiring post; Ph: +91 9637842074"),
     (240,"Strac","strac.io","Data Security / DLP / DSPM / AI","aatish@strac.io","contact","Aatish Mandelecha","Founder & CEO","aatish@strac.io","https://www.linkedin.com/in/aatishmandelecha/","High","YC W22 ✅ — Bengaluru office; DLP for SaaS/Cloud/GenAI; ex-Amazon 11 yrs payments infra; ACTIVELY HIRING in Bengaluru"),
     (241,"Kula","kula.ai","AI Recruitment / ATS / HR Tech","hello@kula.ai","contact","Achuthanand Ravi","Co-Founder & CEO","hello@kula.ai","https://www.linkedin.com/in/achuthanand-ravi/","High","Bengaluru + Singapore; $15M seed; AI-native ATS; ex-founding recruiter Freshworks + Uber + Stripe; Co-founders: Sathappan M, Suman Kumar Dey"),
+    # ── ROUND 19: Bangalore AI/SaaS/Fintech + CEO emails ─────────────────────
+    (242,"Sarvam AI","sarvam.ai","Sovereign AI / LLM / NLP","careers@sarvam.ai","careers","Pratyush Kumar","Co-Founder & CEO","careers@sarvam.ai","https://www.linkedin.com/in/pratyush-kumar-8844a8a/","High","Bengaluru; India's sovereign AI; govt contract IndiaAI Mission; Sarvam-30B/105B LLMs; Co-founder: Vivek Raghavan; ex-Google Brain; IIT Bombay PhD; 29 open roles"),
+    (243,"Locale.ai","locale.ai","Geospatial Analytics / AI / SaaS","aditi@locale.ai","contact","Aditi Sinha","Co-Founder & CEO","aditi@locale.ai","https://www.linkedin.com/in/aditisinha1002/","High","Bengaluru; Forbes 30U30 ✅; $5.5M funded; $1.7M ARR; location analytics for supply chain; 11-50 employees; Co-founder: Rishabh Jain"),
+    (244,"FamApp","famapp.in","Fintech / UPI / Teen Banking","careers@famapp.in","careers","Sambhav Jain","Co-Founder & CEO","sambhav@fampay.in","https://in.linkedin.com/in/sambhavanandjain","High","YC S19 ✅ — HSR Layout Bangalore; fintech for teens; Co-founder: Kush Taneja; IIT Roorkee; Forbes 30U30; HIRING creative + growth teams"),
+    (245,"Rocketium","rocketium.com","AI Creative Ops / Marketing SaaS","satej@rocketium.com","contact","Satej Sirur","Co-Founder & CEO","satej@rocketium.com","https://www.linkedin.com/in/satejsirur/","High","Bangalore HQ; 78 employees; AI creative automation for enterprises; Blume Ventures funded; RETHINK Retail Top AI Leader 2024"),
+    (246,"Rigi","rigi.club","Creator Economy / Monetization / SaaS","swapnil@rigi.club","contact","Swapnil Saurav","Co-Founder & CEO","swapnil@rigi.club","https://www.linkedin.com/in/linkswapnil/","High","HSR Layout Bangalore; $25M funded (Elevation Capital); 114 employees; creator community monetization; Co-founder: Ananya Singhal; prev HalaPlay (acquired)"),
 ]
 
 hr_contacts = [
@@ -394,6 +400,12 @@ hr_contacts = [
     ("smallest.ai","Sudarshan Kamath","Co-Founder & CEO","info@smallest.ai","https://www.linkedin.com/in/sudarshankamath/","Indiranagar Bangalore; voice AI; ex-Bosch AI; viral hiring post; Co-founder: Akshat Mandloi"),
     ("Strac","Aatish Mandelecha","Founder & CEO","aatish@strac.io","https://www.linkedin.com/in/aatishmandelecha/","YC W22; ex-Amazon 11 yrs payments; DLP for SaaS/Cloud/GenAI; Bengaluru office"),
     ("Kula","Achuthanand Ravi","Co-Founder & CEO","hello@kula.ai","https://www.linkedin.com/in/achuthanand-ravi/","$15M seed; ex-founding recruiter Freshworks/Uber/Stripe; AI-native ATS"),
+    # ── Round 19: More Bangalore founder contacts ───────────────────────────
+    ("Sarvam AI","Pratyush Kumar","Co-Founder & CEO","careers@sarvam.ai","https://www.linkedin.com/in/pratyush-kumar-8844a8a/","India's sovereign AI; govt IndiaAI Mission contract; IIT Bombay PhD; ex-Google Brain; 29 open roles"),
+    ("Locale.ai","Aditi Sinha","Co-Founder & CEO","aditi@locale.ai","https://www.linkedin.com/in/aditisinha1002/","✅ DIRECT CEO EMAIL — Forbes 30U30; $5.5M funded; geospatial analytics"),
+    ("FamApp","Sambhav Jain","Co-Founder & CEO","sambhav@fampay.in","https://in.linkedin.com/in/sambhavanandjain","YC S19; Forbes 30U30; IIT Roorkee; fintech for teens; also Kush Taneja co-founder"),
+    ("Rocketium","Satej Sirur","Co-Founder & CEO","satej@rocketium.com","https://www.linkedin.com/in/satejsirur/","✅ DIRECT CEO EMAIL — AI creative automation; Blume Ventures; RETHINK Retail Top AI Leader"),
+    ("Rigi","Swapnil Saurav","Co-Founder & CEO","swapnil@rigi.club","https://www.linkedin.com/in/linkswapnil/","$25M funded; Elevation Capital; HSR Layout; prev founded HalaPlay (acquired by Nazara)"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
