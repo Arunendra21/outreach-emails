@@ -284,6 +284,10 @@ companies = [
     (253,"Reckonsys","reckonsys.com","AI / Chatbot / Custom Software","info@reckonsys.com","contact","Sathish Visanagiri","Founder & CEO","sathish@reckonsys.com","https://www.linkedin.com/in/sathish-visanagiri/","High","Sarjapur Road Bangalore; 50-249 employees; AI chatbots + document summarization + semantic search; Ph: +91 80613 56100"),
     (254,"Pace Wisdom","pacewisdom.com","AI Product Dev / Cloud / IoT","contact@pacewisdom.com","contact","Bharath Jatangi","Co-Founder","contact@pacewisdom.com","https://in.linkedin.com/company/pace-wisdom-solutions","High","Rajajinagar Bangalore; 50-249 employees; 150+ solutions across 10 countries; AI-first product engineering; Co-founder: Mohan Thimmadasaiah"),
     (255,"Evnek Technologies","evnek.com","Generative AI / LLM / Cloud / DevOps","info@evnek.com","contact","Ashis Kumar Sahoo","Director","info@evnek.com","https://in.linkedin.com/company/evnek","High","Whitefield (Akshay Tech Park) Bangalore; 100-200 employees; GenAI LLM solutions; deep learning + cloud; founded 2022"),
+    # ── ROUND 22: Bangalore Cybersecurity + InsurTech + Benefits ──────────────
+    (256,"CloudSEK","cloudsek.com","Cybersecurity / AI Threat Intel","careers@cloudsek.com","careers","Rahul Sasi","Co-Founder & CEO","rahul.sasi@cloudsek.com","https://www.linkedin.com/in/fb1h2s/","High","✅ DIRECT CEO EMAIL — Cambridge Road Bangalore; $19M Series B1; predictive cybersecurity for 250+ enterprises; 32 OPEN POSITIONS; ethical hacker turned CEO"),
+    (257,"Plum","plumhq.com","InsurTech / Employee Health / SaaS","abhishek@plumhq.com","contact","Abhishek Poddar","Co-Founder & CEO","abhishek@plumhq.com","https://in.linkedin.com/in/abhishek24","High","✅ DIRECT CEO EMAIL — Bengaluru; $36M Series B; employee health benefits platform; Co-founder: Saurabh Arora; HIRING across teams"),
+    (258,"Nova Benefits","novabenefits.com","InsurTech / Employee Benefits / SaaS","admin@getnovaapp.com","contact","Saransh Garg","Co-Founder & CEO","admin@getnovaapp.com","https://www.linkedin.com/in/saransh-garg/","High","Bangalore; employee wellness & insurance SaaS; Co-founder: Yash Gupta; Ph: +91 91673 39156"),
 ]
 
 hr_contacts = [
@@ -428,6 +432,10 @@ hr_contacts = [
     ("Reckonsys","Sathish Visanagiri","Founder & CEO","sathish@reckonsys.com","https://www.linkedin.com/in/sathish-visanagiri/","Sarjapur Road Bangalore; AI chatbots; custom software; also info@reckonsys.com"),
     ("Pace Wisdom","Bharath Jatangi","Co-Founder","contact@pacewisdom.com","","Rajajinagar Bangalore; AI product dev; Co-founder: Mohan Thimmadasaiah"),
     ("Evnek Technologies","Ashis Kumar Sahoo","Director","info@evnek.com","","Whitefield Bangalore; GenAI/LLM/Cloud; also directors: Debasish Panda, Smita Sahoo"),
+    # ── Round 22: Cybersecurity + InsurTech founder contacts ────────────────
+    ("CloudSEK","Rahul Sasi","Co-Founder & CEO","rahul.sasi@cloudsek.com","https://www.linkedin.com/in/fb1h2s/","✅ DIRECT CEO EMAIL — $19M Series B1; ethical hacker; cybersecurity; 32 open positions; also careers@cloudsek.com"),
+    ("Plum","Abhishek Poddar","Co-Founder & CEO","abhishek@plumhq.com","https://in.linkedin.com/in/abhishek24","✅ DIRECT CEO EMAIL — $36M Series B; InsurTech; employee health; Co-founder: Saurabh Arora"),
+    ("Nova Benefits","Saransh Garg","Co-Founder & CEO","admin@getnovaapp.com","https://www.linkedin.com/in/saransh-garg/","Bangalore; employee wellness SaaS; Co-founder: Yash Gupta; Ph: +91 91673 39156"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
