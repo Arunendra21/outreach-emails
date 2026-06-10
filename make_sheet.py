@@ -301,6 +301,10 @@ companies = [
     (267,"Bolna AI","bolna.ai","Voice AI / Multilingual Agents / NLP","maitreya@bolna.ai","contact","Maitreya Wagh","Co-Founder & CEO","maitreya@bolna.ai","https://www.linkedin.com/in/maitreya-wagh/","High","Bengaluru; YC F25 ✅; $6.3M seed (General Catalyst + Blume Ventures); voice AI for Indian languages; IIT Delhi + ex-Bain; Co-founder: Prateek Sachan (CTO, ex-Zomato/BrowserStack/Atlassian); open source on GitHub"),
     (268,"Fasal","fasal.co","AgriTech / AI IoT / Precision Farming","connect@wolkus.com","contact","Shailendra Tiwari","Founder & CEO","connect@wolkus.com","https://in.linkedin.com/in/shailendra-tiwari-fasal","High","Bangalore; $19.4M funded across 8 rounds; AI-powered smart irrigation + horticulture platform; 107 employees; 12,000+ farmers across India & SE Asia; Co-founder: Ananda Prakash Verma"),
     (269,"Skit.ai","skit.ai","Voice AI / Conversational AI / Debt Collection","scale@skit.ai","careers","Sourabh Gupta","Co-Founder & CEO","scale@skit.ai","https://www.linkedin.com/in/sourabhsg/","High","Old Madras Road Bangalore + NYC HQ; Forbes 30U30 Asia ✅; voice AI for contact centers; hiring Founder Office role in Bengaluru; Co-founder: Akshay Deshraj (CTO); IIT Roorkee"),
+    # ── ROUND 25: Bangalore AI CX / Inference Infra / Marketing Cloud ─────────
+    (270,"Hiver","hiverhq.com","AI Customer Service / Email Helpdesk / SaaS","niraj@hiverhq.com","contact","Niraj Ranjan Rout","Founder & CEO","niraj@hiverhq.com","https://www.linkedin.com/in/nirajranjan/","High","HSR Layout Bangalore; $46.2M funded (K1 Investment + Kalaari Capital); AI helpdesk built for Google Workspace; 10,000+ teams globally; IIT KGP; Co-founder: Nitesh Nandy; prev co-founded Mobicules"),
+    (271,"Simplismart","simplismart.ai","AI Inference Infra / MLOps / GPU Cloud","amritanshu@simplismart.ai","contact","Amritanshu Jain","Co-Founder & CEO","amritanshu@simplismart.ai","https://www.linkedin.com/in/jainamritanshu/","High","Richmond Town Bangalore; $14M funded (Accel + Titan Capital); fastest AI inference engine; ex-Oracle ML Engineer; BITS Pilani; Co-founder: Devansh Ghatak (CTO)"),
+    (272,"Pixis","pixis.ai","AI Marketing Cloud / Codeless AI Infra","shubham@pixis.ai","contact","Shubham A Mishra","Co-Founder & Global CEO","shubham@pixis.ai","https://www.linkedin.com/in/shubhammishra01/","High","Bengaluru + Burlingame; AI-powered marketing infrastructure; 201-500 employees; BITS Pilani; prev co-founded Absentia VR; Co-founders: Vrushali Prasade (CTO), Harikrishna Valiyath"),
 ]
 
 hr_contacts = [
@@ -462,6 +466,10 @@ hr_contacts = [
     ("Bolna AI","Maitreya Wagh","Co-Founder & CEO","maitreya@bolna.ai","https://www.linkedin.com/in/maitreya-wagh/","YC F25; $6.3M seed General Catalyst; IIT Delhi + ex-Bain; voice AI for Indian languages"),
     ("Fasal","Shailendra Tiwari","Founder & CEO","connect@wolkus.com","https://in.linkedin.com/in/shailendra-tiwari-fasal","$19.4M funded; agritech AI/IoT; 12K+ farmers; general contact email"),
     ("Skit.ai","Sourabh Gupta","Co-Founder & CEO","scale@skit.ai","https://www.linkedin.com/in/sourabhsg/","Forbes 30U30 Asia; voice AI; hiring email scale@skit.ai for Bangalore roles; IIT Roorkee"),
+    # ── Round 25: AI CX / Inference Infra / Marketing Cloud founder contacts ──
+    ("Hiver","Niraj Ranjan Rout","Founder & CEO","niraj@hiverhq.com","https://www.linkedin.com/in/nirajranjan/","HSR Layout Bangalore; $46.2M funded; AI helpdesk for Google Workspace; IIT KGP; 10K+ teams"),
+    ("Simplismart","Amritanshu Jain","Co-Founder & CEO","amritanshu@simplismart.ai","https://www.linkedin.com/in/jainamritanshu/","Richmond Town Bangalore; $14M funded Accel; AI inference engine; BITS Pilani; ex-Oracle"),
+    ("Pixis","Shubham A Mishra","Co-Founder & Global CEO","shubham@pixis.ai","https://www.linkedin.com/in/shubhammishra01/","Bengaluru; codeless AI marketing infra; BITS Pilani; prev Absentia VR"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
