@@ -347,6 +347,10 @@ companies = [
     (302,"Bytes Technolab","bytestechnolab.com","Web / Mobile / Product Engineering","info@bytestechnolab.com","contact","Mitul Patel","CEO","info@bytestechnolab.com","https://www.linkedin.com/company/bytes-technolab","High","Ahmedabad; 100-250 employees; ACTIVELY HIRING (PHP Lead, BDM, Graphic Designer); Director: Bhavesh Surani"),
     (303,"Moweb Technologies","moweb.com","Web / Mobile App Development","contact@moweb.com","contact","Jainam Shah","Founder & CEO","contact@moweb.com","https://in.linkedin.com/in/mowebtech","High","✅ PHONE: +91 98255 55989 — Ahmedabad; 69 employees; web/mobile dev"),
     (304,"Excellent Webworld","excellentwebworld.com","Web / Mobile / IoT Development","sales@excellentwebworld.com","contact","Paresh Sagar","Founder & CEO","sales@excellentwebworld.com","https://in.linkedin.com/in/pareshsagar","High","✅ PHONE: +91 99047 78418 — Ahmedabad; 224 employees; founded 2011; CEO phone numbers found via ContactOut"),
+    # ── ROUND 36: Bangalore Construction Tech / Manufacturing AI ──────────────
+    (305,"Powerplay","getpowerplay.in","Construction Tech / SaaS / Project Mgmt","iesh@getpowerplay.in","contact","Iesh Dixit","Co-Founder & CEO","iesh@getpowerplay.in","https://in.linkedin.com/in/ieshdixit","High","Bengaluru; Series A; construction project management SaaS; Co-founders: Manish Prasad, Shubham Goyal; email pattern estimated"),
+    (306,"Brick&Bolt","bricknbolt.com","Construction Tech / Marketplace","jayesh@bricknbolt.com","contact","Jayesh Rajpurohit","Co-Founder & CEO","jayesh@bricknbolt.com","https://in.linkedin.com/in/jaybnb","High","Koramangala Bangalore; tech-enabled construction company; ACTIVELY HIRING (per co-founder LinkedIn); Co-founder: Arpit Rajpurohit; email pattern estimated"),
+    (307,"Zetwerk","zetwerk.com","Manufacturing / B2B Marketplace / AI","amrit@zetwerk.com","contact","Amrit Acharya","Co-Founder & CEO","amrit@zetwerk.com","https://in.linkedin.com/in/amritacharya","High","Bellandur Bangalore; manufacturing unicorn; RocketReach confirmed a***@zetwerk.com; jobs at zetwerk.skillate.com; Co-founders: Vishal Chaudhary, Rahul Sharma; IIT Madras"),
 ]
 
 hr_contacts = [
@@ -554,6 +558,10 @@ hr_contacts = [
     ("Bytes Technolab","Mitul Patel","CEO","info@bytestechnolab.com","https://www.linkedin.com/company/bytes-technolab","Ahmedabad; HIRING PHP Lead + BDM; 100-250 employees"),
     ("Moweb Technologies","Jainam Shah","Founder & CEO","contact@moweb.com","https://in.linkedin.com/in/mowebtech","✅ PHONE: +91 98255 55989 — Ahmedabad; 69 employees"),
     ("Excellent Webworld","Paresh Sagar","Founder & CEO","sales@excellentwebworld.com","https://in.linkedin.com/in/pareshsagar","✅ PHONE: +91 99047 78418 — Ahmedabad; 224 employees"),
+    # ── Round 36: Construction Tech / Manufacturing AI founders ───────────────
+    ("Powerplay","Iesh Dixit","Co-Founder & CEO","iesh@getpowerplay.in","https://in.linkedin.com/in/ieshdixit","Bengaluru; Series A construction SaaS; email pattern estimated"),
+    ("Brick&Bolt","Jayesh Rajpurohit","Co-Founder & CEO","jayesh@bricknbolt.com","https://in.linkedin.com/in/jaybnb","Koramangala Bangalore; HIRING; email pattern estimated"),
+    ("Zetwerk","Amrit Acharya","Co-Founder & CEO","amrit@zetwerk.com","https://in.linkedin.com/in/amritacharya","Bellandur Bangalore; unicorn; RocketReach a***@zetwerk.com; jobs: zetwerk.skillate.com"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
