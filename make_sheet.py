@@ -323,6 +323,10 @@ companies = [
     (284,"Entropik","entropik.io","Emotion AI / Consumer Insights / SaaS","info@entropiktech.com","contact","Ranjan Kumar","Co-Founder & CEO","ranjan@entropiktech.com","https://www.linkedin.com/in/ranjan-kr/","High","Bengaluru; Series B; global leader in Emotion AI; unified human insights platform; ZoomInfo confirmed R***@entropiktech.com; Ph: 080-4375-9863; Co-founders: Lava Kumar, Bharat Singh Shekhawat"),
     (285,"Senseforth.ai","senseforth.ai","Conversational AI / NLP / Chatbots","contact@senseforth.ai","contact","Shridhar Marri","Co-Founder & CEO","shridhar@senseforth.ai","https://in.linkedin.com/in/shridharmarri","High","Girinagar Bangalore; enterprise conversational AI (banks, insurance); Co-founders: Krishna Kadiri, Ritesh Radhakrishnan (CTO); email pattern estimated"),
     (286,"CoRover.ai","corover.ai","Conversational AI / BharatGPT / Sovereign LLM","contact@corover.ai","contact","Ankush Sabharwal","Founder & CEO","ankush@corover.ai","https://in.linkedin.com/in/ankushsabharwal","High","Bangalore; built BharatGPT (India's first LLM GenAI); 1B+ users served (IRCTC bot); 50,000+ enterprises; Series A (Canbank VC); Co-founders: Manav Gandotra, Kunal Bhakhri; email pattern estimated"),
+    # ── ROUND 30: Bangalore HR Tech / Developer Hiring / CX Analytics ─────────
+    (287,"Springworks","springworks.in","HR Tech / Background Verification / SaaS","kartik@springworks.in","contact","Kartik Mandaville","Founder & CEO","kartik@springworks.in","https://www.linkedin.com/in/kartik-mandaville-springworks/","High","Bengaluru + Santa Monica; remote-first ALWAYS HIRING (springworks.springrecruit.com); products: SpringVerify, SpringRecruit, EngageWith, Trivia; CMU grad; email pattern estimated"),
+    (288,"HackerEarth","hackerearth.com","Developer Assessment / Hiring Tech / SaaS","support@hackerearth.com","contact","Vikas Aditya","CEO","support@hackerearth.com","https://www.linkedin.com/in/vikasaditya/","High","Bengaluru; developer skill assessment + coding interviews; founded by IIT Roorkee alumni (Sachin Gupta, Vivek Prakash); 7M+ developer community"),
+    (289,"Clootrack","clootrack.com","CX Analytics / AI Insights / SaaS","shameel@clootrack.com","contact","Shameel Abdulla","Co-Founder & CEO","shameel@clootrack.com","https://www.linkedin.com/in/shameelabdulla/","High","Bangalore; $4M raised (Inventus + Salesforce Ventures); AI customer experience analytics; serial entrepreneur; Co-founder: Subbakrishna Rao (CTO); email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -506,6 +510,10 @@ hr_contacts = [
     ("Entropik","Ranjan Kumar","Co-Founder & CEO","ranjan@entropiktech.com","https://www.linkedin.com/in/ranjan-kr/","Bengaluru; Series B Emotion AI; ZoomInfo confirmed R***@entropiktech.com; Ph: 080-4375-9863"),
     ("Senseforth.ai","Shridhar Marri","Co-Founder & CEO","shridhar@senseforth.ai","https://in.linkedin.com/in/shridharmarri","Girinagar Bangalore; enterprise conversational AI; email pattern estimated"),
     ("CoRover.ai","Ankush Sabharwal","Founder & CEO","ankush@corover.ai","https://in.linkedin.com/in/ankushsabharwal","Bangalore; BharatGPT creator; 1B+ users via IRCTC; email pattern estimated"),
+    # ── Round 30: HR Tech / Developer Hiring / CX Analytics founders ──────────
+    ("Springworks","Kartik Mandaville","Founder & CEO","kartik@springworks.in","https://www.linkedin.com/in/kartik-mandaville-springworks/","Bengaluru; remote-first ALWAYS HIRING; SpringVerify/SpringRecruit; CMU grad"),
+    ("HackerEarth","Vikas Aditya","CEO","support@hackerearth.com","https://www.linkedin.com/in/vikasaditya/","Bengaluru; dev assessment platform; IIT Roorkee founders; 7M+ dev community"),
+    ("Clootrack","Shameel Abdulla","Co-Founder & CEO","shameel@clootrack.com","https://www.linkedin.com/in/shameelabdulla/","Bangalore; $4M AI CX analytics; Salesforce Ventures; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
