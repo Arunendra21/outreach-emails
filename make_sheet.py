@@ -327,6 +327,9 @@ companies = [
     (287,"Springworks","springworks.in","HR Tech / Background Verification / SaaS","kartik@springworks.in","contact","Kartik Mandaville","Founder & CEO","kartik@springworks.in","https://www.linkedin.com/in/kartik-mandaville-springworks/","High","Bengaluru + Santa Monica; remote-first ALWAYS HIRING (springworks.springrecruit.com); products: SpringVerify, SpringRecruit, EngageWith, Trivia; CMU grad; email pattern estimated"),
     (288,"HackerEarth","hackerearth.com","Developer Assessment / Hiring Tech / SaaS","support@hackerearth.com","contact","Vikas Aditya","CEO","support@hackerearth.com","https://www.linkedin.com/in/vikasaditya/","High","Bengaluru; developer skill assessment + coding interviews; founded by IIT Roorkee alumni (Sachin Gupta, Vivek Prakash); 7M+ developer community"),
     (289,"Clootrack","clootrack.com","CX Analytics / AI Insights / SaaS","shameel@clootrack.com","contact","Shameel Abdulla","Co-Founder & CEO","shameel@clootrack.com","https://www.linkedin.com/in/shameelabdulla/","High","Bangalore; $4M raised (Inventus + Salesforce Ventures); AI customer experience analytics; serial entrepreneur; Co-founder: Subbakrishna Rao (CTO); email pattern estimated"),
+    # ── ROUND 31: Bangalore Sales AI / WealthTech ─────────────────────────────
+    (290,"Salesken","salesken.ai","Sales AI / Conversational Intelligence / SaaS","surga@salesken.ai","contact","Surga Thilakan","Co-Founder & CEO","surga@salesken.ai","https://in.linkedin.com/in/surga-thilakan-0196994","High","✅ DIRECT CEO EMAIL — Bengaluru; Series B; $41M raised over 11 rounds (Microsoft M12 + Sequoia); in-call live sales intelligence; ex-Goldman Sachs; IIM-A MBA; Co-founder: Sreeraman Vaidyanathan; Ph: +91 80416 49503"),
+    (291,"Smallcase","smallcase.com","WealthTech / Investment Platform / Fintech","vasanth@smallcase.com","contact","Vasanth Kamath","Founder & CEO","vasanth@smallcase.com","https://in.linkedin.com/in/vasanthskamath","High","Richmond Road Bangalore; 367 employees; changing how India invests; IIT-KGP founders; Co-founders: Anugrah Shrivastava, Rohan Gupta; Blume + Sequoia backed; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -514,6 +517,9 @@ hr_contacts = [
     ("Springworks","Kartik Mandaville","Founder & CEO","kartik@springworks.in","https://www.linkedin.com/in/kartik-mandaville-springworks/","Bengaluru; remote-first ALWAYS HIRING; SpringVerify/SpringRecruit; CMU grad"),
     ("HackerEarth","Vikas Aditya","CEO","support@hackerearth.com","https://www.linkedin.com/in/vikasaditya/","Bengaluru; dev assessment platform; IIT Roorkee founders; 7M+ dev community"),
     ("Clootrack","Shameel Abdulla","Co-Founder & CEO","shameel@clootrack.com","https://www.linkedin.com/in/shameelabdulla/","Bangalore; $4M AI CX analytics; Salesforce Ventures; email pattern estimated"),
+    # ── Round 31: Sales AI / WealthTech founders ──────────────────────────────
+    ("Salesken","Surga Thilakan","Co-Founder & CEO","surga@salesken.ai","https://in.linkedin.com/in/surga-thilakan-0196994","✅ DIRECT CEO EMAIL — Bengaluru; $41M Microsoft+Sequoia; sales AI; ex-Goldman; Ph: +91 80416 49503"),
+    ("Smallcase","Vasanth Kamath","Founder & CEO","vasanth@smallcase.com","https://in.linkedin.com/in/vasanthskamath","Richmond Road Bangalore; wealthtech; IIT-KGP; 367 employees; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
