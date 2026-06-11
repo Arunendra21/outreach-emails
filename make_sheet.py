@@ -433,6 +433,10 @@ companies = [
     (370,"Reverie Language Technologies","reverieinc.com","Language AI / Translation / Voice","info@reverieinc.com","contact","Arvind Pani","Co-Founder & CEO","arvind@reverieinc.com","https://www.crunchbase.com/person/arvind-pani","High","Bangalore; Indian language AI (translation/localization/voice); Reliance-acquired; Co-founders: SK Mohanty, Vivekananda Pani; email pattern estimated"),
     (371,"HealthifyMe","healthifyme.com","Health AI / Fitness / Nutrition","support@healthifyme.com","contact","Tushar Vashisht","Co-Founder & CEO","tushar@healthifyme.com","https://in.linkedin.com/in/tusharvashisht","High","Bengaluru; $45M Khosla-led round; AI coach Ria; 35M+ users; Co-founders: Mathew Cherian, Sachin Shenoy; email pattern estimated"),
     (372,"Wysa","wysa.com","Mental Health AI / Chatbot","contact@wysa.com","contact","Jo Aggarwal","Co-Founder & CEO","jo@wysa.com","https://www.linkedin.com/company/wysa-ai","High","Bangalore + London + Boston; AI mental health chatbot; clinically validated; FDA breakthrough device designation; Co-founder: Ramakant Vempati; email pattern estimated"),
+    # ── ROUND 54: Bangalore Quantum AI / Media Tech ───────────────────────────
+    (373,"QpiAI","qpiai.tech","Quantum Computing / AI / DeepTech","info@qpiai.tech","contact","Nagendra Nagaraja","Founder, CEO & Chairman","nagendra@qpiai.tech","https://in.linkedin.com/in/nagendranagaraja","High","Bengaluru; $32M Series A (National Quantum Mission + Avataar); built QpiAI-Indus (India's 1st full-stack 25-qubit quantum computer); ex-Nvidia/Qualcomm; ACTIVELY HIRING (Instahyre + qpiai.tech/careers); email pattern estimated"),
+    (374,"Quintype Technologies","quintype.com","Media Tech / CMS / SaaS","sales@quintype.com","contact","Chirdeep Shetty","CEO","chirdeep@quintype.com","https://in.linkedin.com/company/quintype","High","Bangalore; digital publishing CMS (Bloomberg Quint etc.); founded 2014; Co-founder: Amit Rathore; email pattern estimated"),
+    (375,"Glance (InMobi)","glance.com","Lock Screen Content / AI / Media","careers@glance.com","careers","Naveen Tewari","Co-Founder & CEO","careers@glance.com","https://in.linkedin.com/company/glancescreen","High","Cessna Business Park Bangalore; 200M+ daily users; InMobi group unicorn; Co-founders: Abhay Singhal, Mohit Saxena, Piyush Shah"),
 ]
 
 hr_contacts = [
@@ -714,6 +718,10 @@ hr_contacts = [
     ("Reverie Language","Arvind Pani","Co-Founder & CEO","arvind@reverieinc.com","https://www.crunchbase.com/person/arvind-pani","Bangalore; Indian language AI; Reliance-owned; email pattern estimated"),
     ("HealthifyMe","Tushar Vashisht","Co-Founder & CEO","tushar@healthifyme.com","https://in.linkedin.com/in/tusharvashisht","Bengaluru; 35M+ users; AI health coach; email pattern estimated"),
     ("Wysa","Jo Aggarwal","Co-Founder & CEO","jo@wysa.com","https://www.linkedin.com/company/wysa-ai","Bangalore; mental health AI; FDA breakthrough designation; email pattern estimated"),
+    # ── Round 54: Quantum AI / Media tech founders ────────────────────────────
+    ("QpiAI","Nagendra Nagaraja","Founder, CEO & Chairman","nagendra@qpiai.tech","https://in.linkedin.com/in/nagendranagaraja","Bengaluru; $32M quantum+AI; HIRING; ex-Nvidia; email pattern estimated"),
+    ("Quintype","Chirdeep Shetty","CEO","chirdeep@quintype.com","https://in.linkedin.com/company/quintype","Bangalore; publishing CMS; email pattern estimated"),
+    ("Glance (InMobi)","Careers Team","Recruiting","careers@glance.com","https://glance.com/us/careers","Bangalore; 200M+ daily users; InMobi unicorn"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
