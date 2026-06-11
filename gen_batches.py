@@ -50,6 +50,26 @@ with open("emails.csv", encoding="utf-8") as f:
             "Notes": r["Notes"][:120],
         })
 
+# Also include every named HR/founder contact so individual people are sendable too
+with open("hr_contacts.csv", encoding="utf-8") as f:
+    for r in csv.DictReader(f):
+        email = r["Email"].strip()
+        if "@" not in email or "(" in email or "*" in email or " " in email:
+            continue
+        key = email.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        rows.append({
+            "#": "",
+            "Company": r["Company"],
+            "Email": email,
+            "Person": r["Name"],
+            "Title": r["Title"],
+            "Region": region_of(r["Action"], ""),
+            "Notes": r["Action"][:120],
+        })
+
 for old in os.listdir("."):
     if re.match(r"batch_\d+\.csv$", old):
         os.remove(old)
