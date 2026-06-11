@@ -446,6 +446,9 @@ companies = [
     (380,"Flam","flamapp.ai","Mixed Reality / AI Advertising","shourya@flamapp.com","contact","Shourya Agarwal","Co-Founder & CEO","shourya@flamapp.com","https://theorg.com/org/flam/org-chart/shourya-agarwal","High","Bengaluru (tech/design/marketing) + SF; $14M funded; AI-native mixed reality ads; BITS Pilani trio; Co-founders: Malhar Patil (COO), Amit Gaiki (CTO); email pattern estimated"),
     (381,"Fabrik","fabrik.space","Spatial Computing / 3D / Digital Twins","hello@fabrik.space","contact","Puneet Badrinath","Co-Founder & CEO","puneet@fabrik.space","https://in.linkedin.com/company/fabrikspace","High","Bangalore; spatial OS for 3D apps + digital twins; Co-founder: James Selvam; email pattern estimated"),
     (382,"ClickPost","clickpost.ai","Logistics Intelligence / SaaS","prashant@clickpost.in","contact","Prashant Gupta","Co-Founder","prashant@clickpost.in","https://in.linkedin.com/company/clickpost","High","Bangalore; logistics intelligence platform (post-purchase experience); IIT alumni founders; email pattern estimated"),
+    # ── ROUND 57: Bangalore Mobile Security / Dev Productivity ────────────────
+    (383,"Appknox","appknox.com","Mobile App Security / Cybersecurity","harshit@appknox.com","contact","Harshit Agarwal","Co-Founder & CEO","harshit@appknox.com","https://sg.linkedin.com/company/appknox-security","High","Bangalore; enterprise mobile app security testing; founded 2014; Microsoft Venture Accelerator alum; Co-founder: Subho Halder (CISO); email pattern estimated"),
+    (384,"DevDynamics","devdynamics.ai","Engineering Analytics / Dev Productivity","hello@devdynamics.ai","contact","Rishi Saraf","Co-Founder & CEO","rishi@devdynamics.ai","https://in.linkedin.com/company/devdynamics","High","Sarjapur Road Bangalore (Saket Callipolis); engineering insights platform; founded 2022; Co-founder: Pruthviraj Haral; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -740,6 +743,9 @@ hr_contacts = [
     ("Flam","Shourya Agarwal","Co-Founder & CEO","shourya@flamapp.com","https://theorg.com/org/flam/org-chart/shourya-agarwal","Bengaluru; $14M mixed reality; BITS Pilani; email pattern estimated"),
     ("Fabrik","Puneet Badrinath","Co-Founder & CEO","puneet@fabrik.space","https://in.linkedin.com/company/fabrikspace","Bangalore; spatial computing; email pattern estimated"),
     ("ClickPost","Prashant Gupta","Co-Founder","prashant@clickpost.in","https://in.linkedin.com/company/clickpost","Bangalore; logistics SaaS; email pattern estimated"),
+    # ── Round 57: Security / Dev productivity founders ────────────────────────
+    ("Appknox","Harshit Agarwal","Co-Founder & CEO","harshit@appknox.com","https://sg.linkedin.com/company/appknox-security","Bangalore; mobile security; email pattern estimated"),
+    ("DevDynamics","Rishi Saraf","Co-Founder & CEO","rishi@devdynamics.ai","https://in.linkedin.com/company/devdynamics","Sarjapur Bangalore; eng analytics; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
