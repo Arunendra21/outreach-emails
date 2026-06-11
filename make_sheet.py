@@ -389,6 +389,12 @@ companies = [
     (335,"Whitelotus Corporation","whitelotuscorporation.com","Web / Mobile Development","info@whitelotuscorporation.com","contact","Team","—","info@whitelotuscorporation.com","https://rocketreach.co/whitelotus-corporation-profile_b5e3e8bdf42e6eda","High","Ahmedabad; 33 employees; software dev & design; email estimated"),
     (336,"Agile Infoways","agileinfoways.com","AI Engineering / Enterprise Software","info@agileinfoways.com","contact","Ronak Shah","CEO","ronak@agileinfoways.com","https://www.agileinfoways.com/our-story/","High","Ahmedabad; since 2006; 900+ clients in 30+ countries; AI-powered enterprise software; COO: Vimal Shah; email pattern estimated"),
     (337,"Concetto Labs","concettolabs.com","Web / Mobile / AI Development","info@concettolabs.com","contact","Manish Patel","Director","info@concettolabs.com","https://in.linkedin.com/company/concetto-labs","High","Ahmedabad; established 2014; email estimated"),
+    # ── ROUND 45: Ahmedabad AI/web-service companies (4th pass) ───────────────
+    (338,"Vrinsoft Technology","vrinsoft.com","Mobile / AI Products / Enterprise","jay@vrinsoft.com","contact","Jay Patel","Founder & CEO","jay@vrinsoft.com","https://uk.linkedin.com/in/jaypatelvrinsoft","High","✅ DIRECT CEO EMAIL + HR EMAIL pranav.p@vrinsoft.com — Ahmedabad; 200+ professionals; AI-driven products; also sales@vrinsofts.com"),
+    (339,"Citrusbug Technolabs","citrusbug.com","AI Development / Python / Django","jobs@citrusbug.co","careers","Hiring Team","Recruiting","jobs@citrusbug.co","https://in.linkedin.com/company/citrusbug","High","✅ DIRECT JOBS EMAIL — Ahmedabad; award-winning AI dev agency; 25-100 employees; founded 2013"),
+    (340,"iTechNotion","itechnotion.com","AI Agents / Workflow Automation","info@itechnotion.com","contact","Team","—","info@itechnotion.com","https://itechnotion.com/","High","Ahmedabad; AI-native studio building agents for sales/support/HR/ops/finance; email estimated"),
+    (341,"Elsner Technologies","elsner.com","Ecommerce / AI / Digital Solutions","info@elsner.com","contact","Tarun Bansal","Key Contact","info@elsner.com","https://www.elsner.com/","High","Navrangpura Ahmedabad (World Center, Ashram Rd); enterprise ecommerce + AI; email estimated"),
+    (342,"Sigma Solve","sigmasolve.com","AI / Data / Cloud Engineering","info@sigmasolve.com","contact","Team","—","info@sigmasolve.com","https://www.linkedin.com/company/sigmasolvelimited","High","Ahmedabad; NSE-listed; AI/data/cloud engineering; incorporated 2010; email estimated"),
 ]
 
 hr_contacts = [
@@ -633,6 +639,10 @@ hr_contacts = [
     # ── Round 44: Ahmedabad AI/web-service founders (3rd AI pass) ─────────────
     ("WebClues Infotech","Ayush Kanodia","Founder & CEO","ayush@webcluesinfotech.com","https://rocketreach.co/ayush-kanodia-email_15183006","Ahmedabad; AI web/app dev; name@webcluesinfotech.com format confirmed"),
     ("Agile Infoways","Ronak Shah","CEO","ronak@agileinfoways.com","https://www.agileinfoways.com/our-story/","Ahmedabad; AI engineering since 2006; 900+ clients; email pattern estimated"),
+    # ── Round 45: Ahmedabad AI/web-service contacts (4th pass) ────────────────
+    ("Vrinsoft Technology","Jay Patel","Founder & CEO","jay@vrinsoft.com","https://uk.linkedin.com/in/jaypatelvrinsoft","✅ DIRECT CEO EMAIL — Ahmedabad; 200+ team; HR: pranav.p@vrinsoft.com"),
+    ("Vrinsoft Technology","Pranav P","HR / Hiring","pranav.p@vrinsoft.com","","✅ DIRECT HR EMAIL — confirmed from DevOps hiring post"),
+    ("Citrusbug Technolabs","Hiring Team","Recruiting","jobs@citrusbug.co","https://in.linkedin.com/company/citrusbug","✅ DIRECT JOBS EMAIL — Ahmedabad AI dev agency"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
