@@ -369,6 +369,12 @@ companies = [
     # ── ROUND 40: Bangalore Gamification / MarTech ────────────────────────────
     (320,"CustomerGlu","customerglu.com","Gamified Engagement / Retention / SaaS","prateek@customerglu.com","contact","Prateek Gupta","Co-Founder & CEO","prateek@customerglu.com","https://www.linkedin.com/in/prateek1gupta/","High","Bangalore; plug-and-play gamification platform (streaks, challenges, quizzes); founded 2016; Co-founders: Sumant Subrahmanya (Product), Raman Shrivastava (AI); email pattern estimated"),
     (321,"WebEngage","webengage.com","MarTech / Customer Engagement / SaaS","avlesh@webengage.com","contact","Avlesh Singh","Co-Founder & CEO","avlesh@webengage.com","https://www.linkedin.com/in/avlesh/","High","Koramangala Bengaluru office (IndiQube Lexington) + Mumbai HQ; Series B; ZoomInfo confirmed a***@webengage.com; full-stack retention OS; open roles at webengage.com/current-openings; Co-founder: Ankit Utreja (CTO)"),
+    # ── ROUND 41: Ahmedabad web-tech with HR phones (4th pass) ────────────────
+    (322,"Peerbits","peerbits.com","Healthcare IT / Mobile / Web Dev","info@peerbits.com","contact","Shahid Mansuri","Co-Founder & CEO","info@peerbits.com","https://in.linkedin.com/company/peerbits","High","✅ PHONE: +91 79400 34577 — Ashram Road Ahmedabad; healthcare platform engineering + EHR integration; founded 2011; Co-founder: Ubaid Pisuwala"),
+    (323,"Webs Optimization","websoptimization.com","Web / Mobile Software Development","careers@websoptimization.com","careers","Nikunj Shingala","Founder & CEO","careers@websoptimization.com","https://in.linkedin.com/in/nikunj-shingala-a6114060","High","✅ DIRECT CAREERS EMAIL + PHONE: +91 94280 88175 — SG Highway Ahmedabad (near Sola Bridge)"),
+    (324,"Logistic Infotech","logisticinfotech.com","Logistics IT / Web / Mobile Dev","info@logisticinfotech.com","contact","Chintan Adatiya","Co-Founder & CEO","info@logisticinfotech.com","https://www.logisticinfotech.com/company/our-team/","High","✅ PHONE: +91 99746 99270 — Vijay Cross Road Ahmedabad + Rajkot; 12+ yrs; Co-founder: Alpesh Harsoda (MD)"),
+    (325,"Tridhya Tech","tridhyatech.com","Digital Transformation / Enterprise Dev","info@tridhyatech.com","contact","Ramesh Marand","Founder, MD & CEO","ramesh.m@shaligraminfotech.com","https://in.linkedin.com/in/rameshahir","High","Bopal Ahmedabad (One World West); NSE-listed; ₹150-250Cr revenue; founded 2018; alt CEO email via Shaligram Infotech"),
+    (326,"Stridely Solutions","stridelysolutions.com","SAP / Enterprise IT Consulting","career@stridelysolutions.com","careers","Kunal Shah","CEO","yjshah@stridelysolutions.com","https://in.linkedin.com/company/stridelysolutions","High","✅ DIRECT CAREERS EMAIL + PHONES: +91 90545 99361 / +91 79491 96111 — Bodakdev Ahmedabad; Great Place to Work certified; director email yjshah@ verified"),
 ]
 
 hr_contacts = [
@@ -598,6 +604,12 @@ hr_contacts = [
     # ── Round 40: Gamification / MarTech founders ─────────────────────────────
     ("CustomerGlu","Prateek Gupta","Co-Founder & CEO","prateek@customerglu.com","https://www.linkedin.com/in/prateek1gupta/","Bangalore; gamified retention SaaS; email pattern estimated"),
     ("WebEngage","Avlesh Singh","Co-Founder & CEO","avlesh@webengage.com","https://www.linkedin.com/in/avlesh/","Koramangala Bengaluru office; ZoomInfo a***@webengage.com; open roles listed"),
+    # ── Round 41: Ahmedabad web-tech HR contacts (4th pass) ───────────────────
+    ("Peerbits","Shahid Mansuri","Co-Founder & CEO","info@peerbits.com","https://in.linkedin.com/company/peerbits","✅ PHONE: +91 79400 34577 — Ashram Road Ahmedabad; healthcare IT"),
+    ("Webs Optimization","Nikunj Shingala","Founder & CEO","careers@websoptimization.com","https://in.linkedin.com/in/nikunj-shingala-a6114060","✅ CAREERS EMAIL + PHONE: +91 94280 88175 — SG Highway Ahmedabad"),
+    ("Logistic Infotech","Chintan Adatiya","Co-Founder & CEO","info@logisticinfotech.com","https://www.logisticinfotech.com/company/our-team/","✅ PHONE: +91 99746 99270 — Ahmedabad + Rajkot"),
+    ("Tridhya Tech","Ramesh Marand","Founder, MD & CEO","ramesh.m@shaligraminfotech.com","https://in.linkedin.com/in/rameshahir","Bopal Ahmedabad; NSE-listed; ₹150-250Cr revenue"),
+    ("Stridely Solutions","Kunal Shah","CEO","career@stridelysolutions.com","https://in.linkedin.com/company/stridelysolutions","✅ CAREERS EMAIL + PHONES: +91 90545 99361 / +91 79491 96111 — Bodakdev Ahmedabad"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
