@@ -452,6 +452,8 @@ companies = [
     # ── ROUND 58: USER-PROVIDED — Wabtec + Cisco Bengaluru HR/TA lists ────────
     (385,"Wabtec Corporation","wabtec.com","Rail Tech / Engineering / Software","sdesai@wabtec.com","contact","Sumeeta Desai","Regional Director - Talent Acquisition (APAC)","sdesai@wabtec.com","https://careers.wabtec.com/job/intern-engineering-in-bengaluru-ka-india-jid-2021","High","🎯 ENGINEERING INTERN OPENING IN BENGALURU (careers.wabtec.com jid-2021); 13 named HR/TA/engineering contacts on file; GE Transportation merged entity"),
     (386,"Cisco (Bengaluru)","cisco.com","Networking / Software / University Hiring","pribhaga@cisco.com","contact","Priyanka Bhagat","Head APJC - Emerging Talent, University Recruiting","pribhaga@cisco.com","https://www.linkedin.com/company/cisco","High","🎯 UNIVERSITY RECRUITING HEAD CONTACT — APJC emerging talent; 14 named HR/TA contacts on file; Bengaluru campus"),
+    # ── ROUND 60: Bangalore Drone Delivery ────────────────────────────────────
+    (387,"Airbound","airbound.co","Drone Delivery / Medical Logistics / DeepTech","hello@airbound.co","contact","Naman Pushp","Founder & CEO","naman@airbound.co","https://in.linkedin.com/company/airbound","High","Bengaluru; $10M+ funded (Lightspeed + Humba + Tesla/Anduril leaders); blended-wing drones; Narayana Health contract; 700+ flights zero failures; 20-yr-old founder; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -900,6 +902,8 @@ hr_contacts = [
     ("Zomato","Saurabh Agarwal","SDE II","saurabhagarwal210247@gmail.com","https://linkedin.com/in/saurabhagarwal30","referral path; IIT Guwahati"),
     ("Urban Company","Vishal Ailani","SDE III","vishalailani11@gmail.com","https://linkedin.com/in/ailani123","referral path; NIT KKR"),
     ("PAR Technology","Kushal Saini","Sr Software Engineer","kushal.saini@partech.com","https://linkedin.com/in/kushal-saini-b46510148","referral path"),
+    # ── Round 60: Drone delivery founder ──────────────────────────────────────
+    ("Airbound","Naman Pushp","Founder & CEO","naman@airbound.co","https://in.linkedin.com/company/airbound","Bengaluru; $10M+ medical drone delivery; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
