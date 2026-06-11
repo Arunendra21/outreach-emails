@@ -457,6 +457,11 @@ companies = [
     # ── ROUND 62: Bangalore Elder Care / Senior Living ────────────────────────
     (388,"Primus Senior Living","primuslife.in","Elder Care / Senior Living / HealthTech","info@primuslife.in","contact","Adarsh Narahari","Founder & CEO","adarsh@primuslife.in","https://in.linkedin.com/company/primus-senior-living","High","Vittal Mallya Road Bangalore; General Catalyst-backed; luxury senior living communities; email pattern estimated"),
     (389,"Kites Senior Care","kitesseniorcare.com","Elder Care / Geriatric Health","info@kitesseniorcare.com","contact","RajaGopal G","Co-Founder & CEO","rajagopal@kitesseniorcare.com","https://in.linkedin.com/company/kites-senior-care","High","Bangalore; geriatric care centers; Co-founder: Dr. Reema Nadig (COO); email pattern estimated"),
+    # ── ROUND 63: Bangalore Interior Design Tech / Mobility ───────────────────
+    (390,"Livspace","livspace.com","Interior Design Tech / Marketplace","careers@livspace.com","careers","Anuj Srivastava","Co-Founder & CEO","anuj@livspace.com","https://in.linkedin.com/company/livspace","High","Bengaluru HQ; home interiors unicorn; IIT Kanpur + LBS founder; Co-founder: Ramakant Sharma (COO, ex-Myntra CTO); email pattern estimated"),
+    (391,"HomeLane","homelane.com","Interior Design Tech / Home Improvement","careers@homelane.com","careers","Srikanth B. Iyer","Co-Founder & CEO","srikanth@homelane.com","https://in.linkedin.com/company/homelane","High","Bengaluru; founded 2014; 5 co-founders incl CTO Srini Battula; email pattern estimated"),
+    (392,"Bonito Designs","bonitodesigns.com","Interior Design / D2C","info@bonitodesigns.com","contact","Sameer AM","Co-Founder & CEO","sameer@bonitodesigns.com","https://in.linkedin.com/company/bonito-designs","High","Bengaluru; founded 2012; full-home personalized interiors; email pattern estimated"),
+    (393,"Zoomcar","zoomcar.com","Car Sharing / Mobility Marketplace","careers@zoomcar.com","careers","Hiring Team","Recruiting","careers@zoomcar.com","https://in.linkedin.com/company/zoomcar-india-pvt-ltd-","Medium","Kodihalli Bangalore; self-drive car sharing marketplace; NASDAQ-listed"),
 ]
 
 hr_contacts = [
@@ -985,6 +990,10 @@ hr_contacts = [
     # ── Round 62: Elder care founders ─────────────────────────────────────────
     ("Primus Senior Living","Adarsh Narahari","Founder & CEO","adarsh@primuslife.in","https://in.linkedin.com/company/primus-senior-living","Bangalore; General Catalyst-backed; email pattern estimated"),
     ("Kites Senior Care","RajaGopal G","Co-Founder & CEO","rajagopal@kitesseniorcare.com","https://in.linkedin.com/company/kites-senior-care","Bangalore; geriatric care; email pattern estimated"),
+    # ── Round 63: Interior design tech founders ───────────────────────────────
+    ("Livspace","Anuj Srivastava","Co-Founder & CEO","anuj@livspace.com","https://in.linkedin.com/company/livspace","Bengaluru unicorn; email pattern estimated"),
+    ("HomeLane","Srikanth B. Iyer","Co-Founder & CEO","srikanth@homelane.com","https://in.linkedin.com/company/homelane","Bengaluru; email pattern estimated"),
+    ("Bonito Designs","Sameer AM","Co-Founder & CEO","sameer@bonitodesigns.com","https://in.linkedin.com/company/bonito-designs","Bengaluru; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
