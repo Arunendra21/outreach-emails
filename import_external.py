@@ -16,6 +16,15 @@ GROWTH_XLSX = "growth-list-free-forever-march-2026.xlsx"  # (1) copy is identica
 out = []
 seen = set()
 
+# Cumulative: keep everything already imported (source files may get moved/deleted)
+if os.path.exists("extra_contacts.csv"):
+    with open("extra_contacts.csv", encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            k = r["Email"].lower()
+            if k not in seen:
+                seen.add(k)
+                out.append([r["Company"], r["Name"], r["Title"], r["Email"], r["LinkedIn"], r["Action"]])
+
 def add(company, name, title, email, linkedin, notes):
     email = (email or "").strip()
     if "@" not in email or " " in email:
@@ -148,6 +157,24 @@ if os.path.exists(rpath):
             add(r.get("prospect_company_name", ""), r.get("prospect_full_name", ""),
                 r.get("prospect_job_title", "")[:80], email,
                 r.get("prospect_linkedin", ""), "; ".join(notes_bits))
+
+# Myntra leadership export (ZoomInfo-style)
+mpath = os.path.join(SRC, "698b7bd1e1a802156d792ce1_1770749556922.csv")
+if os.path.exists(mpath):
+    with open(mpath, encoding="utf-8", errors="replace") as f:
+        for r in csv.DictReader(f):
+            name = " ".join(x for x in [r.get("First Name", ""), r.get("Last Name", "")] if x).strip()
+            notes_bits = ["Myntra leadership list"]
+            if r.get("Email Verification Status", "").strip() == "verified":
+                notes_bits.append("✅ EMAIL VERIFIED")
+            if r.get("City", "").strip():
+                notes_bits.append(r["City"].strip())
+            if r.get("Mobile Number", "").strip():
+                notes_bits.append("Ph: " + r["Mobile Number"].strip())
+            add(r.get("Company", "Myntra"), name, r.get("Title", ""), r.get("Email", ""),
+                r.get("LinkedIn", ""), "; ".join(notes_bits))
+else:
+    print("MISSING:", mpath)
 
 with open("extra_contacts.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.writer(f)
