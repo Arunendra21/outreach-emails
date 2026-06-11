@@ -395,6 +395,11 @@ companies = [
     (340,"iTechNotion","itechnotion.com","AI Agents / Workflow Automation","info@itechnotion.com","contact","Team","—","info@itechnotion.com","https://itechnotion.com/","High","Ahmedabad; AI-native studio building agents for sales/support/HR/ops/finance; email estimated"),
     (341,"Elsner Technologies","elsner.com","Ecommerce / AI / Digital Solutions","info@elsner.com","contact","Tarun Bansal","Key Contact","info@elsner.com","https://www.elsner.com/","High","Navrangpura Ahmedabad (World Center, Ashram Rd); enterprise ecommerce + AI; email estimated"),
     (342,"Sigma Solve","sigmasolve.com","AI / Data / Cloud Engineering","info@sigmasolve.com","contact","Team","—","info@sigmasolve.com","https://www.linkedin.com/company/sigmasolvelimited","High","Ahmedabad; NSE-listed; AI/data/cloud engineering; incorporated 2010; email estimated"),
+    # ── ROUND 46: Ahmedabad data/AI/product companies (5th pass) ──────────────
+    (343,"SculptSoft","sculptsoft.com","AI / Data Analytics / Custom Software","info@sculptsoft.com","contact","Prashant Thakkar","Co-Founder & CEO","prashant@sculptsoft.com","https://www.linkedin.com/in/prashant-thakkar-sculptsoft/","High","Ahmedabad; AI + data analytics + DevSecOps; email pattern estimated"),
+    (344,"Crest Data","crestdata.ai","Data / AI / Security / Observability","info@crestdata.ai","contact","Malhar Shah","Co-Founder & CEO","info@crestdata.ai","https://www.crestdata.ai/about-us/","High","Ahmedabad + San Jose; founded 2013; data analytics + cybersecurity + MLOps for enterprise (Splunk/Cisco partners); Co-founder: Neha Shah; email estimated"),
+    (345,"SoluteLabs","solutelabs.com","Product Dev / Mobile / Web / AI","contactus@solutelabs.com","contact","Karan Shah","Co-Founder & CEO","contactus@solutelabs.com","https://in.linkedin.com/in/prakashdonga8","High","✅ PHONE: +91 79403 90439 — IIM Road Ahmedabad; human-centered product dev; CTO: Prakash Donga (ZoomInfo p***@solutelabs.com)"),
+    (346,"Communication Crafts","communicationcrafts.com","Web / Creative / Remote Developers","info@communicationcrafts.in","contact","Chirag Dagli","Leadership","info@communicationcrafts.in","https://in.linkedin.com/company/communicationcrafts.com","High","Thaltej Ahmedabad (Times Square Grand); since 2005; ACTIVELY HIRING; email estimated"),
 ]
 
 hr_contacts = [
@@ -643,6 +648,10 @@ hr_contacts = [
     ("Vrinsoft Technology","Jay Patel","Founder & CEO","jay@vrinsoft.com","https://uk.linkedin.com/in/jaypatelvrinsoft","✅ DIRECT CEO EMAIL — Ahmedabad; 200+ team; HR: pranav.p@vrinsoft.com"),
     ("Vrinsoft Technology","Pranav P","HR / Hiring","pranav.p@vrinsoft.com","","✅ DIRECT HR EMAIL — confirmed from DevOps hiring post"),
     ("Citrusbug Technolabs","Hiring Team","Recruiting","jobs@citrusbug.co","https://in.linkedin.com/company/citrusbug","✅ DIRECT JOBS EMAIL — Ahmedabad AI dev agency"),
+    # ── Round 46: Ahmedabad data/AI/product contacts (5th pass) ───────────────
+    ("SculptSoft","Prashant Thakkar","Co-Founder & CEO","prashant@sculptsoft.com","https://www.linkedin.com/in/prashant-thakkar-sculptsoft/","Ahmedabad; AI + DevSecOps; email pattern estimated"),
+    ("SoluteLabs","Karan Shah","Co-Founder & CEO","contactus@solutelabs.com","https://www.solutelabs.com/aboutus","✅ PHONE: +91 79403 90439 — IIM Road Ahmedabad"),
+    ("Crest Data","Malhar Shah","Co-Founder & CEO","info@crestdata.ai","https://www.crestdata.ai/about-us/","Ahmedabad + San Jose; enterprise data/AI/security"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
