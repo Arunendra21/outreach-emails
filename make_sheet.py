@@ -378,6 +378,11 @@ companies = [
     # ── ROUND 42: Gandhinagar/Ahmedabad AI-ML service companies ───────────────
     (327,"Tecblic","tecblic.com","AI / ML / Data Science / Computer Vision","info@tecblic.com","contact","Shinoj Nair","Leadership","info@tecblic.com","https://www.linkedin.com/in/shinoj-nair-78267220/","High","✅ PHONE: +91 77779 07777 — Judges Bunglow Road Ahmedabad; AI/ML/deep learning/NLP/computer vision specialists; founded 2021; $70-150/hr shop"),
     (328,"SmartConvo","smartconvo.io","Conversational AI / Enterprise Chatbots","shantilal@smartconvo.io","contact","Shantilal Matariya","Founder & CEO","shantilal@smartconvo.io","https://www.linkedin.com/in/shantilalmatariya/","High","✅ EMAIL FORMAT CONFIRMED [first]@smartconvo.io — Ahmedabad; AI-powered enterprise solutions; founder is NICM Gandhinagar alum"),
+    # ── ROUND 43: Ahmedabad AI-ML service companies (2nd AI pass) ─────────────
+    (329,"Azilen Technologies","azilen.com","Product Engineering / AI / Enterprise","naresh.prajapati@azilen.com","contact","Naresh Prajapati","Co-Founder & CEO","naresh.prajapati@azilen.com","https://in.linkedin.com/company/azilen-technologies","High","✅ DIRECT CEO EMAIL — Iscon-Ambli Road Ahmedabad; founded 2008; 100-250 employees; $63M revenue; Co-founder: Niket Kapadia (CTO)"),
+    (330,"Spectrics Solutions","spectricssolutions.com","AI / ML Development","info@spectricssolutions.com","contact","Team","—","info@spectricssolutions.com","https://www.spectricssolutions.com/services/ai-ml-development/","High","✅ PHONE: +91 90814 31434 — The Capital 2, Science City Ahmedabad; AI & ML development"),
+    (331,"OrcaMinds","orcaminds.in","GenAI / LLM / Computer Vision","info@orcaminds.in","contact","Team","—","info@orcaminds.in","https://orcaminds.in/","High","Ahmedabad; GenAI + LLMs + computer vision + intelligent automation; democratizing AI for SMBs; email estimated"),
+    (332,"Nexgits","nexgits.com","AI / ML / AR-VR Development","info@nexgits.com","contact","Team","—","info@nexgits.com","https://nexgits.com/","High","Ahmedabad; AI/ML + AR/VR + custom software; email estimated"),
 ]
 
 hr_contacts = [
@@ -616,6 +621,9 @@ hr_contacts = [
     # ── Round 42: Gandhinagar/Ahmedabad AI-ML founders ────────────────────────
     ("Tecblic","Shinoj Nair","Leadership","info@tecblic.com","https://www.linkedin.com/in/shinoj-nair-78267220/","✅ PHONE: +91 77779 07777 — Ahmedabad AI/ML/CV shop"),
     ("SmartConvo","Shantilal Matariya","Founder & CEO","shantilal@smartconvo.io","https://www.linkedin.com/in/shantilalmatariya/","✅ [first]@smartconvo.io format confirmed — Ahmedabad conversational AI"),
+    # ── Round 43: Ahmedabad AI-ML founders (2nd AI pass) ──────────────────────
+    ("Azilen Technologies","Naresh Prajapati","Co-Founder & CEO","naresh.prajapati@azilen.com","https://in.linkedin.com/company/azilen-technologies","✅ DIRECT CEO EMAIL — Ahmedabad; $63M revenue; product engineering + AI"),
+    ("Spectrics Solutions","Team","—","info@spectricssolutions.com","https://www.spectricssolutions.com","✅ PHONE: +91 90814 31434 — Science City Ahmedabad"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
