@@ -462,6 +462,14 @@ companies = [
     (391,"HomeLane","homelane.com","Interior Design Tech / Home Improvement","careers@homelane.com","careers","Srikanth B. Iyer","Co-Founder & CEO","srikanth@homelane.com","https://in.linkedin.com/company/homelane","High","Bengaluru; founded 2014; 5 co-founders incl CTO Srini Battula; email pattern estimated"),
     (392,"Bonito Designs","bonitodesigns.com","Interior Design / D2C","info@bonitodesigns.com","contact","Sameer AM","Co-Founder & CEO","sameer@bonitodesigns.com","https://in.linkedin.com/company/bonito-designs","High","Bengaluru; founded 2012; full-home personalized interiors; email pattern estimated"),
     (393,"Zoomcar","zoomcar.com","Car Sharing / Mobility Marketplace","careers@zoomcar.com","careers","Hiring Team","Recruiting","careers@zoomcar.com","https://in.linkedin.com/company/zoomcar-india-pvt-ltd-","Medium","Kodihalli Bangalore; self-drive car sharing marketplace; NASDAQ-listed"),
+    # ── Round 64: Legal AI, Climate tech, Agentic AI, Fashion tech, Supply chain AI, Cybersecurity ──
+    (394,"Lucio AI","lucioai.com","Legal AI / Enterprise LegalTech SaaS","contact@lucioai.com","contact","Vasu Aggarwal","Co-Founder","vasu@lucioai.com","https://in.linkedin.com/in/vasulucio","High","Bengaluru + NYC; $7.7M total; Forbes 30U30; AI workspace for 3000+ lawyers; 200+ orgs; DeVC-backed seed; NLS India law school founders; email pattern estimated"),
+    (395,"OrbitShift","orbitshift.ai","Sales Intelligence AI / Account-Based Sales SaaS","hello@orbitshift.ai","contact","Saurabh Mishra","Co-Founder & CEO","saurabh@orbitshift.ai","https://in.linkedin.com/company/orbitshift-ai","High","Bengaluru; $8.5M PeakXV+Stellaris; B2B sales intelligence for enterprise; ex-McKinsey + Stanford MBA founders; email pattern estimated"),
+    (396,"Devic Earth","devic-earth.com","Climate Tech / Air Pollution Control","contact@devic-earth.com","contact","Srikanth Sola","Founder & CEO","srikanth@devic-earth.com","https://in.linkedin.com/in/srikanth-sola","High","Bengaluru; pulsed radio frequency air pollution reduction tech; Blue Ashva+Axilor-backed; cardiologist-turned-founder; email pattern estimated"),
+    (397,"LatentForce","latentforce.ai","Agentic AI / Legacy Code Migration / Automation","hello@latentforce.ai","contact","Aravind Jayendran","Founder & CEO","aravind@latentforce.ai","https://in.linkedin.com/in/aravind-jayendran-68b21b97","High","Bengaluru; $1.7M seed; AI-driven enterprise code migration + business automation; HIRING SDRs; email pattern estimated"),
+    (398,"Confluxe","confluxe.com","Fashion Tech / Retail Marketplace","info@confluxe.com","contact","Rajesh Narkar","Co-Founder & CEO","rajesh@confluxe.com","https://in.linkedin.com/company/confluxe","Medium","Bengaluru; $1.6M Wavemaker pre-seed (Mar 2026); helping global fashion brands enter India; ex-Myntra+AJIO+H&M execs; email pattern estimated"),
+    (399,"RePut.ai","reput.ai","B2B Supply Chain AI / Blockchain SaaS","info@reput.ai","contact","Anuj Bishnoi","Co-Founder & CEO","anuj@reput.ai","https://in.linkedin.com/company/reput-ai","High","Bengaluru; $1M GrowthCap Ventures pre-seed; supply chain AI + blockchain; ex-BigBasket Morning Cart founder; email pattern estimated"),
+    (400,"Treacle Technologies","treacletech.com","Cybersecurity / Deception Tech / SOC AI","info@treacletech.com","contact","Subhasis Mukhopadhyay","Co-Founder & CEO","subhasis@treacletech.com","https://in.linkedin.com/in/subhasis-mukhopadhyay","High","Bengaluru; INR 4Cr Inflection Point Ventures pre-seed; AI deception tech for SOC efficiency; IIT Kanpur IHub incubated; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -994,6 +1002,16 @@ hr_contacts = [
     ("Livspace","Anuj Srivastava","Co-Founder & CEO","anuj@livspace.com","https://in.linkedin.com/company/livspace","Bengaluru unicorn; email pattern estimated"),
     ("HomeLane","Srikanth B. Iyer","Co-Founder & CEO","srikanth@homelane.com","https://in.linkedin.com/company/homelane","Bengaluru; email pattern estimated"),
     ("Bonito Designs","Sameer AM","Co-Founder & CEO","sameer@bonitodesigns.com","https://in.linkedin.com/company/bonito-designs","Bengaluru; email pattern estimated"),
+    # ── Round 64: Legal AI, Climate, Agentic AI, Fashion tech, Supply chain, Cybersecurity ──
+    ("Lucio AI","Vasu Aggarwal","Co-Founder","vasu@lucioai.com","https://in.linkedin.com/in/vasulucio","Bengaluru + NYC; $7.7M total; Forbes 30U30; 3000+ lawyers; email pattern estimated"),
+    ("Lucio AI","Darsan Guruvayurappan","Co-Founder & CTO","darsan@lucioai.com","https://in.linkedin.com/in/darsan-guruvayurappan","NLS India law co-founder; email pattern estimated"),
+    ("OrbitShift","Saurabh Mishra","Co-Founder & CEO","saurabh@orbitshift.ai","https://in.linkedin.com/company/orbitshift-ai","Bengaluru; $8.5M PeakXV+Stellaris; ex-McKinsey; email pattern estimated"),
+    ("OrbitShift","Swapnil Saykar","Co-Founder (Product & Tech)","swapnil@orbitshift.ai","https://in.linkedin.com/in/swapnil-saykar","Bengaluru; Stanford MBA; ex-Amazon; email pattern estimated"),
+    ("Devic Earth","Srikanth Sola","Founder & CEO","srikanth@devic-earth.com","https://in.linkedin.com/in/srikanth-sola","Bengaluru cleantech; air pollution reduction; email pattern estimated"),
+    ("LatentForce","Aravind Jayendran","Founder & CEO","aravind@latentforce.ai","https://in.linkedin.com/in/aravind-jayendran-68b21b97","Bengaluru; $1.7M seed; agentic code migration; HIRING; email pattern estimated"),
+    ("Confluxe","Rajesh Narkar","Co-Founder & CEO","rajesh@confluxe.com","https://in.linkedin.com/company/confluxe","Bengaluru; $1.6M Wavemaker; ex-Myntra+AJIO; email pattern estimated"),
+    ("RePut.ai","Anuj Bishnoi","Co-Founder & CEO","anuj@reput.ai","https://in.linkedin.com/company/reput-ai","Bengaluru; $1M GrowthCap; supply chain AI; email pattern estimated"),
+    ("Treacle Technologies","Subhasis Mukhopadhyay","Co-Founder & CEO","subhasis@treacletech.com","https://in.linkedin.com/in/subhasis-mukhopadhyay","Bengaluru; INR 4Cr IPV; AI deception cybersecurity; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
