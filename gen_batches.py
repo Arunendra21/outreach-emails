@@ -50,8 +50,13 @@ with open("emails.csv", encoding="utf-8") as f:
             "Notes": r["Notes"][:120],
         })
 
-# Also include every named HR/founder contact so individual people are sendable too
-with open("hr_contacts.csv", encoding="utf-8") as f:
+# Also include every named HR/founder contact so individual people are sendable too,
+# plus externally imported contacts (extra_contacts.csv from import_external.py)
+contact_files = ["hr_contacts.csv"]
+if os.path.exists("extra_contacts.csv"):
+    contact_files.append("extra_contacts.csv")
+for cf in contact_files:
+  with open(cf, encoding="utf-8") as f:
     for r in csv.DictReader(f):
         email = r["Email"].strip()
         if "@" not in email or "(" in email or "*" in email or " " in email:
