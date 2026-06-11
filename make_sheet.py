@@ -409,6 +409,10 @@ companies = [
     (351,"Tatvic Analytics","tatvic.com","Marketing Analytics / AI / ML","info@tatvic.com","contact","Divya Nenwani","Assistant Manager HR","info@tatvic.com","https://in.linkedin.com/company/tatvic","High","✅ NAMED HR CONTACT — Prahladnagar Ahmedabad (Camps Corner 2); AI/ML/BigData analytics; Google partner; founded 2008 by Ravi Pathak; Global CEO: Ruhbir Singh"),
     (352,"Ace Infoway","aceinfoway.com","Web / IT Services","info@aceinfoway.com","contact","Amit Mehta","Founder & CEO","amit@aceinfoway.com","https://www.aceinfoway.com/meet-the-team","High","Ahmedabad HQ + Rajkot + California; 22-year-old IT services firm; email pattern estimated"),
     (353,"Satva Solutions","satvasolutions.com","Accounting Integrations / SaaS Dev","info@satvasolutions.com","contact","Chintan Prajapati","CEO","chintan@satvasolutions.com","https://www.linkedin.com/in/chintanprajapati/","High","Ahmedabad; accounting tech integrations; also founded SyncTools.io; email pattern estimated"),
+    # ── ROUND 49: Ahmedabad software companies (8th pass — thinning) ──────────
+    (354,"Devstree IT Services","devstree.com","Mobile / Cloud / AI Enterprise Software","info@devstree.com","contact","Nirav Joshi","Founder & Director","nirav@devstree.com","https://rocketreach.co/devstree-it-services-pvt-ltd-profile_b45a17e9fc667a47","High","Ahmedabad; 132 employees; mobile + cloud + AI enterprise software; email pattern estimated"),
+    (355,"9Series Solutions","9series.com","Software / Mobile Development","info@9series.com","contact","Team","—","info@9series.com","https://www.linkedin.com/company/9seriesinc","High","Ahmedabad; 12-year-old software dev firm; email estimated"),
+    (356,"Theta Technolabs","thetatechnolabs.in","Software Consulting / Custom Dev","info@thetatechnolabs.in","contact","Team","—","info@thetatechnolabs.in","https://in.linkedin.com/company/theta-technolabs","High","Sarkhej Ahmedabad + Dallas; software consulting + custom dev; founded 2021; email estimated"),
 ]
 
 hr_contacts = [
@@ -669,6 +673,8 @@ hr_contacts = [
     ("Tatvic Analytics","Divya Nenwani","Assistant Manager HR","info@tatvic.com","https://in.linkedin.com/company/tatvic","✅ NAMED HR — Prahladnagar Ahmedabad; AI/ML analytics; Google partner"),
     ("Ace Infoway","Amit Mehta","Founder & CEO","amit@aceinfoway.com","https://www.aceinfoway.com/meet-the-team","Ahmedabad; 22 yrs IT services; email pattern estimated"),
     ("Satva Solutions","Chintan Prajapati","CEO","chintan@satvasolutions.com","https://www.linkedin.com/in/chintanprajapati/","Ahmedabad; accounting integrations; email pattern estimated"),
+    # ── Round 49: Ahmedabad software contacts (8th pass) ──────────────────────
+    ("Devstree IT Services","Nirav Joshi","Founder & Director","nirav@devstree.com","https://rocketreach.co/devstree-it-services-pvt-ltd-profile_b45a17e9fc667a47","Ahmedabad; 132 employees; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
