@@ -449,6 +449,9 @@ companies = [
     # ── ROUND 57: Bangalore Mobile Security / Dev Productivity ────────────────
     (383,"Appknox","appknox.com","Mobile App Security / Cybersecurity","harshit@appknox.com","contact","Harshit Agarwal","Co-Founder & CEO","harshit@appknox.com","https://sg.linkedin.com/company/appknox-security","High","Bangalore; enterprise mobile app security testing; founded 2014; Microsoft Venture Accelerator alum; Co-founder: Subho Halder (CISO); email pattern estimated"),
     (384,"DevDynamics","devdynamics.ai","Engineering Analytics / Dev Productivity","hello@devdynamics.ai","contact","Rishi Saraf","Co-Founder & CEO","rishi@devdynamics.ai","https://in.linkedin.com/company/devdynamics","High","Sarjapur Road Bangalore (Saket Callipolis); engineering insights platform; founded 2022; Co-founder: Pruthviraj Haral; email pattern estimated"),
+    # ── ROUND 58: USER-PROVIDED — Wabtec + Cisco Bengaluru HR/TA lists ────────
+    (385,"Wabtec Corporation","wabtec.com","Rail Tech / Engineering / Software","sdesai@wabtec.com","contact","Sumeeta Desai","Regional Director - Talent Acquisition (APAC)","sdesai@wabtec.com","https://careers.wabtec.com/job/intern-engineering-in-bengaluru-ka-india-jid-2021","High","🎯 ENGINEERING INTERN OPENING IN BENGALURU (careers.wabtec.com jid-2021); 13 named HR/TA/engineering contacts on file; GE Transportation merged entity"),
+    (386,"Cisco (Bengaluru)","cisco.com","Networking / Software / University Hiring","pribhaga@cisco.com","contact","Priyanka Bhagat","Head APJC - Emerging Talent, University Recruiting","pribhaga@cisco.com","https://www.linkedin.com/company/cisco","High","🎯 UNIVERSITY RECRUITING HEAD CONTACT — APJC emerging talent; 14 named HR/TA contacts on file; Bengaluru campus"),
 ]
 
 hr_contacts = [
@@ -746,6 +749,37 @@ hr_contacts = [
     # ── Round 57: Security / Dev productivity founders ────────────────────────
     ("Appknox","Harshit Agarwal","Co-Founder & CEO","harshit@appknox.com","https://sg.linkedin.com/company/appknox-security","Bangalore; mobile security; email pattern estimated"),
     ("DevDynamics","Rishi Saraf","Co-Founder & CEO","rishi@devdynamics.ai","https://in.linkedin.com/company/devdynamics","Sarjapur Bangalore; eng analytics; email pattern estimated"),
+    # ── Round 58: USER-PROVIDED Wabtec Bengaluru HR/TA contacts ───────────────
+    ("Wabtec","Sumeeta Desai","Regional Director - TA (APAC)","sdesai@wabtec.com","","✅ Also sumeetad@gmail.com; Ph: +91 (9.19686E+11 partial); TOP TA CONTACT for intern role"),
+    ("Wabtec (GE Transportation)","Niharika Gupta","HR Business Partnering, C&B, DEI","niharika.gupta@ge.com","","Also uniqueneha30@gmail.com; Ph: +91 (9.1974E+11 partial)"),
+    ("Wabtec","Jagadeesh Kannan","Talent Acquisition Specialist","jagadeesh@microacademy.net","","Ph: +91 (9.1888E+11 partial)"),
+    ("Wabtec","Dakshayini Sathyanarayan","Associate Specialist, HR Operations","dsathyanarayan@wabtec.com","","Also sdakshayini06@gmail.com"),
+    ("Wabtec","Shruthi Ramprasad","HR Professional","sramprasad@wabtec.com","","Also sp1389@gmail.com"),
+    ("Wabtec","Syed Ahmed","Associate Specialist, HR Operations","sahmed@wabtec.com","",""),
+    ("Wabtec","Archita Bhattacharyya","Sr HR Operation Specialist","abhattacharyya@wabtec.com","","Also architabhattacharyya88@gmail.com"),
+    ("Wabtec","Srikant K","Talent Acquisition Specialist","srikantk@outlook.com","","Ph: +91 (9.18802E+11 partial)"),
+    ("Wabtec","Subodh Khadmale","Senior Manager - Software Engineering","skhadmale@wabtec.com","","Also subodh_khadmale@rediffmail.com; referral path"),
+    ("Wabtec","Swarada Vidar","Lead Engineer","svidar@wabtec.com","","Referral path"),
+    ("Wabtec","D. Dinesh Sai Kumar","Software Engineer II","dkumar@wabtec.com","","Also dineshvrsece@gmail.com; referral path"),
+    ("Wabtec","Saiteja Kotra","Software Engineer","skotra@wabtec.com","","Also saiteja5398@gmail.com; referral path"),
+    ("Wabtec","Tanmay Tripathi","Software Development Engineer","ttripathi@wabtec.com","","Also tanmaytripathi25@gmail.com; referral path"),
+    # ── Round 58: USER-PROVIDED Cisco Bengaluru HR/TA contacts ────────────────
+    ("Cisco","Priyanka Bhagat","Head APJC - Emerging Talent, University Recruiting","pribhaga@cisco.com","","✅ TOP CONTACT for internships; also pribhagat@gmail.com; Ph: +91 (9.199E+11 partial)"),
+    ("Cisco","Sujitha Balan","Talent Acquisition Expert","subjalan@cisco.com","","Also sujithaf@gmail.com; Ph: +91 (9.1726E+11 partial)"),
+    ("Cisco","Susan Roach","Assistant HR Ops","susanjroach1998@gmail.com","",""),
+    ("Cisco","Darshana Neog","HR | Talent Advisor APJC Engineering","daneog@cisco.com","","Also darshananeog123@gmail.com; engineering hiring focus"),
+    ("Cisco","Divya Ramachandran","People Consultant","divya.nambiar@yahoo.co.in","","Ph: +91 (9.19008E+11 partial)"),
+    ("Cisco","Asmita Sangamnerkar","Talent Evangelist","asmitaslht@gmail.com","",""),
+    ("Cisco","Arnab Poddar","Leader, Talent Acquisition","arnpodda@cisco.com","","Also h15071@astra.xlri.ac.in; Ph: +91 (9.19606E+11 partial)"),
+    ("Cisco","Bhavna Singh","Human Resources Analyst","bhavnsin@cisco.com","","Also bhavna.singh@joulestowatts.com"),
+    ("Cisco","Gaurav Diwan","Principal Talent Advisor","gauravdiwan3@gmail.com","","Ph: +91 (9.19742E+11 partial)"),
+    ("Cisco","Pooja Meethal","Talent Advisor (CX, APJC)","poojanambiar12@gmail.com","","Ph: +91 (9.19739E+11 partial)"),
+    ("Cisco","Shweta Saraf","Benefits Consultant - India & SAARC","shwetasarafs@gmail.com","","Ph: +91 (9.19886E+11 partial)"),
+    ("Cisco","Dhanush Mohan","Talent Advisor","dhanmoha@cisco.com","","Also dmohan@cisco.com, dhmohan@cisco.com, dhanush_1029@yahoo.com"),
+    ("Cisco","Amrita Kaur","HR Operations | Talent Acquisition","amritaka@cisco.com","","Also akauramrita@gmail.com"),
+    ("(Unspecified)","Arbina Khanum","HR, Talent Acquisition, HR Operations","arbinakhan25@gmail.com","","Company not specified in source"),
+    ("(Unspecified)","Ranjit Vasudevan","HR Leader (Coach)","ranjit_vasudevan@yahoo.com","","Ph: +91 (9.19703E+11 partial)"),
+    ("Ex-Cisco","Azra Khan","HR Specialist | Recruitment","azrama1989@gmail.com","","Former Cisco"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
