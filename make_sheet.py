@@ -405,6 +405,10 @@ companies = [
     (348,"Technostacks Infotech","technostacks.com","Mobile / Web / IoT Development","info@technostacks.com","contact","Hansal Shah","Co-Founder","info@technostacks.com","https://www.linkedin.com/company/technostacks-infotech-pvt-ltd-","High","Navrangpura Ahmedabad (Sun Square, CG Road); founded 2014; name@technostacks.com format confirmed; co-founders: Harshil Parikh, Mrudul Shah"),
     (349,"iCoderz Solutions","icoderzsolutions.com","Custom Software / Mobile Apps","info@icoderzsolutions.com","contact","Ashish Sudra","Founder & CEO","ashish@icoderzsolutions.com","https://in.linkedin.com/company/icoderz-solutions","High","Ahmedabad; custom software + app dev; email pattern estimated"),
     (350,"Radixweb","radixweb.com","Software Development / Enterprise","team@radixweb.com","contact","Leadership Team","—","team@radixweb.com","https://radixweb.com/leadership","High","🎉 COMPANY #350 — Ahmedabad; established software engineering firm (since 2000); email estimated"),
+    # ── ROUND 48: Ahmedabad analytics/IT companies (7th pass) ─────────────────
+    (351,"Tatvic Analytics","tatvic.com","Marketing Analytics / AI / ML","info@tatvic.com","contact","Divya Nenwani","Assistant Manager HR","info@tatvic.com","https://in.linkedin.com/company/tatvic","High","✅ NAMED HR CONTACT — Prahladnagar Ahmedabad (Camps Corner 2); AI/ML/BigData analytics; Google partner; founded 2008 by Ravi Pathak; Global CEO: Ruhbir Singh"),
+    (352,"Ace Infoway","aceinfoway.com","Web / IT Services","info@aceinfoway.com","contact","Amit Mehta","Founder & CEO","amit@aceinfoway.com","https://www.aceinfoway.com/meet-the-team","High","Ahmedabad HQ + Rajkot + California; 22-year-old IT services firm; email pattern estimated"),
+    (353,"Satva Solutions","satvasolutions.com","Accounting Integrations / SaaS Dev","info@satvasolutions.com","contact","Chintan Prajapati","CEO","chintan@satvasolutions.com","https://www.linkedin.com/in/chintanprajapati/","High","Ahmedabad; accounting tech integrations; also founded SyncTools.io; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -661,6 +665,10 @@ hr_contacts = [
     ("Softices","HR Team","HR Manager","hr@softices.com","https://www.linkedin.com/company/softices","✅ DIRECT HR EMAIL + PHONE: +91 90814 44933 — Sola Ahmedabad"),
     ("Technostacks Infotech","Hansal Shah","Co-Founder","info@technostacks.com","https://www.linkedin.com/company/technostacks-infotech-pvt-ltd-","Navrangpura Ahmedabad; name@technostacks.com format"),
     ("iCoderz Solutions","Ashish Sudra","Founder & CEO","ashish@icoderzsolutions.com","https://in.linkedin.com/company/icoderz-solutions","Ahmedabad; email pattern estimated"),
+    # ── Round 48: Ahmedabad analytics/IT contacts (7th pass) ──────────────────
+    ("Tatvic Analytics","Divya Nenwani","Assistant Manager HR","info@tatvic.com","https://in.linkedin.com/company/tatvic","✅ NAMED HR — Prahladnagar Ahmedabad; AI/ML analytics; Google partner"),
+    ("Ace Infoway","Amit Mehta","Founder & CEO","amit@aceinfoway.com","https://www.aceinfoway.com/meet-the-team","Ahmedabad; 22 yrs IT services; email pattern estimated"),
+    ("Satva Solutions","Chintan Prajapati","CEO","chintan@satvasolutions.com","https://www.linkedin.com/in/chintanprajapati/","Ahmedabad; accounting integrations; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
