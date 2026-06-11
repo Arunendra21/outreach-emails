@@ -454,6 +454,9 @@ companies = [
     (386,"Cisco (Bengaluru)","cisco.com","Networking / Software / University Hiring","pribhaga@cisco.com","contact","Priyanka Bhagat","Head APJC - Emerging Talent, University Recruiting","pribhaga@cisco.com","https://www.linkedin.com/company/cisco","High","🎯 UNIVERSITY RECRUITING HEAD CONTACT — APJC emerging talent; 14 named HR/TA contacts on file; Bengaluru campus"),
     # ── ROUND 60: Bangalore Drone Delivery ────────────────────────────────────
     (387,"Airbound","airbound.co","Drone Delivery / Medical Logistics / DeepTech","hello@airbound.co","contact","Naman Pushp","Founder & CEO","naman@airbound.co","https://in.linkedin.com/company/airbound","High","Bengaluru; $10M+ funded (Lightspeed + Humba + Tesla/Anduril leaders); blended-wing drones; Narayana Health contract; 700+ flights zero failures; 20-yr-old founder; email pattern estimated"),
+    # ── ROUND 62: Bangalore Elder Care / Senior Living ────────────────────────
+    (388,"Primus Senior Living","primuslife.in","Elder Care / Senior Living / HealthTech","info@primuslife.in","contact","Adarsh Narahari","Founder & CEO","adarsh@primuslife.in","https://in.linkedin.com/company/primus-senior-living","High","Vittal Mallya Road Bangalore; General Catalyst-backed; luxury senior living communities; email pattern estimated"),
+    (389,"Kites Senior Care","kitesseniorcare.com","Elder Care / Geriatric Health","info@kitesseniorcare.com","contact","RajaGopal G","Co-Founder & CEO","rajagopal@kitesseniorcare.com","https://in.linkedin.com/company/kites-senior-care","High","Bangalore; geriatric care centers; Co-founder: Dr. Reema Nadig (COO); email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -979,6 +982,9 @@ hr_contacts = [
     ("Altimetrik","Rohit Sharma","Sr Software Engineer (Salesforce)","rsharma@altimetrik.com","https://linkedin.com/in/rohit-sharma-791972b1","alt rohitjisharma20@gmail.com"),
     ("Urban Company","Shaleen Maheshwari","SDE-II","shaleenm98@gmail.com","https://linkedin.com/in/shaleen-maheshwari-10393015b","BITS Pilani; referral path"),
     ("mavQ","Shanu Sharma (alt)","Lead ML Engineer (personal)","shanusharma0006@gmail.com","https://linkedin.com/in/shanu-sharma-a01659190","personal email of mavQ ML lead"),
+    # ── Round 62: Elder care founders ─────────────────────────────────────────
+    ("Primus Senior Living","Adarsh Narahari","Founder & CEO","adarsh@primuslife.in","https://in.linkedin.com/company/primus-senior-living","Bangalore; General Catalyst-backed; email pattern estimated"),
+    ("Kites Senior Care","RajaGopal G","Co-Founder & CEO","rajagopal@kitesseniorcare.com","https://in.linkedin.com/company/kites-senior-care","Bangalore; geriatric care; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
