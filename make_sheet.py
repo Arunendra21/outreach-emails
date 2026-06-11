@@ -375,6 +375,9 @@ companies = [
     (324,"Logistic Infotech","logisticinfotech.com","Logistics IT / Web / Mobile Dev","info@logisticinfotech.com","contact","Chintan Adatiya","Co-Founder & CEO","info@logisticinfotech.com","https://www.logisticinfotech.com/company/our-team/","High","✅ PHONE: +91 99746 99270 — Vijay Cross Road Ahmedabad + Rajkot; 12+ yrs; Co-founder: Alpesh Harsoda (MD)"),
     (325,"Tridhya Tech","tridhyatech.com","Digital Transformation / Enterprise Dev","info@tridhyatech.com","contact","Ramesh Marand","Founder, MD & CEO","ramesh.m@shaligraminfotech.com","https://in.linkedin.com/in/rameshahir","High","Bopal Ahmedabad (One World West); NSE-listed; ₹150-250Cr revenue; founded 2018; alt CEO email via Shaligram Infotech"),
     (326,"Stridely Solutions","stridelysolutions.com","SAP / Enterprise IT Consulting","career@stridelysolutions.com","careers","Kunal Shah","CEO","yjshah@stridelysolutions.com","https://in.linkedin.com/company/stridelysolutions","High","✅ DIRECT CAREERS EMAIL + PHONES: +91 90545 99361 / +91 79491 96111 — Bodakdev Ahmedabad; Great Place to Work certified; director email yjshah@ verified"),
+    # ── ROUND 42: Gandhinagar/Ahmedabad AI-ML service companies ───────────────
+    (327,"Tecblic","tecblic.com","AI / ML / Data Science / Computer Vision","info@tecblic.com","contact","Shinoj Nair","Leadership","info@tecblic.com","https://www.linkedin.com/in/shinoj-nair-78267220/","High","✅ PHONE: +91 77779 07777 — Judges Bunglow Road Ahmedabad; AI/ML/deep learning/NLP/computer vision specialists; founded 2021; $70-150/hr shop"),
+    (328,"SmartConvo","smartconvo.io","Conversational AI / Enterprise Chatbots","shantilal@smartconvo.io","contact","Shantilal Matariya","Founder & CEO","shantilal@smartconvo.io","https://www.linkedin.com/in/shantilalmatariya/","High","✅ EMAIL FORMAT CONFIRMED [first]@smartconvo.io — Ahmedabad; AI-powered enterprise solutions; founder is NICM Gandhinagar alum"),
 ]
 
 hr_contacts = [
@@ -610,6 +613,9 @@ hr_contacts = [
     ("Logistic Infotech","Chintan Adatiya","Co-Founder & CEO","info@logisticinfotech.com","https://www.logisticinfotech.com/company/our-team/","✅ PHONE: +91 99746 99270 — Ahmedabad + Rajkot"),
     ("Tridhya Tech","Ramesh Marand","Founder, MD & CEO","ramesh.m@shaligraminfotech.com","https://in.linkedin.com/in/rameshahir","Bopal Ahmedabad; NSE-listed; ₹150-250Cr revenue"),
     ("Stridely Solutions","Kunal Shah","CEO","career@stridelysolutions.com","https://in.linkedin.com/company/stridelysolutions","✅ CAREERS EMAIL + PHONES: +91 90545 99361 / +91 79491 96111 — Bodakdev Ahmedabad"),
+    # ── Round 42: Gandhinagar/Ahmedabad AI-ML founders ────────────────────────
+    ("Tecblic","Shinoj Nair","Leadership","info@tecblic.com","https://www.linkedin.com/in/shinoj-nair-78267220/","✅ PHONE: +91 77779 07777 — Ahmedabad AI/ML/CV shop"),
+    ("SmartConvo","Shantilal Matariya","Founder & CEO","shantilal@smartconvo.io","https://www.linkedin.com/in/shantilalmatariya/","✅ [first]@smartconvo.io format confirmed — Ahmedabad conversational AI"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
