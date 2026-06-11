@@ -428,6 +428,11 @@ companies = [
     (366,"AlphaICs","alphaics.ai","AI Chips / Edge AI Compute","info@alphaics.ai","contact","Pradeep Vajram","CEO & Executive Chairman","info@alphaics.ai","https://theorg.com/org/alphaics/org-chart/pradeep-vajram","High","Bangalore + USA; AI compute chips (NVIDIA competitor ambition); 25+ yrs ASIC experience; COO: Sanjay Palsamudram"),
     (367,"Maieutic Semiconductor","maieutic.ai","GenAI Chip Design / EDA","info@maieutic.ai","contact","Team","—","info@maieutic.ai","https://www.indianstartuptimes.com/investment/bengalurus-maieutic-semiconductor-raises-4-15m-to-revolutionize-chip-design-with-generative-ai/","High","Bengaluru; $4.15M raised; generative AI for chip design; email estimated"),
     (368,"Supertails","supertails.com","Pet Care / E-commerce / Telehealth","support@supertails.com","contact","Varun Sadana","Co-Founder","varun@supertails.com","https://www.linkedin.com/in/vsadana/","High","Indiranagar Bangalore; pet care platform + first offline clinic (Feb 2025); HIRING; Co-founders: Aman Tekriwal, Vineet Khanna; email pattern estimated"),
+    # ── ROUND 53: Bangalore Language AI / Health & Wellness AI ────────────────
+    (369,"Ultrahuman","ultrahuman.com","Wearables / Metabolic Health / AI","mohit@ultrahuman.com","contact","Mohit Kumar","Co-Founder & CEO","mohit@ultrahuman.com","https://www.linkedin.com/in/mohitkumar89/","High","✅ DIRECT CEO EMAIL + PHONE: +91 99029 26311 — Bengaluru; Ultrahuman Ring AIR maker; Co-founder: Vatsal Singhal; ex-Runnr/Zomato founders"),
+    (370,"Reverie Language Technologies","reverieinc.com","Language AI / Translation / Voice","info@reverieinc.com","contact","Arvind Pani","Co-Founder & CEO","arvind@reverieinc.com","https://www.crunchbase.com/person/arvind-pani","High","Bangalore; Indian language AI (translation/localization/voice); Reliance-acquired; Co-founders: SK Mohanty, Vivekananda Pani; email pattern estimated"),
+    (371,"HealthifyMe","healthifyme.com","Health AI / Fitness / Nutrition","support@healthifyme.com","contact","Tushar Vashisht","Co-Founder & CEO","tushar@healthifyme.com","https://in.linkedin.com/in/tusharvashisht","High","Bengaluru; $45M Khosla-led round; AI coach Ria; 35M+ users; Co-founders: Mathew Cherian, Sachin Shenoy; email pattern estimated"),
+    (372,"Wysa","wysa.com","Mental Health AI / Chatbot","contact@wysa.com","contact","Jo Aggarwal","Co-Founder & CEO","jo@wysa.com","https://www.linkedin.com/company/wysa-ai","High","Bangalore + London + Boston; AI mental health chatbot; clinically validated; FDA breakthrough device designation; Co-founder: Ramakant Vempati; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -704,6 +709,11 @@ hr_contacts = [
     ("Calligo Technologies","Anantha Kinnal","Co-Founder & CEO","anantha@calligotech.com","https://rocketreach.co/anantha-kinnal-email_24359082","Jayanagar Bangalore; POSIT silicon; email pattern estimated"),
     ("AlphaICs","Pradeep Vajram","CEO & Executive Chairman","info@alphaics.ai","https://theorg.com/org/alphaics/org-chart/pradeep-vajram","Bangalore; AI compute chips"),
     ("Supertails","Varun Sadana","Co-Founder","varun@supertails.com","https://www.linkedin.com/in/vsadana/","Indiranagar Bangalore; pet care; HIRING; email pattern estimated"),
+    # ── Round 53: Language AI / Health & Wellness founders ────────────────────
+    ("Ultrahuman","Mohit Kumar","Co-Founder & CEO","mohit@ultrahuman.com","https://www.linkedin.com/in/mohitkumar89/","✅ DIRECT CEO EMAIL + PHONE: +91 99029 26311 — Bengaluru wearables"),
+    ("Reverie Language","Arvind Pani","Co-Founder & CEO","arvind@reverieinc.com","https://www.crunchbase.com/person/arvind-pani","Bangalore; Indian language AI; Reliance-owned; email pattern estimated"),
+    ("HealthifyMe","Tushar Vashisht","Co-Founder & CEO","tushar@healthifyme.com","https://in.linkedin.com/in/tusharvashisht","Bengaluru; 35M+ users; AI health coach; email pattern estimated"),
+    ("Wysa","Jo Aggarwal","Co-Founder & CEO","jo@wysa.com","https://www.linkedin.com/company/wysa-ai","Bangalore; mental health AI; FDA breakthrough designation; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
