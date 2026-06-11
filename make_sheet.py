@@ -400,6 +400,11 @@ companies = [
     (344,"Crest Data","crestdata.ai","Data / AI / Security / Observability","info@crestdata.ai","contact","Malhar Shah","Co-Founder & CEO","info@crestdata.ai","https://www.crestdata.ai/about-us/","High","Ahmedabad + San Jose; founded 2013; data analytics + cybersecurity + MLOps for enterprise (Splunk/Cisco partners); Co-founder: Neha Shah; email estimated"),
     (345,"SoluteLabs","solutelabs.com","Product Dev / Mobile / Web / AI","contactus@solutelabs.com","contact","Karan Shah","Co-Founder & CEO","contactus@solutelabs.com","https://in.linkedin.com/in/prakashdonga8","High","✅ PHONE: +91 79403 90439 — IIM Road Ahmedabad; human-centered product dev; CTO: Prakash Donga (ZoomInfo p***@solutelabs.com)"),
     (346,"Communication Crafts","communicationcrafts.com","Web / Creative / Remote Developers","info@communicationcrafts.in","contact","Chirag Dagli","Leadership","info@communicationcrafts.in","https://in.linkedin.com/company/communicationcrafts.com","High","Thaltej Ahmedabad (Times Square Grand); since 2005; ACTIVELY HIRING; email estimated"),
+    # ── ROUND 47: Ahmedabad web/app companies with HR contacts (6th pass) ─────
+    (347,"Softices","softices.com","Web / Mobile / IT Consultancy","hr@softices.com","careers","HR Team","HR Manager","hr@softices.com","https://www.linkedin.com/company/softices","High","✅ DIRECT HR EMAIL + PHONE: +91 90814 44933 — Science City Road, Sola Ahmedabad; jobs at softices.com/jobs"),
+    (348,"Technostacks Infotech","technostacks.com","Mobile / Web / IoT Development","info@technostacks.com","contact","Hansal Shah","Co-Founder","info@technostacks.com","https://www.linkedin.com/company/technostacks-infotech-pvt-ltd-","High","Navrangpura Ahmedabad (Sun Square, CG Road); founded 2014; name@technostacks.com format confirmed; co-founders: Harshil Parikh, Mrudul Shah"),
+    (349,"iCoderz Solutions","icoderzsolutions.com","Custom Software / Mobile Apps","info@icoderzsolutions.com","contact","Ashish Sudra","Founder & CEO","ashish@icoderzsolutions.com","https://in.linkedin.com/company/icoderz-solutions","High","Ahmedabad; custom software + app dev; email pattern estimated"),
+    (350,"Radixweb","radixweb.com","Software Development / Enterprise","team@radixweb.com","contact","Leadership Team","—","team@radixweb.com","https://radixweb.com/leadership","High","🎉 COMPANY #350 — Ahmedabad; established software engineering firm (since 2000); email estimated"),
 ]
 
 hr_contacts = [
@@ -652,6 +657,10 @@ hr_contacts = [
     ("SculptSoft","Prashant Thakkar","Co-Founder & CEO","prashant@sculptsoft.com","https://www.linkedin.com/in/prashant-thakkar-sculptsoft/","Ahmedabad; AI + DevSecOps; email pattern estimated"),
     ("SoluteLabs","Karan Shah","Co-Founder & CEO","contactus@solutelabs.com","https://www.solutelabs.com/aboutus","✅ PHONE: +91 79403 90439 — IIM Road Ahmedabad"),
     ("Crest Data","Malhar Shah","Co-Founder & CEO","info@crestdata.ai","https://www.crestdata.ai/about-us/","Ahmedabad + San Jose; enterprise data/AI/security"),
+    # ── Round 47: Ahmedabad HR contacts (6th pass) ────────────────────────────
+    ("Softices","HR Team","HR Manager","hr@softices.com","https://www.linkedin.com/company/softices","✅ DIRECT HR EMAIL + PHONE: +91 90814 44933 — Sola Ahmedabad"),
+    ("Technostacks Infotech","Hansal Shah","Co-Founder","info@technostacks.com","https://www.linkedin.com/company/technostacks-infotech-pvt-ltd-","Navrangpura Ahmedabad; name@technostacks.com format"),
+    ("iCoderz Solutions","Ashish Sudra","Founder & CEO","ashish@icoderzsolutions.com","https://in.linkedin.com/company/icoderz-solutions","Ahmedabad; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
