@@ -422,6 +422,12 @@ companies = [
     (361,"Pocket FM","pocketfm.com","Audio Series / Entertainment / AI","care@pocketfm.in","contact","Rohan Nayak","Co-Founder & CEO","rohan@pocketfm.in","https://in.linkedin.com/in/rohan-nayak","High","Koramangala Bangalore (Indiqube Royal Arcade); audio series platform; $196M+ funded (Lightspeed + Stepstone); Co-founders: Prateek Dixit (CTO), Nishanth S; email pattern estimated"),
     (362,"Kuku FM","kukufm.com","Audio Learning / Entertainment","support@kukufm.com","contact","Lal Chand Bisu","Co-Founder & CEO","lalchand@kukufm.com","https://in.linkedin.com/company/kukufm","High","✅ PHONE: 079 4910 7812 — HSR Layout Bengaluru (Urban Vault 262); Google + Fundamentum backed; Co-founders: Vinod Kumar Meena, Vikas Goyal; email pattern estimated"),
     (363,"EatFit (Curefoods)","eatfit.in","Food Tech / Cloud Kitchen","info@eatfit.in","contact","Ankit Nagori","Founder","info@eatfit.in","https://in.linkedin.com/in/ankitnagori","High","Hosur Road Bengaluru; internet-first healthy food brand; founder is ex-Flipkart CBO + Cult.fit co-founder; part of Curefoods; email estimated"),
+    # ── ROUND 52: Bangalore Semiconductors / Pet Care ─────────────────────────
+    (364,"Saankhya Labs","saankhyalabs.com","Semiconductors / 5G / SatCom Chips","info@saankhyalabs.com","contact","Parag Naik","Co-Founder & CEO","parag@saankhyalabs.com","https://in.linkedin.com/company/saankhya-labs-pvt.-ltd.","High","Infantry Road Bangalore (Embassy Icon); India's first fabless semiconductor co; 5G NR + D2M broadcast chips; acquired by Tejas Networks; Co-founders: Vishwakumara Kayargadde (COO), Hemant Mallapur; email pattern estimated"),
+    (365,"Calligo Technologies","calligotech.com","Fabless Semiconductor / HPC / AI","info@calligotech.com","contact","Anantha Kinnal","Co-Founder & CEO","anantha@calligotech.com","https://in.linkedin.com/company/calligo-technologies","High","Jayanagar Bangalore; $1.1M for POSIT-based silicon chip; HPC + BigData + AI/ML; ZoomInfo r***@calligotech.com (co-founder Rajaraman); email pattern estimated"),
+    (366,"AlphaICs","alphaics.ai","AI Chips / Edge AI Compute","info@alphaics.ai","contact","Pradeep Vajram","CEO & Executive Chairman","info@alphaics.ai","https://theorg.com/org/alphaics/org-chart/pradeep-vajram","High","Bangalore + USA; AI compute chips (NVIDIA competitor ambition); 25+ yrs ASIC experience; COO: Sanjay Palsamudram"),
+    (367,"Maieutic Semiconductor","maieutic.ai","GenAI Chip Design / EDA","info@maieutic.ai","contact","Team","—","info@maieutic.ai","https://www.indianstartuptimes.com/investment/bengalurus-maieutic-semiconductor-raises-4-15m-to-revolutionize-chip-design-with-generative-ai/","High","Bengaluru; $4.15M raised; generative AI for chip design; email estimated"),
+    (368,"Supertails","supertails.com","Pet Care / E-commerce / Telehealth","support@supertails.com","contact","Varun Sadana","Co-Founder","varun@supertails.com","https://www.linkedin.com/in/vsadana/","High","Indiranagar Bangalore; pet care platform + first offline clinic (Feb 2025); HIRING; Co-founders: Aman Tekriwal, Vineet Khanna; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -693,6 +699,11 @@ hr_contacts = [
     ("Pocket FM","Rohan Nayak","Co-Founder & CEO","rohan@pocketfm.in","https://in.linkedin.com/in/rohan-nayak","Koramangala Bangalore; $196M+ funded audio platform; email pattern estimated"),
     ("Kuku FM","Lal Chand Bisu","Co-Founder & CEO","lalchand@kukufm.com","https://in.linkedin.com/company/kukufm","✅ PHONE: 079 4910 7812 — HSR Bengaluru; email pattern estimated"),
     ("EatFit (Curefoods)","Ankit Nagori","Founder","info@eatfit.in","https://in.linkedin.com/in/ankitnagori","Bengaluru; ex-Flipkart CBO; Cult.fit co-founder"),
+    # ── Round 52: Semiconductor / Pet care founders ───────────────────────────
+    ("Saankhya Labs","Parag Naik","Co-Founder & CEO","parag@saankhyalabs.com","https://rocketreach.co/parag-naik-email_22793748","Bangalore; India's first fabless semi co; email pattern estimated"),
+    ("Calligo Technologies","Anantha Kinnal","Co-Founder & CEO","anantha@calligotech.com","https://rocketreach.co/anantha-kinnal-email_24359082","Jayanagar Bangalore; POSIT silicon; email pattern estimated"),
+    ("AlphaICs","Pradeep Vajram","CEO & Executive Chairman","info@alphaics.ai","https://theorg.com/org/alphaics/org-chart/pradeep-vajram","Bangalore; AI compute chips"),
+    ("Supertails","Varun Sadana","Co-Founder","varun@supertails.com","https://www.linkedin.com/in/vsadana/","Indiranagar Bangalore; pet care; HIRING; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
