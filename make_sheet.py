@@ -442,6 +442,10 @@ companies = [
     (377,"NewSpace Research & Technologies","newspace.co.in","Defense / UAV Swarms / Drones","sameer@newspace.co.in","contact","Sameer Joshi","Founder & CEO","sameer@newspace.co.in","https://in.linkedin.com/company/newspacert","High","Sahakar Nagar Bengaluru; UAV swarm tech for Indian Air Force; ZoomInfo confirmed s***@newspace.co.in; ex-IAF fighter pilot CEO"),
     (378,"KOGO AI","kogo.ai","AI Agents / Agent Store / Full-Stack AI","info@kogo.ai","contact","Raj K Gopalakrishnan","Co-Founder & CEO","raj@kogo.ai","https://in.linkedin.com/company/kogo-ai","High","Bengaluru; AI Agent Store launched 2024; full-stack AI OS; Co-founder: Praveer Kochhar; email pattern estimated"),
     (379,"Potpie AI","potpie.ai","AI Code Agents / DevTools","hello@potpie.ai","contact","Aditi Kothari","Co-Founder & CEO","aditi@potpie.ai","https://www.linkedin.com/in/aditi-kothari","High","Bangalore; custom AI agents for codebases; open source; email pattern estimated"),
+    # ── ROUND 56: Bangalore Mixed Reality / Spatial / Logistics SaaS ──────────
+    (380,"Flam","flamapp.ai","Mixed Reality / AI Advertising","shourya@flamapp.com","contact","Shourya Agarwal","Co-Founder & CEO","shourya@flamapp.com","https://theorg.com/org/flam/org-chart/shourya-agarwal","High","Bengaluru (tech/design/marketing) + SF; $14M funded; AI-native mixed reality ads; BITS Pilani trio; Co-founders: Malhar Patil (COO), Amit Gaiki (CTO); email pattern estimated"),
+    (381,"Fabrik","fabrik.space","Spatial Computing / 3D / Digital Twins","hello@fabrik.space","contact","Puneet Badrinath","Co-Founder & CEO","puneet@fabrik.space","https://in.linkedin.com/company/fabrikspace","High","Bangalore; spatial OS for 3D apps + digital twins; Co-founder: James Selvam; email pattern estimated"),
+    (382,"ClickPost","clickpost.ai","Logistics Intelligence / SaaS","prashant@clickpost.in","contact","Prashant Gupta","Co-Founder","prashant@clickpost.in","https://in.linkedin.com/company/clickpost","High","Bangalore; logistics intelligence platform (post-purchase experience); IIT alumni founders; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -732,6 +736,10 @@ hr_contacts = [
     ("NewSpace Research","Sameer Joshi","Founder & CEO","sameer@newspace.co.in","https://in.linkedin.com/company/newspacert","Bengaluru; UAV swarms; ZoomInfo s***@newspace.co.in confirmed"),
     ("KOGO AI","Raj K Gopalakrishnan","Co-Founder & CEO","raj@kogo.ai","https://in.linkedin.com/company/kogo-ai","Bengaluru; AI agent store; email pattern estimated"),
     ("Potpie AI","Aditi Kothari","Co-Founder & CEO","aditi@potpie.ai","https://www.linkedin.com/in/aditi-kothari","Bangalore; AI code agents; email pattern estimated"),
+    # ── Round 56: MR / Spatial / Logistics founders ───────────────────────────
+    ("Flam","Shourya Agarwal","Co-Founder & CEO","shourya@flamapp.com","https://theorg.com/org/flam/org-chart/shourya-agarwal","Bengaluru; $14M mixed reality; BITS Pilani; email pattern estimated"),
+    ("Fabrik","Puneet Badrinath","Co-Founder & CEO","puneet@fabrik.space","https://in.linkedin.com/company/fabrikspace","Bangalore; spatial computing; email pattern estimated"),
+    ("ClickPost","Prashant Gupta","Co-Founder","prashant@clickpost.in","https://in.linkedin.com/company/clickpost","Bangalore; logistics SaaS; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
