@@ -437,6 +437,11 @@ companies = [
     (373,"QpiAI","qpiai.tech","Quantum Computing / AI / DeepTech","info@qpiai.tech","contact","Nagendra Nagaraja","Founder, CEO & Chairman","nagendra@qpiai.tech","https://in.linkedin.com/in/nagendranagaraja","High","Bengaluru; $32M Series A (National Quantum Mission + Avataar); built QpiAI-Indus (India's 1st full-stack 25-qubit quantum computer); ex-Nvidia/Qualcomm; ACTIVELY HIRING (Instahyre + qpiai.tech/careers); email pattern estimated"),
     (374,"Quintype Technologies","quintype.com","Media Tech / CMS / SaaS","sales@quintype.com","contact","Chirdeep Shetty","CEO","chirdeep@quintype.com","https://in.linkedin.com/company/quintype","High","Bangalore; digital publishing CMS (Bloomberg Quint etc.); founded 2014; Co-founder: Amit Rathore; email pattern estimated"),
     (375,"Glance (InMobi)","glance.com","Lock Screen Content / AI / Media","careers@glance.com","careers","Naveen Tewari","Co-Founder & CEO","careers@glance.com","https://in.linkedin.com/company/glancescreen","High","Cessna Business Park Bangalore; 200M+ daily users; InMobi group unicorn; Co-founders: Abhay Singhal, Mohit Saxena, Piyush Shah"),
+    # ── ROUND 55: Bangalore Defense Tech / AI Agents ──────────────────────────
+    (376,"Tonbo Imaging","tonboimaging.com","Defense / Thermal Imaging / Computer Vision","info@tonboimaging.com","contact","Arvind Lakshmikumar","Founder & CEO","arvind@tonboimaging.com","https://in.linkedin.com/in/arvindlakshmikumar","High","Sarjapur Road Bangalore; advanced imaging for defense (US + Israeli weapon systems); 15-yr journey; IPO-bound; Co-founders: Ankit Kumar, Sudeep George, Cecilia Dsouza; email pattern estimated"),
+    (377,"NewSpace Research & Technologies","newspace.co.in","Defense / UAV Swarms / Drones","sameer@newspace.co.in","contact","Sameer Joshi","Founder & CEO","sameer@newspace.co.in","https://in.linkedin.com/company/newspacert","High","Sahakar Nagar Bengaluru; UAV swarm tech for Indian Air Force; ZoomInfo confirmed s***@newspace.co.in; ex-IAF fighter pilot CEO"),
+    (378,"KOGO AI","kogo.ai","AI Agents / Agent Store / Full-Stack AI","info@kogo.ai","contact","Raj K Gopalakrishnan","Co-Founder & CEO","raj@kogo.ai","https://in.linkedin.com/company/kogo-ai","High","Bengaluru; AI Agent Store launched 2024; full-stack AI OS; Co-founder: Praveer Kochhar; email pattern estimated"),
+    (379,"Potpie AI","potpie.ai","AI Code Agents / DevTools","hello@potpie.ai","contact","Aditi Kothari","Co-Founder & CEO","aditi@potpie.ai","https://www.linkedin.com/in/aditi-kothari","High","Bangalore; custom AI agents for codebases; open source; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -722,6 +727,11 @@ hr_contacts = [
     ("QpiAI","Nagendra Nagaraja","Founder, CEO & Chairman","nagendra@qpiai.tech","https://in.linkedin.com/in/nagendranagaraja","Bengaluru; $32M quantum+AI; HIRING; ex-Nvidia; email pattern estimated"),
     ("Quintype","Chirdeep Shetty","CEO","chirdeep@quintype.com","https://in.linkedin.com/company/quintype","Bangalore; publishing CMS; email pattern estimated"),
     ("Glance (InMobi)","Careers Team","Recruiting","careers@glance.com","https://glance.com/us/careers","Bangalore; 200M+ daily users; InMobi unicorn"),
+    # ── Round 55: Defense / AI agents founders ────────────────────────────────
+    ("Tonbo Imaging","Arvind Lakshmikumar","Founder & CEO","arvind@tonboimaging.com","https://in.linkedin.com/in/arvindlakshmikumar","Sarjapur Bangalore; defense imaging; email pattern estimated"),
+    ("NewSpace Research","Sameer Joshi","Founder & CEO","sameer@newspace.co.in","https://in.linkedin.com/company/newspacert","Bengaluru; UAV swarms; ZoomInfo s***@newspace.co.in confirmed"),
+    ("KOGO AI","Raj K Gopalakrishnan","Co-Founder & CEO","raj@kogo.ai","https://in.linkedin.com/company/kogo-ai","Bengaluru; AI agent store; email pattern estimated"),
+    ("Potpie AI","Aditi Kothari","Co-Founder & CEO","aditi@potpie.ai","https://www.linkedin.com/in/aditi-kothari","Bangalore; AI code agents; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
