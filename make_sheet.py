@@ -383,6 +383,12 @@ companies = [
     (330,"Spectrics Solutions","spectricssolutions.com","AI / ML Development","info@spectricssolutions.com","contact","Team","—","info@spectricssolutions.com","https://www.spectricssolutions.com/services/ai-ml-development/","High","✅ PHONE: +91 90814 31434 — The Capital 2, Science City Ahmedabad; AI & ML development"),
     (331,"OrcaMinds","orcaminds.in","GenAI / LLM / Computer Vision","info@orcaminds.in","contact","Team","—","info@orcaminds.in","https://orcaminds.in/","High","Ahmedabad; GenAI + LLMs + computer vision + intelligent automation; democratizing AI for SMBs; email estimated"),
     (332,"Nexgits","nexgits.com","AI / ML / AR-VR Development","info@nexgits.com","contact","Team","—","info@nexgits.com","https://nexgits.com/","High","Ahmedabad; AI/ML + AR/VR + custom software; email estimated"),
+    # ── ROUND 44: Ahmedabad AI/web-service companies (3rd AI pass) ────────────
+    (333,"WebClues Infotech","webcluesinfotech.com","AI Web / Mobile App Development","ayush@webcluesinfotech.com","contact","Ayush Kanodia","Founder & CEO","ayush@webcluesinfotech.com","https://www.webcluesinfotech.com/our-team/","High","Ahmedabad; AI-driven web/app dev; email format name@webcluesinfotech.com confirmed"),
+    (334,"Softvan","softvan.com","AI / ML / Big Data / IoT / Cloud","info@softvan.com","contact","Team","—","info@softvan.com","https://www.easyleadz.com/company/softvan","High","Sigma Legacy, IIM Road Ahmedabad; ML/AI/BigData/IoT specialists; email estimated"),
+    (335,"Whitelotus Corporation","whitelotuscorporation.com","Web / Mobile Development","info@whitelotuscorporation.com","contact","Team","—","info@whitelotuscorporation.com","https://rocketreach.co/whitelotus-corporation-profile_b5e3e8bdf42e6eda","High","Ahmedabad; 33 employees; software dev & design; email estimated"),
+    (336,"Agile Infoways","agileinfoways.com","AI Engineering / Enterprise Software","info@agileinfoways.com","contact","Ronak Shah","CEO","ronak@agileinfoways.com","https://www.agileinfoways.com/our-story/","High","Ahmedabad; since 2006; 900+ clients in 30+ countries; AI-powered enterprise software; COO: Vimal Shah; email pattern estimated"),
+    (337,"Concetto Labs","concettolabs.com","Web / Mobile / AI Development","info@concettolabs.com","contact","Manish Patel","Director","info@concettolabs.com","https://in.linkedin.com/company/concetto-labs","High","Ahmedabad; established 2014; email estimated"),
 ]
 
 hr_contacts = [
@@ -624,6 +630,9 @@ hr_contacts = [
     # ── Round 43: Ahmedabad AI-ML founders (2nd AI pass) ──────────────────────
     ("Azilen Technologies","Naresh Prajapati","Co-Founder & CEO","naresh.prajapati@azilen.com","https://in.linkedin.com/company/azilen-technologies","✅ DIRECT CEO EMAIL — Ahmedabad; $63M revenue; product engineering + AI"),
     ("Spectrics Solutions","Team","—","info@spectricssolutions.com","https://www.spectricssolutions.com","✅ PHONE: +91 90814 31434 — Science City Ahmedabad"),
+    # ── Round 44: Ahmedabad AI/web-service founders (3rd AI pass) ─────────────
+    ("WebClues Infotech","Ayush Kanodia","Founder & CEO","ayush@webcluesinfotech.com","https://rocketreach.co/ayush-kanodia-email_15183006","Ahmedabad; AI web/app dev; name@webcluesinfotech.com format confirmed"),
+    ("Agile Infoways","Ronak Shah","CEO","ronak@agileinfoways.com","https://www.agileinfoways.com/our-story/","Ahmedabad; AI engineering since 2006; 900+ clients; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
