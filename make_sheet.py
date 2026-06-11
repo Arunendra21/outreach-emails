@@ -418,6 +418,10 @@ companies = [
     (358,"Cleartrip","cleartrip.com","Travel Tech / OTA / Flipkart Group","jobs@cleartrip.com","careers","Ayyappan R","CEO","jobs@cleartrip.com","https://in.linkedin.com/company/cleartrip","High","✅ DIRECT JOBS EMAIL — Bannerghatta Road Bangalore (91Springboard); Flipkart-owned OTA; also contact@cleartrip.com"),
     (359,"Machaxi","machaxi.com","Sports Tech / AI Coaching","info@machaxi.com","contact","Pratish Raj","Co-Founder & CEO","pratish@machaxi.com","https://in.linkedin.com/company/machaxi","High","Bengaluru; tech-enabled sports coaching (badminton/swimming); founded 2019; Co-founders: Tushar Raj, Ashish Anand; email pattern estimated"),
     (360,"StanceBeam","stancebeam.com","Sports Tech / Cricket IoT / Analytics","info@stancebeam.com","contact","Arminder Thind","Co-Founder & CEO","arminder@stancebeam.com","https://in.linkedin.com/company/stancebeam","High","Bengaluru; smart cricket bat sensor + video analytics; founded 2017; Co-founder: Ishwinder Pal Singh; email pattern estimated"),
+    # ── ROUND 51: Bangalore Audio Tech / Food Tech ────────────────────────────
+    (361,"Pocket FM","pocketfm.com","Audio Series / Entertainment / AI","care@pocketfm.in","contact","Rohan Nayak","Co-Founder & CEO","rohan@pocketfm.in","https://in.linkedin.com/in/rohan-nayak","High","Koramangala Bangalore (Indiqube Royal Arcade); audio series platform; $196M+ funded (Lightspeed + Stepstone); Co-founders: Prateek Dixit (CTO), Nishanth S; email pattern estimated"),
+    (362,"Kuku FM","kukufm.com","Audio Learning / Entertainment","support@kukufm.com","contact","Lal Chand Bisu","Co-Founder & CEO","lalchand@kukufm.com","https://in.linkedin.com/company/kukufm","High","✅ PHONE: 079 4910 7812 — HSR Layout Bengaluru (Urban Vault 262); Google + Fundamentum backed; Co-founders: Vinod Kumar Meena, Vikas Goyal; email pattern estimated"),
+    (363,"EatFit (Curefoods)","eatfit.in","Food Tech / Cloud Kitchen","info@eatfit.in","contact","Ankit Nagori","Founder","info@eatfit.in","https://in.linkedin.com/in/ankitnagori","High","Hosur Road Bengaluru; internet-first healthy food brand; founder is ex-Flipkart CBO + Cult.fit co-founder; part of Curefoods; email estimated"),
 ]
 
 hr_contacts = [
@@ -685,6 +689,10 @@ hr_contacts = [
     ("Cleartrip","Hiring Team","Recruiting","jobs@cleartrip.com","https://in.linkedin.com/company/cleartrip","✅ DIRECT JOBS EMAIL — Bangalore; Flipkart-owned"),
     ("Machaxi","Pratish Raj","Co-Founder & CEO","pratish@machaxi.com","https://in.linkedin.com/company/machaxi","Bengaluru; AI sports coaching; email pattern estimated"),
     ("StanceBeam","Arminder Thind","Co-Founder & CEO","arminder@stancebeam.com","https://in.linkedin.com/company/stancebeam","Bengaluru; cricket IoT sensor; email pattern estimated"),
+    # ── Round 51: Audio/Food tech founders ────────────────────────────────────
+    ("Pocket FM","Rohan Nayak","Co-Founder & CEO","rohan@pocketfm.in","https://in.linkedin.com/in/rohan-nayak","Koramangala Bangalore; $196M+ funded audio platform; email pattern estimated"),
+    ("Kuku FM","Lal Chand Bisu","Co-Founder & CEO","lalchand@kukufm.com","https://in.linkedin.com/company/kukufm","✅ PHONE: 079 4910 7812 — HSR Bengaluru; email pattern estimated"),
+    ("EatFit (Curefoods)","Ankit Nagori","Founder","info@eatfit.in","https://in.linkedin.com/in/ankitnagori","Bengaluru; ex-Flipkart CBO; Cult.fit co-founder"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
