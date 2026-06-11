@@ -413,6 +413,11 @@ companies = [
     (354,"Devstree IT Services","devstree.com","Mobile / Cloud / AI Enterprise Software","info@devstree.com","contact","Nirav Joshi","Founder & Director","nirav@devstree.com","https://rocketreach.co/devstree-it-services-pvt-ltd-profile_b45a17e9fc667a47","High","Ahmedabad; 132 employees; mobile + cloud + AI enterprise software; email pattern estimated"),
     (355,"9Series Solutions","9series.com","Software / Mobile Development","info@9series.com","contact","Team","—","info@9series.com","https://www.linkedin.com/company/9seriesinc","High","Ahmedabad; 12-year-old software dev firm; email estimated"),
     (356,"Theta Technolabs","thetatechnolabs.in","Software Consulting / Custom Dev","info@thetatechnolabs.in","contact","Team","—","info@thetatechnolabs.in","https://in.linkedin.com/company/theta-technolabs","High","Sarkhej Ahmedabad + Dallas; software consulting + custom dev; founded 2021; email estimated"),
+    # ── ROUND 50: BANGALORE resumed — Travel Tech / Sports Tech ───────────────
+    (357,"Headout","headout.com","Travel Experiences / Marketplace","varun@headout.com","contact","Varun Khona","Co-Founder & CEO","varun@headout.com","https://www.linkedin.com/in/varunkhona/","High","Bellandur Bangalore; global travel experiences marketplace; Co-founders: Suren Sultania (COO), Vikram Jit Singh (CTO); email pattern estimated"),
+    (358,"Cleartrip","cleartrip.com","Travel Tech / OTA / Flipkart Group","jobs@cleartrip.com","careers","Ayyappan R","CEO","jobs@cleartrip.com","https://in.linkedin.com/company/cleartrip","High","✅ DIRECT JOBS EMAIL — Bannerghatta Road Bangalore (91Springboard); Flipkart-owned OTA; also contact@cleartrip.com"),
+    (359,"Machaxi","machaxi.com","Sports Tech / AI Coaching","info@machaxi.com","contact","Pratish Raj","Co-Founder & CEO","pratish@machaxi.com","https://in.linkedin.com/company/machaxi","High","Bengaluru; tech-enabled sports coaching (badminton/swimming); founded 2019; Co-founders: Tushar Raj, Ashish Anand; email pattern estimated"),
+    (360,"StanceBeam","stancebeam.com","Sports Tech / Cricket IoT / Analytics","info@stancebeam.com","contact","Arminder Thind","Co-Founder & CEO","arminder@stancebeam.com","https://in.linkedin.com/company/stancebeam","High","Bengaluru; smart cricket bat sensor + video analytics; founded 2017; Co-founder: Ishwinder Pal Singh; email pattern estimated"),
 ]
 
 hr_contacts = [
@@ -675,6 +680,11 @@ hr_contacts = [
     ("Satva Solutions","Chintan Prajapati","CEO","chintan@satvasolutions.com","https://www.linkedin.com/in/chintanprajapati/","Ahmedabad; accounting integrations; email pattern estimated"),
     # ── Round 49: Ahmedabad software contacts (8th pass) ──────────────────────
     ("Devstree IT Services","Nirav Joshi","Founder & Director","nirav@devstree.com","https://rocketreach.co/devstree-it-services-pvt-ltd-profile_b45a17e9fc667a47","Ahmedabad; 132 employees; email pattern estimated"),
+    # ── Round 50: Bangalore travel/sports tech founders ───────────────────────
+    ("Headout","Varun Khona","Co-Founder & CEO","varun@headout.com","https://www.linkedin.com/in/varunkhona/","Bellandur Bangalore; travel marketplace; email pattern estimated"),
+    ("Cleartrip","Hiring Team","Recruiting","jobs@cleartrip.com","https://in.linkedin.com/company/cleartrip","✅ DIRECT JOBS EMAIL — Bangalore; Flipkart-owned"),
+    ("Machaxi","Pratish Raj","Co-Founder & CEO","pratish@machaxi.com","https://in.linkedin.com/company/machaxi","Bengaluru; AI sports coaching; email pattern estimated"),
+    ("StanceBeam","Arminder Thind","Co-Founder & CEO","arminder@stancebeam.com","https://in.linkedin.com/company/stancebeam","Bengaluru; cricket IoT sensor; email pattern estimated"),
 ]
 
 headers = ["#","Company","Website","Category","General Contact Email","Email Type","HR Person Name","HR Person Title","HR Person Direct Email","LinkedIn Profile","Priority","Notes"]
