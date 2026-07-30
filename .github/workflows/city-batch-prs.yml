@@ -1,0 +1,132 @@
+name: City outreach batches (staggered PRs)
+
+# Runs entirely on GitHub's cloud servers (no laptop required).
+# Each fire opens ONE pull request to the upstream repo for the next pending
+# city, using the deterministic add_<slug>_batch.py scripts. Four staggered
+# schedule times ~2.5h apart give four staggered PRs; once every city has a
+# file upstream or an open PR, later runs no-op.
+#
+# Requires ONE repo secret: GH_PAT — a Personal Access Token (classic: repo /
+# public_repo scope, or fine-grained with Contents + Pull requests) belonging
+# to the fork owner. GITHUB_TOKEN cannot open cross-fork PRs, hence the PAT.
+
+on:
+  schedule:
+    - cron: "56 15 * * *"   # ~21:26 IST -> next pending city
+    - cron: "26 18 * * *"   # ~23:56 IST -> next pending city
+    - cron: "56 20 * * *"   # ~02:26 IST -> next pending city
+    - cron: "26 23 * * *"   # ~04:56 IST -> next pending city
+  workflow_dispatch:
+    inputs:
+      city:
+        description: "City slug (blank = next pending). One of: udaipur ajmer bikaner bhilwara"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: city-outreach-batches
+  cancel-in-progress: false
+
+env:
+  UPSTREAM: eeshsaxena/outreach-emails
+  FORK_OWNER: Arunendra21
+  CITY_ORDER: "udaipur ajmer bikaner bhilwara"
+
+jobs:
+  batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Verify GH_PAT secret is configured
+        id: guard
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "${GH_PAT}" ]; then
+            echo "::warning::GH_PAT secret not set; skipping run. Add a PAT named GH_PAT to enable PR automation."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout fork (contains the batch scripts)
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      - name: Pick next pending city
+        id: pick
+        if: steps.guard.outputs.ready == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          REQ: ${{ github.event.inputs.city }}
+        run: |
+          set -euo pipefail
+          declare -A NAME=( [udaipur]=Udaipur [ajmer]=Ajmer [bikaner]=Bikaner [bhilwara]=Bhilwara )
+          pick=""
+          for slug in $CITY_ORDER; do
+            if [ -n "${REQ}" ] && [ "${REQ}" != "$slug" ]; then continue; fi
+            [ -f "add_${slug}_batch.py" ] || { echo "no script for $slug"; continue; }
+            if gh api "repos/${UPSTREAM}/contents/city_${slug}_01.csv" >/dev/null 2>&1; then
+              echo "city_${slug}_01.csv already exists upstream; skipping $slug"; continue
+            fi
+            if gh pr list --repo "${UPSTREAM}" --state open --json headRefName --jq '.[].headRefName' \
+                 | grep -qx "data/${slug}-batch"; then
+              echo "open PR already exists for $slug; skipping"; continue
+            fi
+            pick="$slug"; break
+          done
+          if [ -z "$pick" ]; then
+            echo "No pending city — nothing to do."
+            echo "slug=" >> "$GITHUB_OUTPUT"
+          else
+            echo "Picked: $pick (${NAME[$pick]})"
+            echo "slug=$pick" >> "$GITHUB_OUTPUT"
+            echo "name=${NAME[$pick]}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.pick.outputs.slug != ''
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate CSV on a clean upstream base, commit, open PR
+        if: steps.pick.outputs.slug != ''
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          SLUG: ${{ steps.pick.outputs.slug }}
+          CITY: ${{ steps.pick.outputs.name }}
+        run: |
+          set -euo pipefail
+          # Copy the generator out before switching to the clean upstream base,
+          # so the PR branch contains ONLY the new city CSV.
+          cp "add_${SLUG}_batch.py" "${RUNNER_TEMP}/gen.py"
+
+          git config user.name "${FORK_OWNER}"
+          git config user.email "Arunt@dciphers.com"
+          git remote add upstream "https://github.com/${UPSTREAM}.git" 2>/dev/null || true
+          git fetch upstream --quiet
+          BRANCH="data/${SLUG}-batch"
+          git checkout -B "$BRANCH" upstream/master
+
+          python "${RUNNER_TEMP}/gen.py"
+
+          # Validate: 7 columns per row, no duplicate emails.
+          python3 -c "import csv,sys; rows=list(csv.reader(open(sys.argv[1],newline=''))); assert all(len(r)==7 for r in rows if r),'col mismatch'; e=[r[2].strip().lower() for r in rows[1:] if len(r)>2]; assert len(e)==len(set(e)),'dup emails'; print('validated',sys.argv[1],len(rows)-1,'rows')" "city_${SLUG}_01.csv"
+
+          N=$(grep -c '^,' "city_${SLUG}_01.csv")
+          git add "city_${SLUG}_01.csv"
+          git commit -m "data(${SLUG}): add ${N} verified ${CITY} company contacts to city_${SLUG}_01.csv"
+          git push origin "$BRANCH" --force
+
+          gh pr create --repo "${UPSTREAM}" --base master --head "${FORK_OWNER}:${BRANCH}" \
+            --title "data(${SLUG}): add ${N} verified ${CITY} company contacts to city_${SLUG}_01.csv" \
+            --body "$(printf '### What does this PR change?\nAdds city_%s_01.csv with %s verified outreach contacts for %s, Rajasthan.\n\n### Which issue(s) does it fix?\nN/A — data contribution.\n\n### How was it tested?\n- Every email validated against the CONTRIBUTING email regex (in add_%s_batch.py)\n- Deduplicated within the file\n- Each address verified as printed on the company website and its domain MX-checked at authoring time\n- CSV generated by the committed script; workflow re-checks 7 columns/row and no duplicate emails\n\nFirms serving the city from another HQ are labelled with their HQ in the Notes column.\n' "$SLUG" "$N" "$CITY" "$SLUG")" \
+            || echo "PR create skipped (already exists?)."
