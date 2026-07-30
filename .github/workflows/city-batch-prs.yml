@@ -110,7 +110,7 @@ jobs:
           cp "add_${SLUG}_batch.py" "${RUNNER_TEMP}/gen.py"
 
           git config user.name "${FORK_OWNER}"
-          git config user.email "Arunt@dciphers.com"
+          git config user.email "156455722+Arunendra21@users.noreply.github.com"
           git remote add upstream "https://github.com/${UPSTREAM}.git" 2>/dev/null || true
           git fetch upstream --quiet
           BRANCH="data/${SLUG}-batch"
