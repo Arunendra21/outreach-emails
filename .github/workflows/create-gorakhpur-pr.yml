@@ -1,0 +1,30 @@
+name: Scheduled PR - Gorakhpur IT Batch
+
+on:
+  schedule:
+    # 08:30 UTC = 14:00 IST on July 31 2026
+    - cron: '30 8 31 7 *'
+  workflow_dispatch: {}   # allow manual trigger if needed
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Pull Request from fork to upstream
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh pr create \
+            --repo eeshsaxena/outreach-emails \
+            --title "data(gorakhpur): add 12 verified Gorakhpur IT company contacts" \
+            --body "Added verified IT company emails for Gorakhpur UP to city_gorakhpur_01.csv and extra_contacts.csv. Regenerated sequential batch files." \
+            --head "Arunendra21:data/gorakhpur-it-batch" \
+            --base master
+
+      - name: Disable this workflow after successful run
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh workflow disable "Scheduled PR - Gorakhpur IT Batch" \
+            --repo Arunendra21/outreach-emails || true
